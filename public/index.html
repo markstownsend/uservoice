@@ -4,295 +4,223 @@
 <head>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
     <style type="text/css">
-        .rex {
-            border-style: solid;
-            border-width: 1px;
+        
+        /*.chart {
+            fill: red;
+        }
+        
+        .chart text {
+            fill: white;
             font: 10px sans-serif;
-            shape-rendering: crispEdges;
+            text-anchor: end;
+        }
+        
+        .bar.ipad {fill: orange;}
+        .bar.android {fill: green;}
+        .bar.desktop {fill: blue;}*/
+        
+        .node {
+          cursor: pointer;
+        }
+        
+        .node:hover {
+          stroke: black;
+          stroke-width: 1.5px;
+        }
+        
+        .node--leaf {
+          fill: grey;
+        }
+        
+        .label {
+          font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
+          text-anchor: middle;
+          text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
         }
 
-        .tex {
-            font-family: sans-serif;
-            font-size: 10px;
-            fill: black;
-            text-anchor: start;
+        /*.label*/
+        .node--root,
+        .node--leaf {
+          pointer-events: none;
         }
 
-        .axis text {
-            font: 10px sans-serif;
-        }
-
-        .axis path,
-        .axis line {
-            fill: none;
-            stroke: none;
-            shape-rendering: crispEdges;
-        }
-
-        .q0-9 {
-            border-style: solid;
-            border-width: 1px;
-            stroke: rgb(255,0,0);
-            fill: rgba(247, 251, 255, 0.2);
-        }
-
-        .q1-9 {
-            border-style: solid;
-            border-width: 1px;
-            stroke: rgb(255,0,0);
-            fill: rgb(222,235,247);
-        }
-
-        .q2-9 {
-            border-style: solid;
-            border-width: 1px;
-            stroke: rgb(255,0,0);
-            fill: rgb(198,219,239);
-        }
-
-        .q3-9 {
-            border-style: solid;
-            border-width: 1px;
-            stroke: rgb(255,0,0);
-            fill: rgb(158,202,225);
-        }
-
-        .q4-9 {
-            border-style: solid;
-            border-width: 1px;
-            stroke: rgb(255,0,0);
-            fill: rgb(107,174,214);
-        }
-
-        .q5-9 {
-            border-style: solid;
-            border-width: 1px;
-            stroke: rgb(255,0,0);
-            fill: rgb(66,146,198);
-        }
-
-        .q6-9 {
-            border-style: solid;
-            border-width: 1px;
-            stroke: rgb(0,255,100);
-            fill: rgba(33,113,181,.2);
-        }
-
-        .q7-9 {
-            border-style: solid;
-            border-width: 1px;
-            stroke: rgb(0,255,125);
-            fill: rgba(8,81,156,0.2);
-        }
-
-        .q8-9 {
-            border-style: solid;
-            border-width: 1px;
-            stroke: rgb(255,0,0);
-            fill: rgb(8,48,107);
-        }
     </style>
 </head>
 <body>
+    <!--<svg class="chart"></svg> -->
     <script>
-        var maxRow = 1048576;
-        //var maxRow = 10000;
-        //var maxCol = 1000;
-        var maxCol = 16384;
-        var margin = {top: 20, right: 20, bottom: 30, left: 40};
-        var width = 800 - margin.left - margin.right;
-        var height = 800 - margin.top - margin.bottom;
 
-        var ds = {
-            "type": "temporalBindingCollection",
-            "temporalBindings": []
-        };
+//----------------------------BAR CHART -----------------------------------
+        // var margin = {top: 20, right: 20, bottom: 30, left: 40};
+        // var width = 600 - margin.left - margin.right;
+      // //var height = 600 - margin.top - margin.bottom;
+        // var barHeight = 20;
 
-        function getExcelColumnName(columnNumber){
-            var dividend = columnNumber;
-            var columnName = "";
-            var modulo;
-            while (dividend > 0)
-            {
-                modulo = (dividend - 1) % 26;
-                columnName = String.fromCharCode(65 + modulo).toString() + columnName;
-                dividend = Math.floor((dividend - modulo) / 26);
-            }
-            return  columnName;
-        }
+        // var data;
+ 
+        // var x = d3.scale.linear()
+        //     .domain([1,50])
+        //     .range([1,500]);
+            
+        // var chart = d3.select(".chart")
+        //     .attr("width", width)
+                    
+        // d3.json('data.json', function(error, json){
+        //     if(error) return console.warn(error);
+        //     data=json.ideas;
+        //     console.log(data);
+        //     chart.attr("height", barHeight * data.length);
+        //     var bar = chart.selectAll("g")
+        //         .data(data)
+        //     .enter().append("g")
+        //         .attr("transform", function(d, i) { return "translate(0," + i * barHeight + ")"; });
+                
+        //     bar.append("rect")
+        //         .attr("width", function(d) { return x(d.votes); })
+        //         .attr("height", barHeight - 1)
+        //         .attr("class", function(d) {return "bar " + d.subject;})
+                
+        //     bar.append("text")
+        //         .attr("x", function(d) { return x(d.votes) - 3; })
+        //         .attr("y", barHeight / 2)
+        //         .attr("dy", ".35em")
+        //         .text(function(d) { return d.title; })
+        //         .on("click", function(d) {window.open(d.url);});
+       // });
+//------------------------------- BAR CHART END --------------------------------
 
-        function getA1Address(randomTopLeftCol, randomTopLeftRow, randomRowCount, randomColCount){
-          var address = "";
-          var startCol = getExcelColumnName(randomTopLeftCol);
-          var startRow = randomTopLeftRow.toString();
-          var endCol = getExcelColumnName(randomTopLeftCol + randomColCount);
-          var endRow = (randomTopLeftRow + randomRowCount).toString();
-          address = startCol + startRow + ":" + endCol + endRow;
-          return address;
-        }
+//------------------------------- BUBBLE CHART ---------------------------------
+//        var diameter = 960,
+//         format = d3.format(".d"),
+//         color = d3.scale.category10();
+        
+//        var bubble = d3.layout.pack()
+//             .sort(d3.descending)
+//             .size([diameter, diameter])
+//             .padding(1.5);
+            
+//        var svg = d3.select("body").append("svg")
+//         .attr("width", diameter)
+//         .attr("height", diameter)
+//         .attr("class", "bubble");
+        
+//         d3.json("data2.json", function(error, root){
+//             if(error) throw error;
+//             //var data = json.ideas;
+//             var node = svg.selectAll(".node")
+//                 .data(bubble.nodes(classes(root))
+//                 .filter(function(d) { return !d.children;}))
+//               .enter().append("g")
+//                 .attr("class", "node")
+//                 .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+           
+//            node.append("title")
+//             .text(function(d)  { return d.name; });
+            
+//            node.append("circle")
+//                 .attr("r", function(d) { return d.value; })
+//                 .style("fill", function(d) { return color(d.subject);})
+//                 .on("click", function(d){window.open(d.link)});
+                
+//           node.append("text")
+//                 .attr("dy", ".3em")
+//                 .style("text-anchor", "middle")
+//                 .text(function(d) { return d.value + ": " + d.name});     
+            
+//         });
+       
+//        // Returns a flattened hierarchy containing all leaf nodes under the root.
+// function classes(root) {
+//   var classes = [];
 
-        function createTemporalBinding(index){
-            var temporalBinding = {
-              "timeCreated": Date(),
-              "coordinates": {}
-            };
+//   function recurse(name, node) {
+//     if (node.children) node.children.forEach(function(child) { recurse(node.name, child); });
+//     else classes.push({subject: name, name: node.name, value: node.votes, link: node.url});
+//   }
 
-            // xl constrained random row
-            var randomTopLeftRow = Math.floor((Math.random() * maxRow) + 1);
-            // xl constrained random row extent
-            var randomRowCount = Math.min((maxRow - randomTopLeftRow), Math.floor((Math.random() * (maxRow - randomTopLeftRow))+1));
-            // xl constrained random column;
-            var randomTopLeftCol = Math.floor((Math.random() * maxCol) + 1);
-            // xl constrained random column extent;
-            var randomColCount = Math.min((maxCol - randomTopLeftCol), Math.floor((Math.random() * (maxCol - randomTopLeftCol))+1));
+//   recurse(null, root);
+//   return {children: classes};
+// }
 
-            temporalBinding.coordinates.x = randomTopLeftCol;
-            temporalBinding.coordinates.y = randomTopLeftRow;
-            temporalBinding.coordinates.w = randomColCount;
-            temporalBinding.coordinates.h = randomRowCount;
+//d3.select(self.frameElement).style("height", diameter + "px");
+//----------------------------------- BUBBLE CHART END ----------------------------------
 
-            console.log(temporalBinding);
-            temporalBinding.a1Address = getA1Address(randomTopLeftCol, randomTopLeftRow, randomRowCount, randomColCount);
-            return temporalBinding;
-        }
+var margin= 20,
+  diameter = 960;
+  
+var color = d3.scale.linear()
+  .domain([[-1,5]])
+  .range(["hsl(152,80%,80%)", "hsl(228,30%,40%)"])
+  .interpolate(d3.interpolateHcl);
+  
+var pack = d3.layout.pack()
+  .padding(2)
+  .size([diameter - margin, diameter - margin])
+  .value(function(d) { return d.votes; });
+    
+var svg = d3.select("body").append("svg")
+  .attr("width", diameter)
+  .attr("height", diameter)
+.append("g")
+  .attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
 
-        //var i = 0;
-        //for(i=0;i<10;i++){
-        //  ds.temporalBindings.push(createTemporalBinding(i));
-        //}
+d3.json("data2.json", function(error, root) {
+  if(error) throw error;
+  
+  var focus = root,
+    nodes = pack.nodes(root),
+    view;
+    
+  var circle = svg.selectAll("circle")
+    .data(nodes)
+  .enter().append("circle")
+    .attr("class", function(d) { return d.parent ? d.children ? "node" : "node node--leaf" : "node node--root";})
+    .style("fill", function(d) { return d.children ? color(d.depth) : null; })
+    .on("click", function(d) { if (focus !== d) zoom(d), d3.event.stopPropagation(); });
+    
+  var text = svg.selectAll("text")
+    .data(nodes)
+  .enter().append("text")
+    .attr("class", "label")
+    .style("fill-opacity", function(d) { return d.parent === root ? 1 : 0; })
+    .style("display", function(d) { return d.parent === root ? null : "none";})
+    .text(function(d) { return d.name; })
+    .on("click", function(d){ window.open(d.url); });
+    
+ var node = svg.selectAll("circle,text");
+ 
+ d3.select("body")
+  .style("background", color(-1))
+  .on("click", function() { zoom(root); });
+  
+zoomTo([root.x, root.y, root.r * 2 + margin]);
 
-        var temporalBinding = {
-            "timeCreated": Date(),
-              "coordinates": {
-                "x": 1,
-                "y": 1,
-                "w": 20,
-                "h": 10
-              },
-            "a1Address": "Sheet1!A1:T10"
-        };
-        var temporalBinding2 = {
-            "timeCreated": Date(),
-              "coordinates": {
-                "x": 1,
-                "y": 1,
-                "w": 5,
-                "h": 15
-              },
-            "a1Address": "Sheet2!A1:E15"
-        };
-        var temporalBinding3 = {
-            "timeCreated": Date(),
-              "coordinates": {
-                "x": 1,
-                "y": 1,
-                "w": 20,
-                "h": 15
-              },
-            "a1Address": "Workbook A1:T15"
-        };
+function zoom(d) {
+    var focus0 = focus; focus = d;
+    
+    var transition = d3.transition()
+      .duration(d3.event.altKey ? 7500 : 750)
+      .tween("zoom", function(d) {
+        var i = d3.interpolateZoom(view, [focus.x, focus.y, focus.r * 2 + margin]);
+        return function(t) { zoomTo(i(t)); };
+      });
+      
+   transition.selectAll("text")
+    .filter(function(d) { return d.parent === focus || this.style.display === "inline"; })
+      .style("fill-opacity", function(d) { return d.parent === focus ? 1 : 0; })
+      .each("start", function(d) { if (d.parent === focus) this.style.display = "inline"; })
+      .each("end", function(d) { if (d.parent !== focus) this.style.display = "none"; });
+      
+}
+  
+function zoomTo(v) {
+  var k = diameter / v[2]; view = v;
+  node.attr("transform", function(d) { return "translate(" + (d.x - v[0]) * k + "," + (d.y - v[1]) * k + ")"; });
+  circle.attr("r", function(d) { return d.r * k; });
+}
+});
 
-        ds.temporalBindings.push(temporalBinding);
-        ds.temporalBindings.push(temporalBinding2);
-        ds.temporalBindings.push(temporalBinding3);
-
-
-        console.log(ds);
-
-        function quantize(h, w) {
-            //return "q" + Math.min(8, ~~(d * 9 / 12)) + "-9";
-            if ((h + w) == 35) {
-                return "q0-9";
-            } else if ((h + w) == 30) {
-                return "q6-9";
-            } else {
-                return "q7-9";
-            }
-            //return "q" + Math.floor((Math.random() * 8) + 1) + "-9";
-        }
-
-        var x = d3.scale.linear()
-            .range([0, width])
-            //.domain([1, 30]);
-            .domain([1,maxCol]);
-            //.domain([0,d3.max(ds.temporalBindings, function(d) {return d.coordinates.x + d.coordinates.w;})]);
-
-        var y = d3.scale.linear()
-            .range([0, height])
-            //.domain([1, 40]);
-            .domain([1,maxRow]);
-            //.domain([d3.max(ds.temporalBindings, function(d) { return d.coordinates.y + d.coordinates.h;}),0]);
-
-        var xAxis = d3.svg.axis()
-                .scale(x)
-                .orient("top")
-                .ticks(10)
-                .tickSize(0.2);
-
-        var yAxis = d3.svg.axis()
-                .scale(y)
-                .orient("left")
-                .ticks(10)
-                .tickSize(1);
-
-        var zoom = d3.behavior.zoom()
-            .scaleExtent([1, 10])
-            .on("zoom", zoomed);
-
-        var svg = d3.select("body").append("svg")
-            .attr("class","rex")
-            .attr("width",width + margin.left + margin.right)
-            .attr("height",height  + margin.top + margin.bottom)
-        .append("g")
-            .attr("transform", "translate(" + (margin.left  + margin.right) + "," + margin.top + ")")
-            .call(zoom);
-
-        var container = svg.append("g");
-
-        var rex = container.append("g")
-            .selectAll("rect")
-                .data(ds.temporalBindings);
-
-        rex.exit().remove();
-        rex.enter().append("rect")
-                .attr("x", function(d) {return x(d.coordinates.x);})
-                .attr("y", function(d) {return y(d.coordinates.y);})
-                .attr("width", function(d){return x(d.coordinates.w);})
-                .attr("height", function(d){return y(d.coordinates.h);})
-                .attr("class", function(d){return quantize(d.coordinates.h, d.coordinates.w);});
-
-        var rect = svg.append("rect")
-            .attr("width", width)
-            .attr("height", height)
-            .style("fill", "none")
-            .style("pointer-events", "all");
-
-
-         var tex = container.append("g")
-            .selectAll("text")
-                .data(ds.temporalBindings);
-
-         tex.exit().remove();
-         tex.enter().append("text")
-                .text(function(d){return d.a1Address;})
-                .attr("x", function(d){return x(d.coordinates.x);})
-                .attr("y", function(d){return y(d.coordinates.y);})
-                .attr("class","tex");
-
-        container.append("g")
-            .attr("class", "x axis")
-            .call(xAxis);
-
-        container.append("g")
-            .attr("class", "y axis")
-            .call(yAxis);
-
-        function zoomed(){
-            svg.select("x axis").call(xAxis);
-            svg.select("y axis").call(yAxis);
-            container.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
-        }
-
+d3.select(self.frameElement).style("height", diameter + "px");
 
     </script>
 </body>
