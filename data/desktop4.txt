@@ -1,0 +1,3177 @@
+<!DOCTYPE html>
+<html lang="en" class="ltr">
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+  <meta charset="utf-8">
+  <title>Excel for Windows (Desktop Application) (169 ideas) – Welcome to Excel&#39;s Suggestion Box!</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="aYGo37kcUHXeBlg2vhr58ydQCZP5r9pPtENDJCu3iA0=" name="csrf-token" />
+  <link rel="P3Pv1" href="/w3c/p3p.xml">
+
+    <link rel="canonical" href="https://excel.uservoice.com/forums/304921-excel-for-windows-desktop-application" />
+
+    <script type="text/javascript">
+    (function(window) {
+      var methods = ['log', 'dir', 'trace'];
+      
+      if (typeof window.console === 'undefined') {
+        window.console = {};
+      }
+      
+      for (var i in methods) {
+        if (!(methods[i] in window.console)) {          
+          window.console[methods[i]] = function() {};
+        }
+      }
+      
+    }(window));    
+  </script>
+
+  <script>
+    window.UserVoice || (window.UserVoice = []);
+  </script>
+
+  
+
+  <link href="//assets0.uvcdn.com/pkg/clients/site2-fb122c98eb0523e599052bb71281addd.css" media="all" rel="stylesheet" />
+
+
+  <!--[if lt IE 7]>
+    <link href="//assets1.uvcdn.com/pkg/clients/site2/ie-f30257d2b4b3093376d0b6aa6f5d4780.css" media="screen" rel="stylesheet" />
+  <![endif]-->
+
+  <!--[if lt IE 9]>
+    <script src="//assets1.uvcdn.com/pkg/clients/site2/lt_IE_9-1d78b227886e40a052886b1427a5d72c.js"></script>
+  <![endif]-->
+
+    <style type="text/css">
+  
+  /*
+  -----------------------------------------------------------
+    Link color
+  -----------------------------------------------------------
+  */
+  
+  .uvCustomLink-color,
+  a,
+  .uvHelp,
+  .uvTabSelect,
+  .uvTab-dropdown .uvFieldPlaceholder,
+  .uvModule-session .vcard .uvRememberMe a,
+  .uvBreadcrumbs a,
+  .uvStyle-linkArrow {
+    color: #007DBF;
+  }
+  
+  .uvCustomLink-background,
+  .uvTab-selected,
+  .uvTab-selected .uvFieldSelect,
+  .uvPagination .current {
+    background-color: #007DBF;
+  }
+  
+  /*
+  -----------------------------------------------------------
+    Primary color
+  -----------------------------------------------------------
+  */
+  
+  .uvCustomPrimary-color {
+    color: #6F675E;
+  }
+  
+  .uvCustomPrimary-background,
+  .uvUserBadgeLabel {
+    background-color: #6F675E;
+  }
+  
+  /*
+  -----------------------------------------------------------
+    Background color
+  -----------------------------------------------------------
+  */
+  
+  .uvCustomBackground-color {
+    color: #217346;
+  }
+  
+  .uvCustomBackground-background,
+  .uvMasthead {
+    background-color: #217346;
+  }
+  
+  /*
+  -----------------------------------------------------------
+    Status colors
+  -----------------------------------------------------------
+  */
+  
+  .uvStyle-status-under-review {
+    background-color: #999999;
+    color: #FFF;
+  }
+  .uvStyle-status-planned {
+    background-color: #F0BA00;
+    color: #FFF;
+  }
+  .uvStyle-status-started {
+    background-color: #6FBC00;
+    color: #FFF;
+  }
+  .uvStyle-status-completed {
+    background-color: #7D7EDF;
+    color: #FFF;
+  }
+  .uvStyle-status-declined {
+    background-color: #BBBBBB;
+    color: #FFF;
+  }
+</style>
+
+
+    <meta name="keywords" content="Office, Office Online, feedback, Excel, Excel Online, UserVoice, forum, help, support, suggestions, requests, ideas">
+
+
+  
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  
+  // UserVoice Profile
+  _gaq.push(['_setAccount', 'UA-3735534-21']);
+  _gaq.push(['_setDomainName', 'uservoice.com']);
+  _gaq.push(['_addIgnoredRef', 'www.uservoice.com']);
+  // Do this to comply with some privacy policies
+  _gaq.push(['_gat._anonymizeIp']);
+  
+    var clientIdentifier = "Site";
+    _gaq.push(['_setCustomVar', 1, 'Client', clientIdentifier, 3]);
+  
+    _gaq.push(['_trackPageview']);
+  
+  // Custom Profile
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  
+  function trackEvent(name, label) {
+    if (label == null) {
+      label = "Site";
+    }
+    _gaq.push(['_trackEvent', "UserVoice", name, label]);
+  }
+  
+</script>
+</head>
+
+<body class="uv-primaryColor-dark uv-locale-en uv-direction-ltr uv-forum uv-forum-304921 uv-no-user uv-forum-page">
+  <div id="fb-root"></div>
+  <div class="uvPageContainer">
+
+      <header class="uvContainer uvMasthead ">
+  <div class="uvRow">
+    <div class="uvCol-12">
+      <div class="uvMastheadWrapper">
+        
+          <a class="uvMastheadHomeLink" href="/" title="Welcome to Excel&#39;s Suggestion Box!">
+            <img class="uvMastheadLogo" src="https://s3.amazonaws.com/uploads.uservoice.com/logo/design_setting/251566/original/Excel2.png?1434669212" alt="Office.com">
+          </a>
+        
+      </div>
+    </div>
+  </div>
+</header>
+
+    
+
+
+
+<div class="uvContainer uvBody">
+  <div class="uvRow">
+    <div class="uvCol-8">
+
+      <!-- Forum -->
+      <article>
+        <header class="uvPageHeader">
+          <h1 class="uvPageTitle uvCustomPrimary-color"> Excel for Windows (Desktop Application)</h1>
+          <div class="uvBreadcrumbs">
+              <a href="/">&larr; Welcome to Excel&#39;s Suggestion Box!</a>
+          </div>
+
+          
+
+        </header>
+          <section class="uvForumCreateIdea">
+            <form method="post" action="/api/v1/forums/304921/suggestions.json" id="create_idea" data-forum-id="304921">
+              <input name="authenticity_token" type="hidden" value="aYGo37kcUHXeBlg2vhr58ydQCZP5r9pPtENDJCu3iA0=" />
+              <input name="site2" type="hidden" value="true" />
+              <input type="hidden" name="referrer" value="https://excel.uservoice.com/forums/304921-excel-for-windows-desktop-application/filters/none?page=4" />
+              <h2 class="uvForumCreateIdeaLegend uvCustomPrimary-color">How can we improve Excel for Windows (Desktop Application)?</h2>
+              <div class="uvField uvField-idea">
+                <label class="uvFieldInner" for="suggestion_title">
+                  <span class="uvFieldPlaceholder">Enter your idea</span>
+                  <input type="text" name="suggestion[title]" id="suggestion_title" class="uvFieldText" data-ajax-url="/forums/304921-excel-for-windows-desktop-application/search" value="" maxlength="140" />
+                </label>
+                <div class="uvFieldEtc uvFieldEtc-thinking">(thinking…)</div>
+                <button type="reset" class="uvFieldEtc uvFieldEtc-reset">Reset</button>
+              </div>
+              <!-- display when no ideas match or when user clicks "Post a new idea" -->
+              <div class="uvTooltip-alt">
+                <div class="uvTooltip-primary">	
+                  <p>
+                    Enter your idea and we'll search to see if someone has already suggested it.
+                  </p>
+                  <p>
+                    If a similar idea already exists, you can support and comment on it.
+                  </p>
+                  <p>
+                    If it doesn't exist, you can post your idea so others can support it.
+                  </p>
+                </div>
+                <div class="uvTooltip-outOfVotes">	
+                  <p>
+                    Enter your idea and we'll search to see if someone has already suggested it.
+                  </p>
+                </div>
+              </div>
+              <div class="uvForumCreateIdea-new" style="display: none;">
+
+                  <div class="uvField uvField-description">
+                    <label class="uvFieldInner" for="suggestion-describe">
+                      <span class="uvFieldPlaceholder">Describe your idea… (optional)</span>
+                      <textarea class="uvFieldTextarea" name="suggestion[text]" id="suggestion-describe"></textarea>
+                    </label>
+                    <input type="hidden" name="iframe" />
+                  </div>
+
+
+                    <input type="hidden" name="suggestion[votes]" value="1" />
+
+                  
+<fieldset class="uvSignin uvSignin-prestine uvSignin-default uvFieldset" data-options="{&quot;display_logged_in&quot;:&quot;hidden&quot;,&quot;allow_anonymous&quot;:false}"  aria-live="polite" aria-relevant="additions removals">
+  <legend class="uvSigninLegend">Sign in</legend>
+  <div class="uvSigninMode" style="display:none">prestine</div>
+      <div class="uvField uvField-display_name uvField-first">
+        <label class="uvFieldInner" for="display_name_3798">
+          <span class="uvFieldPlaceholder">Your name</span>
+          <input class="uvFieldText" type="text" name="display_name" id="display_name_3798" title="Your name" />
+        </label>
+      </div>
+      <div class="uvField uvField-email uvField-first">
+        <label class="uvFieldInner" for="email_3798">
+          <span class="uvFieldPlaceholder">Your email address</span>
+          <input class="uvFieldText" type="email" name="email" id="email_3798" value="" title="Your email address">
+        </label>
+        <div class="uvFieldEtc uvFieldEtc-unprotected">Check!</div>
+        <div class="uvFieldEtc uvFieldEtc-email_invalid">invalid email</div>
+        <div class="uvFieldEtc uvFieldEtc-thinking">(thinking…)</div>
+        <div class="uvFieldEtc uvFieldEtc-reset">Reset</div>
+        <div class="uvFieldEtc uvFieldEtc-providers">
+            <span class="uvFieldEtcLabel">or sign in with</span>
+            <ul>
+                            <li data-provider="facebook"><a href="https://graph.facebook.com/v2.2/oauth/authorize?client_id=46468144668&amp;redirect_uri=https%3A%2F%2Fauth.uservoice.com%2Ffacebook%2F235248&amp;scope=email&amp;display=popup" tabindex="0" title="Sign in via Facebook"><img class="favicon" src="//assets0.uvcdn.com/pkg/shared/favicons/facebook-0ae32c6b9db8433da3bff920000995f0.png" alt="facebook" /></a></li>
+              <li data-provider="google"><a href="https://auth.uservoice.com/google/235248" tabindex="0" title="Sign in via Google"><img class="favicon" src="//assets1.uvcdn.com/pkg/shared/favicons/google-fb06110d524fe305438f815805d6d649.png" alt="google" /></a></li>
+
+            </ul>
+        </div>
+      </div>
+      <div class="uvField uvField-authentication">
+        <ul class="uvFieldEtc uvFieldEtc-providers uvFieldEtc-third_party"></ul>
+        <img alt="Password icon" class="password" src="//assets0.uvcdn.com/pkg/shared/favicons/password-fb2771112fb14e2588f5beba6b59fb95.png" />
+        <div class="password">
+          <label class="uvFieldInner" for="password_3798">
+            <span class="uvFieldPlaceholder">UserVoice password</span>
+            <input class="uvFieldPassword" type="password" name="password" id="password_3798" title="UserVoice password" />
+          </label>
+          <div class="uvFieldEtc uvFieldEtc-password_invalid"></div>
+          <div class="uvFieldEtc uvFieldEtc-forgot_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Forgot password?</a></div>
+          <div class="uvFieldEtc uvFieldEtc-create_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Create a password</a></div>
+        </div>
+        <div style="clear:both;"></div>
+      </div>
+        <div class="uvField uvField-terms_implicit">
+          <span class="uvFieldInner">I agree to the <a href="/tos" rel="external" target="_blank" title="Opens in new window">terms of service</a></span>
+        </div>
+
+  <div class="uvField uvField-logged_in uvField-first">
+    <span>
+      Signed in as <span class="logged_in_as"></span>
+      (<a href="/logout">Sign out</a>)
+    </span>
+  </div>
+
+  <input type="hidden" name="uninitialized" value="true" />
+</fieldset>
+
+
+                  <div class="uvFormFlash uvFormFlash-error">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+<div class="uvFormFlash uvFormFlash-info">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+                  <div>
+                    <button type="submit" class="uvStyle-button">Post idea</button>
+                    <a class="uvStyle-cancel" href="#cancel" id="suggestion_form_reset">Cancel</a>
+                    <span class="uvFieldEtc-thinking">Submitting...</span>
+                  </div>
+                </div>
+              <!-- end -->
+            </form>
+          </section>
+        <!-- end -->
+
+        <!-- Forum search results -->
+        <section class="uvForumSearchResults" style="display:none" aria-label="Check for your idea before adding a new idea" tabindex="0">
+          <div class="uvTabs">
+            <ul class="uvTabsLeft">
+              <li class="uvTab-createidea-group"><span class="uvTab uvTab-existingideas uvTab-selected">Vote for an existing idea <span class="uvStyle-count">(<span id="search_results_count" title=" idea results"></span>)</span></span></li>
+                <li class="uvTab-createidea-group"><span class="uvTabSpace">or</span></li>
+                <li class="uvTab-createidea-group"><button type="button" class="uvStyle-button uvTab-createidea" id="add_suggestion">Post a new idea…</button></li>
+            </ul>
+          </div>
+          <div class="uvForumSearchResults-container">
+            
+          </div>
+        </section>
+        <!-- end -->
+        
+          <section class="uvForumIndex">
+            <div class="uvTabs">
+              <ul class="uvTabsLeft">
+                <li class="uvForumFilter uvForumFilter-hot"><a class="uvTab " href="/forums/304921-excel-for-windows-desktop-application/filters/hot">
+                  <span class="uvTabContent"> Hot</span> <span class="uvTabExtended"> ideas</span>
+                </a></li>
+                <li class="uvForumFilter uvForumFilter-top"><a class="uvTab " href="/forums/304921-excel-for-windows-desktop-application/filters/top">
+                  <span class="uvTabContent"> Top</span> <span class="uvTabExtended"> ideas</span>
+                </a></li>
+                <li class="uvForumFilter uvForumFilter-new"><a class="uvTab " href="/forums/304921-excel-for-windows-desktop-application/filters/new">
+                  <span class="uvTabContent"> New</span> <span class="uvTabExtended"> ideas</span>
+                </a></li>
+                
+                <li class="uvForumFilter uvForumFilter-my-feedback">
+                  <a class="uvTab " href="/forums/304921-excel-for-windows-desktop-application/filters/my_feedback">
+                    My feedback
+                  </a>
+                </li>
+              </ul>
+            </div>
+          
+            <ol class="uvList uvList-ideas" aria-live="polite" aria-relevant="additions removals" aria-label="Existing idea results">
+    <li class="uvListItem uvIdea uvIdea-list">
+
+<div class="uvIdeaHeader">
+  <h2 class="uvIdeaTitle"><a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9057808-unnecessarily-converting-strings-to-date">Unnecessarily converting strings to date</a></h2>
+    <div class="uvIdeaDescription uvIdeaDescription-truncated">
+      <div class="typeset"><p>If i am copying a string of group type 1- 2, 3-4 etc, sometimes excel converts this as 2nd January or 1st February. This should not happen.</p></div>
+    </div>
+  
+</div>
+
+
+<div class="uvIdeaVoteBadge">
+    <div class="uvIdeaVoteCount" data-id="9057808">
+      <strong>3</strong>
+      <span> votes</span>
+    </div>
+  <div class="uvVoter uvVoter-logged_out uvVoterMode-voteable uvVoterStatus-open uvVoteLimit-unlimited" data-closed-reason="">
+  <form novalidate class="uvIdeaVoteForm" method="post" action="" data-forum_id="304921" data-suggestion_id="9057808">
+    <!-- Update to show number of votes cast -->
+    <span class="uvIdeaVoteFormTrigger">
+      <button class="uvIdeaVoteFormTriggerState-no_votes uvStyle-button">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-you_voted uvStyle-button uvStyle-button-selected" id="uvIdeaVoteFormTriggerState-you_voted-9057808" data-singular="Voted!" data-plural="Voted!"></button>
+      <button class="uvIdeaVoteFormTriggerState-out_of_votes uvStyle-button uvStyle-button-disabled uvTip" title="You're out of votes">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-voting_closed uvStyle-button uvStyle-button-disabled uvTip" title="Voting has closed">Vote</button>
+
+        <input type="hidden" name="to" value="1"></input>
+    </span>
+    <!--- end -->
+
+    <div class="uvIdeaVoteFormToggle">
+      <fieldset class="uvIdeaVoteFormFieldset">
+        <div class="uvVoterSigninArea">
+          
+<fieldset class="uvSignin uvSignin-prestine uvFieldset" data-options="{&quot;display_logged_in&quot;:&quot;hidden&quot;,&quot;allow_anonymous&quot;:false,&quot;manually_signinify&quot;:true}"  aria-live="polite" aria-relevant="additions removals">
+  <legend class="uvSigninLegend">Sign in</legend>
+  <div class="uvSigninMode" style="display:none">prestine</div>
+      <div class="uvField uvField-display_name uvField-first">
+        <label class="uvFieldInner" for="display_name_2442">
+          <span class="uvFieldPlaceholder">Your name</span>
+          <input class="uvFieldText" type="text" name="display_name" id="display_name_2442" title="Your name" />
+        </label>
+      </div>
+      <div class="uvField uvField-email uvField-first">
+        <label class="uvFieldInner" for="email_2442">
+          <span class="uvFieldPlaceholder">Your email address</span>
+          <input class="uvFieldText" type="email" name="email" id="email_2442" value="" title="Your email address">
+        </label>
+        <div class="uvFieldEtc uvFieldEtc-unprotected">Check!</div>
+        <div class="uvFieldEtc uvFieldEtc-email_invalid">invalid email</div>
+        <div class="uvFieldEtc uvFieldEtc-thinking">(thinking…)</div>
+        <div class="uvFieldEtc uvFieldEtc-reset">Reset</div>
+        <div class="uvFieldEtc uvFieldEtc-providers">
+            <span class="uvFieldEtcLabel">or sign in with</span>
+            <ul>
+                            <li data-provider="facebook"><a href="https://graph.facebook.com/v2.2/oauth/authorize?client_id=46468144668&amp;redirect_uri=https%3A%2F%2Fauth.uservoice.com%2Ffacebook%2F235248&amp;scope=email&amp;display=popup" tabindex="0" title="Sign in via Facebook"><img class="favicon" src="//assets1.uvcdn.com/pkg/shared/favicons/facebook-0ae32c6b9db8433da3bff920000995f0.png" alt="facebook" /></a></li>
+              <li data-provider="google"><a href="https://auth.uservoice.com/google/235248" tabindex="0" title="Sign in via Google"><img class="favicon" src="//assets1.uvcdn.com/pkg/shared/favicons/google-fb06110d524fe305438f815805d6d649.png" alt="google" /></a></li>
+
+            </ul>
+        </div>
+      </div>
+      <div class="uvField uvField-authentication">
+        <ul class="uvFieldEtc uvFieldEtc-providers uvFieldEtc-third_party"></ul>
+        <img alt="Password icon" class="password" src="//assets0.uvcdn.com/pkg/shared/favicons/password-fb2771112fb14e2588f5beba6b59fb95.png" />
+        <div class="password">
+          <label class="uvFieldInner" for="password_2442">
+            <span class="uvFieldPlaceholder">UserVoice password</span>
+            <input class="uvFieldPassword" type="password" name="password" id="password_2442" title="UserVoice password" />
+          </label>
+          <div class="uvFieldEtc uvFieldEtc-password_invalid"></div>
+          <div class="uvFieldEtc uvFieldEtc-forgot_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Forgot password?</a></div>
+          <div class="uvFieldEtc uvFieldEtc-create_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Create a password</a></div>
+        </div>
+        <div style="clear:both;"></div>
+      </div>
+        <div class="uvField uvField-terms_implicit">
+          <span class="uvFieldInner">I agree to the <a href="/tos" rel="external" target="_blank" title="Opens in new window">terms of service</a></span>
+        </div>
+
+  <div class="uvField uvField-logged_in uvField-first">
+    <span>
+      Signed in as <span class="logged_in_as"></span>
+      (<a href="/logout">Sign out</a>)
+    </span>
+  </div>
+
+  <input type="hidden" name="uninitialized" value="true" />
+</fieldset>
+
+
+        </div>
+        <div class="uvFormFlash uvFormFlash-error">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+<div class="uvFormFlash uvFormFlash-info">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+        <div class="uvIdeaVoteButtons">
+            <p style="margin-bottom: 0.5em">We’ll send you updates on this idea</p>
+            <button class="uvIdeaVoteButton uvStyle-button" type="submit" value="subscribe" name="subscribe">Subscribe</button>
+        </div>
+      </fieldset>
+    </div>
+  </form>
+</div>
+
+</div>
+
+<div class="uvIdeaMeta">
+
+  <a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9057808-unnecessarily-converting-strings-to-date#comments" title="Comments for Unnecessarily converting strings to date">0 comments</a><span class='uvUserWithId-none-90647434'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAnonymousOnly uvStyle-link" href="/site/signin?lang=en">Flag idea as inappropriate…</a><button class="uvFlagObject uvUserOnly uvUserOnly-inline uvStyle-link" data-success="Flagged" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9057808-unnecessarily-converting-strings-to-date/flags?code=inappropriate" type="button">Flag idea as inappropriate…</button></span><span class='uvUserWithId-inline-90647434' style='display:none'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvSuggestion-dissociate" data-redirect-to="/forums/304921-excel-for-windows-desktop-application" data-supporters-count="3" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9057808-unnecessarily-converting-strings-to-date/dissociate" href="#" rel="nofollow" title="Delete suggestion Unnecessarily converting strings to date">Delete…</a></span><span class='uvAdminOnly uvAdminOnly-inline'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAdminOnly uvAdminOnly-inline" data-iframe-target="_blank" href="/admin/forums/304921-excel-for-windows-desktop-application/suggestions/9057808-unnecessarily-converting-strings-to-date" title="Admin page for Unnecessarily converting strings to date">Admin &rarr;</a></span>
+</div>
+
+
+</li>
+<li class="uvListItem uvIdea uvIdea-list">
+
+<div class="uvIdeaHeader">
+  <h2 class="uvIdeaTitle"><a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9122191-writting-a-paragraph-instead-of-one-straight-line">Writting a paragraph instead of one straight line</a></h2>
+    <div class="uvIdeaDescription uvIdeaDescription-truncated">
+      <div class="typeset"><p>when you want to write something I hate to expand the A,B,C... to make all my writing fit in one box, make it so that I can write down make it look like a paragraph instead of one hugeeeeee sentence.</p></div>
+    </div>
+  
+</div>
+
+
+<div class="uvIdeaVoteBadge">
+    <div class="uvIdeaVoteCount" data-id="9122191">
+      <strong>1</strong>
+      <span> vote</span>
+    </div>
+  <div class="uvVoter uvVoter-logged_out uvVoterMode-voteable uvVoterStatus-open uvVoteLimit-unlimited" data-closed-reason="">
+  <form novalidate class="uvIdeaVoteForm" method="post" action="" data-forum_id="304921" data-suggestion_id="9122191">
+    <!-- Update to show number of votes cast -->
+    <span class="uvIdeaVoteFormTrigger">
+      <button class="uvIdeaVoteFormTriggerState-no_votes uvStyle-button">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-you_voted uvStyle-button uvStyle-button-selected" id="uvIdeaVoteFormTriggerState-you_voted-9122191" data-singular="Voted!" data-plural="Voted!"></button>
+      <button class="uvIdeaVoteFormTriggerState-out_of_votes uvStyle-button uvStyle-button-disabled uvTip" title="You're out of votes">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-voting_closed uvStyle-button uvStyle-button-disabled uvTip" title="Voting has closed">Vote</button>
+
+        <input type="hidden" name="to" value="1"></input>
+    </span>
+    <!--- end -->
+
+    <div class="uvIdeaVoteFormToggle">
+      <fieldset class="uvIdeaVoteFormFieldset">
+        <div class="uvVoterSigninArea">
+          
+<fieldset class="uvSignin uvSignin-prestine uvFieldset" data-options="{&quot;display_logged_in&quot;:&quot;hidden&quot;,&quot;allow_anonymous&quot;:false,&quot;manually_signinify&quot;:true}"  aria-live="polite" aria-relevant="additions removals">
+  <legend class="uvSigninLegend">Sign in</legend>
+  <div class="uvSigninMode" style="display:none">prestine</div>
+      <div class="uvField uvField-display_name uvField-first">
+        <label class="uvFieldInner" for="display_name_3109">
+          <span class="uvFieldPlaceholder">Your name</span>
+          <input class="uvFieldText" type="text" name="display_name" id="display_name_3109" title="Your name" />
+        </label>
+      </div>
+      <div class="uvField uvField-email uvField-first">
+        <label class="uvFieldInner" for="email_3109">
+          <span class="uvFieldPlaceholder">Your email address</span>
+          <input class="uvFieldText" type="email" name="email" id="email_3109" value="" title="Your email address">
+        </label>
+        <div class="uvFieldEtc uvFieldEtc-unprotected">Check!</div>
+        <div class="uvFieldEtc uvFieldEtc-email_invalid">invalid email</div>
+        <div class="uvFieldEtc uvFieldEtc-thinking">(thinking…)</div>
+        <div class="uvFieldEtc uvFieldEtc-reset">Reset</div>
+        <div class="uvFieldEtc uvFieldEtc-providers">
+            <span class="uvFieldEtcLabel">or sign in with</span>
+            <ul>
+                            <li data-provider="facebook"><a href="https://graph.facebook.com/v2.2/oauth/authorize?client_id=46468144668&amp;redirect_uri=https%3A%2F%2Fauth.uservoice.com%2Ffacebook%2F235248&amp;scope=email&amp;display=popup" tabindex="0" title="Sign in via Facebook"><img class="favicon" src="//assets0.uvcdn.com/pkg/shared/favicons/facebook-0ae32c6b9db8433da3bff920000995f0.png" alt="facebook" /></a></li>
+              <li data-provider="google"><a href="https://auth.uservoice.com/google/235248" tabindex="0" title="Sign in via Google"><img class="favicon" src="//assets0.uvcdn.com/pkg/shared/favicons/google-fb06110d524fe305438f815805d6d649.png" alt="google" /></a></li>
+
+            </ul>
+        </div>
+      </div>
+      <div class="uvField uvField-authentication">
+        <ul class="uvFieldEtc uvFieldEtc-providers uvFieldEtc-third_party"></ul>
+        <img alt="Password icon" class="password" src="//assets0.uvcdn.com/pkg/shared/favicons/password-fb2771112fb14e2588f5beba6b59fb95.png" />
+        <div class="password">
+          <label class="uvFieldInner" for="password_3109">
+            <span class="uvFieldPlaceholder">UserVoice password</span>
+            <input class="uvFieldPassword" type="password" name="password" id="password_3109" title="UserVoice password" />
+          </label>
+          <div class="uvFieldEtc uvFieldEtc-password_invalid"></div>
+          <div class="uvFieldEtc uvFieldEtc-forgot_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Forgot password?</a></div>
+          <div class="uvFieldEtc uvFieldEtc-create_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Create a password</a></div>
+        </div>
+        <div style="clear:both;"></div>
+      </div>
+        <div class="uvField uvField-terms_implicit">
+          <span class="uvFieldInner">I agree to the <a href="/tos" rel="external" target="_blank" title="Opens in new window">terms of service</a></span>
+        </div>
+
+  <div class="uvField uvField-logged_in uvField-first">
+    <span>
+      Signed in as <span class="logged_in_as"></span>
+      (<a href="/logout">Sign out</a>)
+    </span>
+  </div>
+
+  <input type="hidden" name="uninitialized" value="true" />
+</fieldset>
+
+
+        </div>
+        <div class="uvFormFlash uvFormFlash-error">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+<div class="uvFormFlash uvFormFlash-info">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+        <div class="uvIdeaVoteButtons">
+            <p style="margin-bottom: 0.5em">We’ll send you updates on this idea</p>
+            <button class="uvIdeaVoteButton uvStyle-button" type="submit" value="subscribe" name="subscribe">Subscribe</button>
+        </div>
+      </fieldset>
+    </div>
+  </form>
+</div>
+
+</div>
+
+<div class="uvIdeaMeta">
+
+  <a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9122191-writting-a-paragraph-instead-of-one-straight-line#comments" title="Comments for Writting a paragraph instead of one straight line">1 comment</a><span class='uvUserWithId-none-91658731'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAnonymousOnly uvStyle-link" href="/site/signin?lang=en">Flag idea as inappropriate…</a><button class="uvFlagObject uvUserOnly uvUserOnly-inline uvStyle-link" data-success="Flagged" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9122191-writting-a-paragraph-instead-of-one-straight-line/flags?code=inappropriate" type="button">Flag idea as inappropriate…</button></span><span class='uvUserWithId-inline-91658731' style='display:none'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvSuggestion-dissociate" data-redirect-to="/forums/304921-excel-for-windows-desktop-application" data-supporters-count="1" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9122191-writting-a-paragraph-instead-of-one-straight-line/dissociate" href="#" rel="nofollow" title="Delete suggestion Writting a paragraph instead of one straight line">Delete…</a></span><span class='uvAdminOnly uvAdminOnly-inline'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAdminOnly uvAdminOnly-inline" data-iframe-target="_blank" href="/admin/forums/304921-excel-for-windows-desktop-application/suggestions/9122191-writting-a-paragraph-instead-of-one-straight-line" title="Admin page for Writting a paragraph instead of one straight line">Admin &rarr;</a></span>
+</div>
+
+
+</li>
+<li class="uvListItem uvIdea uvIdea-list">
+
+<div class="uvIdeaHeader">
+  <h2 class="uvIdeaTitle"><a href="/forums/304921-excel-for-windows-desktop-application/suggestions/8913076-make-the-formula-window-bigger-font">Make the formula window bigger font</a></h2>
+    <div class="uvIdeaDescription uvIdeaDescription-truncated">
+      <div class="typeset"><p>I can&#39;t see the formula box as I get older so it would be nice if I can choose to make the font bigger.  I don&#39;t like to edit in cell because I like to double click to find the linked values</p></div>
+    </div>
+  
+</div>
+
+
+<div class="uvIdeaVoteBadge">
+    <div class="uvIdeaVoteCount" data-id="8913076">
+      <strong>6</strong>
+      <span> votes</span>
+    </div>
+  <div class="uvVoter uvVoter-logged_out uvVoterMode-voteable uvVoterStatus-open uvVoteLimit-unlimited" data-closed-reason="">
+  <form novalidate class="uvIdeaVoteForm" method="post" action="" data-forum_id="304921" data-suggestion_id="8913076">
+    <!-- Update to show number of votes cast -->
+    <span class="uvIdeaVoteFormTrigger">
+      <button class="uvIdeaVoteFormTriggerState-no_votes uvStyle-button">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-you_voted uvStyle-button uvStyle-button-selected" id="uvIdeaVoteFormTriggerState-you_voted-8913076" data-singular="Voted!" data-plural="Voted!"></button>
+      <button class="uvIdeaVoteFormTriggerState-out_of_votes uvStyle-button uvStyle-button-disabled uvTip" title="You're out of votes">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-voting_closed uvStyle-button uvStyle-button-disabled uvTip" title="Voting has closed">Vote</button>
+
+        <input type="hidden" name="to" value="1"></input>
+    </span>
+    <!--- end -->
+
+    <div class="uvIdeaVoteFormToggle">
+      <fieldset class="uvIdeaVoteFormFieldset">
+        <div class="uvVoterSigninArea">
+          
+<fieldset class="uvSignin uvSignin-prestine uvFieldset" data-options="{&quot;display_logged_in&quot;:&quot;hidden&quot;,&quot;allow_anonymous&quot;:false,&quot;manually_signinify&quot;:true}"  aria-live="polite" aria-relevant="additions removals">
+  <legend class="uvSigninLegend">Sign in</legend>
+  <div class="uvSigninMode" style="display:none">prestine</div>
+      <div class="uvField uvField-display_name uvField-first">
+        <label class="uvFieldInner" for="display_name_7319">
+          <span class="uvFieldPlaceholder">Your name</span>
+          <input class="uvFieldText" type="text" name="display_name" id="display_name_7319" title="Your name" />
+        </label>
+      </div>
+      <div class="uvField uvField-email uvField-first">
+        <label class="uvFieldInner" for="email_7319">
+          <span class="uvFieldPlaceholder">Your email address</span>
+          <input class="uvFieldText" type="email" name="email" id="email_7319" value="" title="Your email address">
+        </label>
+        <div class="uvFieldEtc uvFieldEtc-unprotected">Check!</div>
+        <div class="uvFieldEtc uvFieldEtc-email_invalid">invalid email</div>
+        <div class="uvFieldEtc uvFieldEtc-thinking">(thinking…)</div>
+        <div class="uvFieldEtc uvFieldEtc-reset">Reset</div>
+        <div class="uvFieldEtc uvFieldEtc-providers">
+            <span class="uvFieldEtcLabel">or sign in with</span>
+            <ul>
+                            <li data-provider="facebook"><a href="https://graph.facebook.com/v2.2/oauth/authorize?client_id=46468144668&amp;redirect_uri=https%3A%2F%2Fauth.uservoice.com%2Ffacebook%2F235248&amp;scope=email&amp;display=popup" tabindex="0" title="Sign in via Facebook"><img class="favicon" src="//assets1.uvcdn.com/pkg/shared/favicons/facebook-0ae32c6b9db8433da3bff920000995f0.png" alt="facebook" /></a></li>
+              <li data-provider="google"><a href="https://auth.uservoice.com/google/235248" tabindex="0" title="Sign in via Google"><img class="favicon" src="//assets0.uvcdn.com/pkg/shared/favicons/google-fb06110d524fe305438f815805d6d649.png" alt="google" /></a></li>
+
+            </ul>
+        </div>
+      </div>
+      <div class="uvField uvField-authentication">
+        <ul class="uvFieldEtc uvFieldEtc-providers uvFieldEtc-third_party"></ul>
+        <img alt="Password icon" class="password" src="//assets1.uvcdn.com/pkg/shared/favicons/password-fb2771112fb14e2588f5beba6b59fb95.png" />
+        <div class="password">
+          <label class="uvFieldInner" for="password_7319">
+            <span class="uvFieldPlaceholder">UserVoice password</span>
+            <input class="uvFieldPassword" type="password" name="password" id="password_7319" title="UserVoice password" />
+          </label>
+          <div class="uvFieldEtc uvFieldEtc-password_invalid"></div>
+          <div class="uvFieldEtc uvFieldEtc-forgot_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Forgot password?</a></div>
+          <div class="uvFieldEtc uvFieldEtc-create_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Create a password</a></div>
+        </div>
+        <div style="clear:both;"></div>
+      </div>
+        <div class="uvField uvField-terms_implicit">
+          <span class="uvFieldInner">I agree to the <a href="/tos" rel="external" target="_blank" title="Opens in new window">terms of service</a></span>
+        </div>
+
+  <div class="uvField uvField-logged_in uvField-first">
+    <span>
+      Signed in as <span class="logged_in_as"></span>
+      (<a href="/logout">Sign out</a>)
+    </span>
+  </div>
+
+  <input type="hidden" name="uninitialized" value="true" />
+</fieldset>
+
+
+        </div>
+        <div class="uvFormFlash uvFormFlash-error">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+<div class="uvFormFlash uvFormFlash-info">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+        <div class="uvIdeaVoteButtons">
+            <p style="margin-bottom: 0.5em">We’ll send you updates on this idea</p>
+            <button class="uvIdeaVoteButton uvStyle-button" type="submit" value="subscribe" name="subscribe">Subscribe</button>
+        </div>
+      </fieldset>
+    </div>
+  </form>
+</div>
+
+</div>
+
+<div class="uvIdeaMeta">
+
+  <a href="/forums/304921-excel-for-windows-desktop-application/suggestions/8913076-make-the-formula-window-bigger-font#comments" title="Comments for Make the formula window bigger font">3 comments</a><span class='uvUserWithId-none-88155064'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAnonymousOnly uvStyle-link" href="/site/signin?lang=en">Flag idea as inappropriate…</a><button class="uvFlagObject uvUserOnly uvUserOnly-inline uvStyle-link" data-success="Flagged" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/8913076-make-the-formula-window-bigger-font/flags?code=inappropriate" type="button">Flag idea as inappropriate…</button></span><span class='uvUserWithId-inline-88155064' style='display:none'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvSuggestion-dissociate" data-redirect-to="/forums/304921-excel-for-windows-desktop-application" data-supporters-count="6" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/8913076-make-the-formula-window-bigger-font/dissociate" href="#" rel="nofollow" title="Delete suggestion Make the formula window bigger font">Delete…</a></span><span class='uvAdminOnly uvAdminOnly-inline'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAdminOnly uvAdminOnly-inline" data-iframe-target="_blank" href="/admin/forums/304921-excel-for-windows-desktop-application/suggestions/8913076-make-the-formula-window-bigger-font" title="Admin page for Make the formula window bigger font">Admin &rarr;</a></span>
+</div>
+
+
+</li>
+<li class="uvListItem uvIdea uvIdea-list">
+
+<div class="uvIdeaHeader">
+  <h2 class="uvIdeaTitle"><a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9052684-remove-veryhidden-sheets-from-file-info-protect-w">Remove VeryHidden sheets from &quot;File&gt;Info&gt;Protect Workbook&quot; list in Backstage</a></h2>
+    <div class="uvIdeaDescription uvIdeaDescription-truncated">
+      <div class="typeset"><p>Excel 2010 or later, goto Backstage: File&gt;Info&gt;Protect Workbook</p>
+
+<p>Under Protect Workbook, it reads &quot;One of more sheets in this workbook have been locked to prevent unwanted changes to data&quot; </p>
+
+<p>There is a list of protected sheets with Unprotect buttons next to them</p>
+
+<p>VeryHidden sheets are included in the list. MS, why is that? </p>
+
+<p>Keep VeryHidden sheets VERY hidden, so users are not aware of their existance, if VBA project is locked</p></div>
+    </div>
+  
+</div>
+
+
+<div class="uvIdeaVoteBadge">
+    <div class="uvIdeaVoteCount" data-id="9052684">
+      <strong>3</strong>
+      <span> votes</span>
+    </div>
+  <div class="uvVoter uvVoter-logged_out uvVoterMode-voteable uvVoterStatus-open uvVoteLimit-unlimited" data-closed-reason="">
+  <form novalidate class="uvIdeaVoteForm" method="post" action="" data-forum_id="304921" data-suggestion_id="9052684">
+    <!-- Update to show number of votes cast -->
+    <span class="uvIdeaVoteFormTrigger">
+      <button class="uvIdeaVoteFormTriggerState-no_votes uvStyle-button">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-you_voted uvStyle-button uvStyle-button-selected" id="uvIdeaVoteFormTriggerState-you_voted-9052684" data-singular="Voted!" data-plural="Voted!"></button>
+      <button class="uvIdeaVoteFormTriggerState-out_of_votes uvStyle-button uvStyle-button-disabled uvTip" title="You're out of votes">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-voting_closed uvStyle-button uvStyle-button-disabled uvTip" title="Voting has closed">Vote</button>
+
+        <input type="hidden" name="to" value="1"></input>
+    </span>
+    <!--- end -->
+
+    <div class="uvIdeaVoteFormToggle">
+      <fieldset class="uvIdeaVoteFormFieldset">
+        <div class="uvVoterSigninArea">
+          
+<fieldset class="uvSignin uvSignin-prestine uvFieldset" data-options="{&quot;display_logged_in&quot;:&quot;hidden&quot;,&quot;allow_anonymous&quot;:false,&quot;manually_signinify&quot;:true}"  aria-live="polite" aria-relevant="additions removals">
+  <legend class="uvSigninLegend">Sign in</legend>
+  <div class="uvSigninMode" style="display:none">prestine</div>
+      <div class="uvField uvField-display_name uvField-first">
+        <label class="uvFieldInner" for="display_name_672">
+          <span class="uvFieldPlaceholder">Your name</span>
+          <input class="uvFieldText" type="text" name="display_name" id="display_name_672" title="Your name" />
+        </label>
+      </div>
+      <div class="uvField uvField-email uvField-first">
+        <label class="uvFieldInner" for="email_672">
+          <span class="uvFieldPlaceholder">Your email address</span>
+          <input class="uvFieldText" type="email" name="email" id="email_672" value="" title="Your email address">
+        </label>
+        <div class="uvFieldEtc uvFieldEtc-unprotected">Check!</div>
+        <div class="uvFieldEtc uvFieldEtc-email_invalid">invalid email</div>
+        <div class="uvFieldEtc uvFieldEtc-thinking">(thinking…)</div>
+        <div class="uvFieldEtc uvFieldEtc-reset">Reset</div>
+        <div class="uvFieldEtc uvFieldEtc-providers">
+            <span class="uvFieldEtcLabel">or sign in with</span>
+            <ul>
+                            <li data-provider="facebook"><a href="https://graph.facebook.com/v2.2/oauth/authorize?client_id=46468144668&amp;redirect_uri=https%3A%2F%2Fauth.uservoice.com%2Ffacebook%2F235248&amp;scope=email&amp;display=popup" tabindex="0" title="Sign in via Facebook"><img class="favicon" src="//assets0.uvcdn.com/pkg/shared/favicons/facebook-0ae32c6b9db8433da3bff920000995f0.png" alt="facebook" /></a></li>
+              <li data-provider="google"><a href="https://auth.uservoice.com/google/235248" tabindex="0" title="Sign in via Google"><img class="favicon" src="//assets0.uvcdn.com/pkg/shared/favicons/google-fb06110d524fe305438f815805d6d649.png" alt="google" /></a></li>
+
+            </ul>
+        </div>
+      </div>
+      <div class="uvField uvField-authentication">
+        <ul class="uvFieldEtc uvFieldEtc-providers uvFieldEtc-third_party"></ul>
+        <img alt="Password icon" class="password" src="//assets0.uvcdn.com/pkg/shared/favicons/password-fb2771112fb14e2588f5beba6b59fb95.png" />
+        <div class="password">
+          <label class="uvFieldInner" for="password_672">
+            <span class="uvFieldPlaceholder">UserVoice password</span>
+            <input class="uvFieldPassword" type="password" name="password" id="password_672" title="UserVoice password" />
+          </label>
+          <div class="uvFieldEtc uvFieldEtc-password_invalid"></div>
+          <div class="uvFieldEtc uvFieldEtc-forgot_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Forgot password?</a></div>
+          <div class="uvFieldEtc uvFieldEtc-create_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Create a password</a></div>
+        </div>
+        <div style="clear:both;"></div>
+      </div>
+        <div class="uvField uvField-terms_implicit">
+          <span class="uvFieldInner">I agree to the <a href="/tos" rel="external" target="_blank" title="Opens in new window">terms of service</a></span>
+        </div>
+
+  <div class="uvField uvField-logged_in uvField-first">
+    <span>
+      Signed in as <span class="logged_in_as"></span>
+      (<a href="/logout">Sign out</a>)
+    </span>
+  </div>
+
+  <input type="hidden" name="uninitialized" value="true" />
+</fieldset>
+
+
+        </div>
+        <div class="uvFormFlash uvFormFlash-error">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+<div class="uvFormFlash uvFormFlash-info">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+        <div class="uvIdeaVoteButtons">
+            <p style="margin-bottom: 0.5em">We’ll send you updates on this idea</p>
+            <button class="uvIdeaVoteButton uvStyle-button" type="submit" value="subscribe" name="subscribe">Subscribe</button>
+        </div>
+      </fieldset>
+    </div>
+  </form>
+</div>
+
+</div>
+
+<div class="uvIdeaMeta">
+
+  <a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9052684-remove-veryhidden-sheets-from-file-info-protect-w#comments" title="Comments for Remove VeryHidden sheets from &quot;File&gt;Info&gt;Protect Workbook&quot; list in Backstage">0 comments</a><span class='uvUserWithId-none-86602252'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAnonymousOnly uvStyle-link" href="/site/signin?lang=en">Flag idea as inappropriate…</a><button class="uvFlagObject uvUserOnly uvUserOnly-inline uvStyle-link" data-success="Flagged" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9052684-remove-veryhidden-sheets-from-file-info-protect-w/flags?code=inappropriate" type="button">Flag idea as inappropriate…</button></span><span class='uvUserWithId-inline-86602252' style='display:none'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvSuggestion-dissociate" data-redirect-to="/forums/304921-excel-for-windows-desktop-application" data-supporters-count="3" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9052684-remove-veryhidden-sheets-from-file-info-protect-w/dissociate" href="#" rel="nofollow" title="Delete suggestion Remove VeryHidden sheets from &quot;File&gt;Info&gt;Protect Workbook&quot; list in Backstage">Delete…</a></span><span class='uvAdminOnly uvAdminOnly-inline'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAdminOnly uvAdminOnly-inline" data-iframe-target="_blank" href="/admin/forums/304921-excel-for-windows-desktop-application/suggestions/9052684-remove-veryhidden-sheets-from-file-info-protect-w" title="Admin page for Remove VeryHidden sheets from &quot;File&gt;Info&gt;Protect Workbook&quot; list in Backstage">Admin &rarr;</a></span>
+</div>
+
+
+</li>
+<li class="uvListItem uvIdea uvIdea-list">
+
+<div class="uvIdeaHeader">
+  <h2 class="uvIdeaTitle"><a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9018481-allow-users-to-to-multi-select-in-the-unhide-sheet">Allow users to to Multi Select in the Unhide Sheets dialog</a></h2>
+    <div class="uvIdeaDescription uvIdeaDescription-truncated">
+      <div class="typeset"><p>If you have 10 sheets hidden and you want to unhide all of them it is a painful task to doing it one by one
+</p></div>
+    </div>
+  
+</div>
+
+
+<div class="uvIdeaVoteBadge">
+    <div class="uvIdeaVoteCount" data-id="9018481">
+      <strong>3</strong>
+      <span> votes</span>
+    </div>
+  <div class="uvVoter uvVoter-logged_out uvVoterMode-voteable uvVoterStatus-open uvVoteLimit-unlimited" data-closed-reason="">
+  <form novalidate class="uvIdeaVoteForm" method="post" action="" data-forum_id="304921" data-suggestion_id="9018481">
+    <!-- Update to show number of votes cast -->
+    <span class="uvIdeaVoteFormTrigger">
+      <button class="uvIdeaVoteFormTriggerState-no_votes uvStyle-button">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-you_voted uvStyle-button uvStyle-button-selected" id="uvIdeaVoteFormTriggerState-you_voted-9018481" data-singular="Voted!" data-plural="Voted!"></button>
+      <button class="uvIdeaVoteFormTriggerState-out_of_votes uvStyle-button uvStyle-button-disabled uvTip" title="You're out of votes">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-voting_closed uvStyle-button uvStyle-button-disabled uvTip" title="Voting has closed">Vote</button>
+
+        <input type="hidden" name="to" value="1"></input>
+    </span>
+    <!--- end -->
+
+    <div class="uvIdeaVoteFormToggle">
+      <fieldset class="uvIdeaVoteFormFieldset">
+        <div class="uvVoterSigninArea">
+          
+<fieldset class="uvSignin uvSignin-prestine uvFieldset" data-options="{&quot;display_logged_in&quot;:&quot;hidden&quot;,&quot;allow_anonymous&quot;:false,&quot;manually_signinify&quot;:true}"  aria-live="polite" aria-relevant="additions removals">
+  <legend class="uvSigninLegend">Sign in</legend>
+  <div class="uvSigninMode" style="display:none">prestine</div>
+      <div class="uvField uvField-display_name uvField-first">
+        <label class="uvFieldInner" for="display_name_9145">
+          <span class="uvFieldPlaceholder">Your name</span>
+          <input class="uvFieldText" type="text" name="display_name" id="display_name_9145" title="Your name" />
+        </label>
+      </div>
+      <div class="uvField uvField-email uvField-first">
+        <label class="uvFieldInner" for="email_9145">
+          <span class="uvFieldPlaceholder">Your email address</span>
+          <input class="uvFieldText" type="email" name="email" id="email_9145" value="" title="Your email address">
+        </label>
+        <div class="uvFieldEtc uvFieldEtc-unprotected">Check!</div>
+        <div class="uvFieldEtc uvFieldEtc-email_invalid">invalid email</div>
+        <div class="uvFieldEtc uvFieldEtc-thinking">(thinking…)</div>
+        <div class="uvFieldEtc uvFieldEtc-reset">Reset</div>
+        <div class="uvFieldEtc uvFieldEtc-providers">
+            <span class="uvFieldEtcLabel">or sign in with</span>
+            <ul>
+                            <li data-provider="facebook"><a href="https://graph.facebook.com/v2.2/oauth/authorize?client_id=46468144668&amp;redirect_uri=https%3A%2F%2Fauth.uservoice.com%2Ffacebook%2F235248&amp;scope=email&amp;display=popup" tabindex="0" title="Sign in via Facebook"><img class="favicon" src="//assets0.uvcdn.com/pkg/shared/favicons/facebook-0ae32c6b9db8433da3bff920000995f0.png" alt="facebook" /></a></li>
+              <li data-provider="google"><a href="https://auth.uservoice.com/google/235248" tabindex="0" title="Sign in via Google"><img class="favicon" src="//assets0.uvcdn.com/pkg/shared/favicons/google-fb06110d524fe305438f815805d6d649.png" alt="google" /></a></li>
+
+            </ul>
+        </div>
+      </div>
+      <div class="uvField uvField-authentication">
+        <ul class="uvFieldEtc uvFieldEtc-providers uvFieldEtc-third_party"></ul>
+        <img alt="Password icon" class="password" src="//assets0.uvcdn.com/pkg/shared/favicons/password-fb2771112fb14e2588f5beba6b59fb95.png" />
+        <div class="password">
+          <label class="uvFieldInner" for="password_9145">
+            <span class="uvFieldPlaceholder">UserVoice password</span>
+            <input class="uvFieldPassword" type="password" name="password" id="password_9145" title="UserVoice password" />
+          </label>
+          <div class="uvFieldEtc uvFieldEtc-password_invalid"></div>
+          <div class="uvFieldEtc uvFieldEtc-forgot_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Forgot password?</a></div>
+          <div class="uvFieldEtc uvFieldEtc-create_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Create a password</a></div>
+        </div>
+        <div style="clear:both;"></div>
+      </div>
+        <div class="uvField uvField-terms_implicit">
+          <span class="uvFieldInner">I agree to the <a href="/tos" rel="external" target="_blank" title="Opens in new window">terms of service</a></span>
+        </div>
+
+  <div class="uvField uvField-logged_in uvField-first">
+    <span>
+      Signed in as <span class="logged_in_as"></span>
+      (<a href="/logout">Sign out</a>)
+    </span>
+  </div>
+
+  <input type="hidden" name="uninitialized" value="true" />
+</fieldset>
+
+
+        </div>
+        <div class="uvFormFlash uvFormFlash-error">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+<div class="uvFormFlash uvFormFlash-info">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+        <div class="uvIdeaVoteButtons">
+            <p style="margin-bottom: 0.5em">We’ll send you updates on this idea</p>
+            <button class="uvIdeaVoteButton uvStyle-button" type="submit" value="subscribe" name="subscribe">Subscribe</button>
+        </div>
+      </fieldset>
+    </div>
+  </form>
+</div>
+
+</div>
+
+<div class="uvIdeaMeta">
+
+  <a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9018481-allow-users-to-to-multi-select-in-the-unhide-sheet#comments" title="Comments for Allow users to to Multi Select in the Unhide Sheets dialog">1 comment</a><span class='uvUserWithId-none-90029437'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAnonymousOnly uvStyle-link" href="/site/signin?lang=en">Flag idea as inappropriate…</a><button class="uvFlagObject uvUserOnly uvUserOnly-inline uvStyle-link" data-success="Flagged" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9018481-allow-users-to-to-multi-select-in-the-unhide-sheet/flags?code=inappropriate" type="button">Flag idea as inappropriate…</button></span><span class='uvUserWithId-inline-90029437' style='display:none'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvSuggestion-dissociate" data-redirect-to="/forums/304921-excel-for-windows-desktop-application" data-supporters-count="3" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9018481-allow-users-to-to-multi-select-in-the-unhide-sheet/dissociate" href="#" rel="nofollow" title="Delete suggestion Allow users to to Multi Select in the Unhide Sheets dialog">Delete…</a></span><span class='uvAdminOnly uvAdminOnly-inline'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAdminOnly uvAdminOnly-inline" data-iframe-target="_blank" href="/admin/forums/304921-excel-for-windows-desktop-application/suggestions/9018481-allow-users-to-to-multi-select-in-the-unhide-sheet" title="Admin page for Allow users to to Multi Select in the Unhide Sheets dialog">Admin &rarr;</a></span>
+</div>
+
+
+</li>
+<li class="uvListItem uvIdea uvIdea-list">
+
+<div class="uvIdeaHeader">
+  <h2 class="uvIdeaTitle"><a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9119077-multithread-data-table-calculations">multithread data-table calculations</a></h2>
+    <div class="uvIdeaDescription uvIdeaDescription-truncated">
+      <div class="typeset"><p>Data tables seem like the ideal target for multithreading. Each cell should be independently calculated. Why are these trapped on one processor?</p></div>
+    </div>
+  
+</div>
+
+
+<div class="uvIdeaVoteBadge">
+    <div class="uvIdeaVoteCount" data-id="9119077">
+      <strong>2</strong>
+      <span> votes</span>
+    </div>
+  <div class="uvVoter uvVoter-logged_out uvVoterMode-voteable uvVoterStatus-open uvVoteLimit-unlimited" data-closed-reason="">
+  <form novalidate class="uvIdeaVoteForm" method="post" action="" data-forum_id="304921" data-suggestion_id="9119077">
+    <!-- Update to show number of votes cast -->
+    <span class="uvIdeaVoteFormTrigger">
+      <button class="uvIdeaVoteFormTriggerState-no_votes uvStyle-button">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-you_voted uvStyle-button uvStyle-button-selected" id="uvIdeaVoteFormTriggerState-you_voted-9119077" data-singular="Voted!" data-plural="Voted!"></button>
+      <button class="uvIdeaVoteFormTriggerState-out_of_votes uvStyle-button uvStyle-button-disabled uvTip" title="You're out of votes">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-voting_closed uvStyle-button uvStyle-button-disabled uvTip" title="Voting has closed">Vote</button>
+
+        <input type="hidden" name="to" value="1"></input>
+    </span>
+    <!--- end -->
+
+    <div class="uvIdeaVoteFormToggle">
+      <fieldset class="uvIdeaVoteFormFieldset">
+        <div class="uvVoterSigninArea">
+          
+<fieldset class="uvSignin uvSignin-prestine uvFieldset" data-options="{&quot;display_logged_in&quot;:&quot;hidden&quot;,&quot;allow_anonymous&quot;:false,&quot;manually_signinify&quot;:true}"  aria-live="polite" aria-relevant="additions removals">
+  <legend class="uvSigninLegend">Sign in</legend>
+  <div class="uvSigninMode" style="display:none">prestine</div>
+      <div class="uvField uvField-display_name uvField-first">
+        <label class="uvFieldInner" for="display_name_9770">
+          <span class="uvFieldPlaceholder">Your name</span>
+          <input class="uvFieldText" type="text" name="display_name" id="display_name_9770" title="Your name" />
+        </label>
+      </div>
+      <div class="uvField uvField-email uvField-first">
+        <label class="uvFieldInner" for="email_9770">
+          <span class="uvFieldPlaceholder">Your email address</span>
+          <input class="uvFieldText" type="email" name="email" id="email_9770" value="" title="Your email address">
+        </label>
+        <div class="uvFieldEtc uvFieldEtc-unprotected">Check!</div>
+        <div class="uvFieldEtc uvFieldEtc-email_invalid">invalid email</div>
+        <div class="uvFieldEtc uvFieldEtc-thinking">(thinking…)</div>
+        <div class="uvFieldEtc uvFieldEtc-reset">Reset</div>
+        <div class="uvFieldEtc uvFieldEtc-providers">
+            <span class="uvFieldEtcLabel">or sign in with</span>
+            <ul>
+                            <li data-provider="facebook"><a href="https://graph.facebook.com/v2.2/oauth/authorize?client_id=46468144668&amp;redirect_uri=https%3A%2F%2Fauth.uservoice.com%2Ffacebook%2F235248&amp;scope=email&amp;display=popup" tabindex="0" title="Sign in via Facebook"><img class="favicon" src="//assets0.uvcdn.com/pkg/shared/favicons/facebook-0ae32c6b9db8433da3bff920000995f0.png" alt="facebook" /></a></li>
+              <li data-provider="google"><a href="https://auth.uservoice.com/google/235248" tabindex="0" title="Sign in via Google"><img class="favicon" src="//assets1.uvcdn.com/pkg/shared/favicons/google-fb06110d524fe305438f815805d6d649.png" alt="google" /></a></li>
+
+            </ul>
+        </div>
+      </div>
+      <div class="uvField uvField-authentication">
+        <ul class="uvFieldEtc uvFieldEtc-providers uvFieldEtc-third_party"></ul>
+        <img alt="Password icon" class="password" src="//assets0.uvcdn.com/pkg/shared/favicons/password-fb2771112fb14e2588f5beba6b59fb95.png" />
+        <div class="password">
+          <label class="uvFieldInner" for="password_9770">
+            <span class="uvFieldPlaceholder">UserVoice password</span>
+            <input class="uvFieldPassword" type="password" name="password" id="password_9770" title="UserVoice password" />
+          </label>
+          <div class="uvFieldEtc uvFieldEtc-password_invalid"></div>
+          <div class="uvFieldEtc uvFieldEtc-forgot_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Forgot password?</a></div>
+          <div class="uvFieldEtc uvFieldEtc-create_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Create a password</a></div>
+        </div>
+        <div style="clear:both;"></div>
+      </div>
+        <div class="uvField uvField-terms_implicit">
+          <span class="uvFieldInner">I agree to the <a href="/tos" rel="external" target="_blank" title="Opens in new window">terms of service</a></span>
+        </div>
+
+  <div class="uvField uvField-logged_in uvField-first">
+    <span>
+      Signed in as <span class="logged_in_as"></span>
+      (<a href="/logout">Sign out</a>)
+    </span>
+  </div>
+
+  <input type="hidden" name="uninitialized" value="true" />
+</fieldset>
+
+
+        </div>
+        <div class="uvFormFlash uvFormFlash-error">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+<div class="uvFormFlash uvFormFlash-info">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+        <div class="uvIdeaVoteButtons">
+            <p style="margin-bottom: 0.5em">We’ll send you updates on this idea</p>
+            <button class="uvIdeaVoteButton uvStyle-button" type="submit" value="subscribe" name="subscribe">Subscribe</button>
+        </div>
+      </fieldset>
+    </div>
+  </form>
+</div>
+
+</div>
+
+<div class="uvIdeaMeta">
+
+  <a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9119077-multithread-data-table-calculations#comments" title="Comments for multithread data-table calculations">0 comments</a><span class='uvUserWithId-none-91610536'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAnonymousOnly uvStyle-link" href="/site/signin?lang=en">Flag idea as inappropriate…</a><button class="uvFlagObject uvUserOnly uvUserOnly-inline uvStyle-link" data-success="Flagged" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9119077-multithread-data-table-calculations/flags?code=inappropriate" type="button">Flag idea as inappropriate…</button></span><span class='uvUserWithId-inline-91610536' style='display:none'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvSuggestion-dissociate" data-redirect-to="/forums/304921-excel-for-windows-desktop-application" data-supporters-count="2" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9119077-multithread-data-table-calculations/dissociate" href="#" rel="nofollow" title="Delete suggestion multithread data-table calculations">Delete…</a></span><span class='uvAdminOnly uvAdminOnly-inline'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAdminOnly uvAdminOnly-inline" data-iframe-target="_blank" href="/admin/forums/304921-excel-for-windows-desktop-application/suggestions/9119077-multithread-data-table-calculations" title="Admin page for multithread data-table calculations">Admin &rarr;</a></span>
+</div>
+
+
+</li>
+<li class="uvListItem uvIdea uvIdea-list">
+
+<div class="uvIdeaHeader">
+  <h2 class="uvIdeaTitle"><a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9117991-options-in-linking-workbooks">Options in linking workbooks</a></h2>
+    <div class="uvIdeaDescription uvIdeaDescription-truncated">
+      <div class="typeset"><p>When I select a cell in another workbook to link into my active workbook, it always comes across as an absolute reference.  This is an absolute pain, because most of the time I want to extend that link to copy a number of adjacent cells and every time I have to go in and edit out the $ signs before continuing.  </p>
+
+<p>So how about an Excel  Option to link references either as absolute or relative ?</p></div>
+    </div>
+  
+</div>
+
+
+<div class="uvIdeaVoteBadge">
+    <div class="uvIdeaVoteCount" data-id="9117991">
+      <strong>2</strong>
+      <span> votes</span>
+    </div>
+  <div class="uvVoter uvVoter-logged_out uvVoterMode-voteable uvVoterStatus-open uvVoteLimit-unlimited" data-closed-reason="">
+  <form novalidate class="uvIdeaVoteForm" method="post" action="" data-forum_id="304921" data-suggestion_id="9117991">
+    <!-- Update to show number of votes cast -->
+    <span class="uvIdeaVoteFormTrigger">
+      <button class="uvIdeaVoteFormTriggerState-no_votes uvStyle-button">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-you_voted uvStyle-button uvStyle-button-selected" id="uvIdeaVoteFormTriggerState-you_voted-9117991" data-singular="Voted!" data-plural="Voted!"></button>
+      <button class="uvIdeaVoteFormTriggerState-out_of_votes uvStyle-button uvStyle-button-disabled uvTip" title="You're out of votes">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-voting_closed uvStyle-button uvStyle-button-disabled uvTip" title="Voting has closed">Vote</button>
+
+        <input type="hidden" name="to" value="1"></input>
+    </span>
+    <!--- end -->
+
+    <div class="uvIdeaVoteFormToggle">
+      <fieldset class="uvIdeaVoteFormFieldset">
+        <div class="uvVoterSigninArea">
+          
+<fieldset class="uvSignin uvSignin-prestine uvFieldset" data-options="{&quot;display_logged_in&quot;:&quot;hidden&quot;,&quot;allow_anonymous&quot;:false,&quot;manually_signinify&quot;:true}"  aria-live="polite" aria-relevant="additions removals">
+  <legend class="uvSigninLegend">Sign in</legend>
+  <div class="uvSigninMode" style="display:none">prestine</div>
+      <div class="uvField uvField-display_name uvField-first">
+        <label class="uvFieldInner" for="display_name_6998">
+          <span class="uvFieldPlaceholder">Your name</span>
+          <input class="uvFieldText" type="text" name="display_name" id="display_name_6998" title="Your name" />
+        </label>
+      </div>
+      <div class="uvField uvField-email uvField-first">
+        <label class="uvFieldInner" for="email_6998">
+          <span class="uvFieldPlaceholder">Your email address</span>
+          <input class="uvFieldText" type="email" name="email" id="email_6998" value="" title="Your email address">
+        </label>
+        <div class="uvFieldEtc uvFieldEtc-unprotected">Check!</div>
+        <div class="uvFieldEtc uvFieldEtc-email_invalid">invalid email</div>
+        <div class="uvFieldEtc uvFieldEtc-thinking">(thinking…)</div>
+        <div class="uvFieldEtc uvFieldEtc-reset">Reset</div>
+        <div class="uvFieldEtc uvFieldEtc-providers">
+            <span class="uvFieldEtcLabel">or sign in with</span>
+            <ul>
+                            <li data-provider="facebook"><a href="https://graph.facebook.com/v2.2/oauth/authorize?client_id=46468144668&amp;redirect_uri=https%3A%2F%2Fauth.uservoice.com%2Ffacebook%2F235248&amp;scope=email&amp;display=popup" tabindex="0" title="Sign in via Facebook"><img class="favicon" src="//assets1.uvcdn.com/pkg/shared/favicons/facebook-0ae32c6b9db8433da3bff920000995f0.png" alt="facebook" /></a></li>
+              <li data-provider="google"><a href="https://auth.uservoice.com/google/235248" tabindex="0" title="Sign in via Google"><img class="favicon" src="//assets0.uvcdn.com/pkg/shared/favicons/google-fb06110d524fe305438f815805d6d649.png" alt="google" /></a></li>
+
+            </ul>
+        </div>
+      </div>
+      <div class="uvField uvField-authentication">
+        <ul class="uvFieldEtc uvFieldEtc-providers uvFieldEtc-third_party"></ul>
+        <img alt="Password icon" class="password" src="//assets0.uvcdn.com/pkg/shared/favicons/password-fb2771112fb14e2588f5beba6b59fb95.png" />
+        <div class="password">
+          <label class="uvFieldInner" for="password_6998">
+            <span class="uvFieldPlaceholder">UserVoice password</span>
+            <input class="uvFieldPassword" type="password" name="password" id="password_6998" title="UserVoice password" />
+          </label>
+          <div class="uvFieldEtc uvFieldEtc-password_invalid"></div>
+          <div class="uvFieldEtc uvFieldEtc-forgot_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Forgot password?</a></div>
+          <div class="uvFieldEtc uvFieldEtc-create_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Create a password</a></div>
+        </div>
+        <div style="clear:both;"></div>
+      </div>
+        <div class="uvField uvField-terms_implicit">
+          <span class="uvFieldInner">I agree to the <a href="/tos" rel="external" target="_blank" title="Opens in new window">terms of service</a></span>
+        </div>
+
+  <div class="uvField uvField-logged_in uvField-first">
+    <span>
+      Signed in as <span class="logged_in_as"></span>
+      (<a href="/logout">Sign out</a>)
+    </span>
+  </div>
+
+  <input type="hidden" name="uninitialized" value="true" />
+</fieldset>
+
+
+        </div>
+        <div class="uvFormFlash uvFormFlash-error">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+<div class="uvFormFlash uvFormFlash-info">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+        <div class="uvIdeaVoteButtons">
+            <p style="margin-bottom: 0.5em">We’ll send you updates on this idea</p>
+            <button class="uvIdeaVoteButton uvStyle-button" type="submit" value="subscribe" name="subscribe">Subscribe</button>
+        </div>
+      </fieldset>
+    </div>
+  </form>
+</div>
+
+</div>
+
+<div class="uvIdeaMeta">
+
+  <a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9117991-options-in-linking-workbooks#comments" title="Comments for Options in linking workbooks">0 comments</a><span class='uvUserWithId-none-86772043'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAnonymousOnly uvStyle-link" href="/site/signin?lang=en">Flag idea as inappropriate…</a><button class="uvFlagObject uvUserOnly uvUserOnly-inline uvStyle-link" data-success="Flagged" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9117991-options-in-linking-workbooks/flags?code=inappropriate" type="button">Flag idea as inappropriate…</button></span><span class='uvUserWithId-inline-86772043' style='display:none'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvSuggestion-dissociate" data-redirect-to="/forums/304921-excel-for-windows-desktop-application" data-supporters-count="2" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9117991-options-in-linking-workbooks/dissociate" href="#" rel="nofollow" title="Delete suggestion Options in linking workbooks">Delete…</a></span><span class='uvAdminOnly uvAdminOnly-inline'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAdminOnly uvAdminOnly-inline" data-iframe-target="_blank" href="/admin/forums/304921-excel-for-windows-desktop-application/suggestions/9117991-options-in-linking-workbooks" title="Admin page for Options in linking workbooks">Admin &rarr;</a></span>
+</div>
+
+
+</li>
+<li class="uvListItem uvIdea uvIdea-list">
+
+<div class="uvIdeaHeader">
+  <h2 class="uvIdeaTitle"><a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9195099-copy-pasting-visible-cells">Copy Pasting Visible cells</a></h2>
+    <div class="uvIdeaDescription uvIdeaDescription-truncated">
+      <div class="typeset"><p>Copying and pasting the visible cells (Cells which are visible after applying filter with some criteria) are of same cell references from one worksheet to another worksheet is not permitted in the current version of excel. </p>
+
+<p>I wish have this feature in the further version of excel.</p></div>
+    </div>
+  
+</div>
+
+
+<div class="uvIdeaVoteBadge">
+    <div class="uvIdeaVoteCount" data-id="9195099">
+      <strong>1</strong>
+      <span> vote</span>
+    </div>
+  <div class="uvVoter uvVoter-logged_out uvVoterMode-voteable uvVoterStatus-open uvVoteLimit-unlimited" data-closed-reason="">
+  <form novalidate class="uvIdeaVoteForm" method="post" action="" data-forum_id="304921" data-suggestion_id="9195099">
+    <!-- Update to show number of votes cast -->
+    <span class="uvIdeaVoteFormTrigger">
+      <button class="uvIdeaVoteFormTriggerState-no_votes uvStyle-button">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-you_voted uvStyle-button uvStyle-button-selected" id="uvIdeaVoteFormTriggerState-you_voted-9195099" data-singular="Voted!" data-plural="Voted!"></button>
+      <button class="uvIdeaVoteFormTriggerState-out_of_votes uvStyle-button uvStyle-button-disabled uvTip" title="You're out of votes">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-voting_closed uvStyle-button uvStyle-button-disabled uvTip" title="Voting has closed">Vote</button>
+
+        <input type="hidden" name="to" value="1"></input>
+    </span>
+    <!--- end -->
+
+    <div class="uvIdeaVoteFormToggle">
+      <fieldset class="uvIdeaVoteFormFieldset">
+        <div class="uvVoterSigninArea">
+          
+<fieldset class="uvSignin uvSignin-prestine uvFieldset" data-options="{&quot;display_logged_in&quot;:&quot;hidden&quot;,&quot;allow_anonymous&quot;:false,&quot;manually_signinify&quot;:true}"  aria-live="polite" aria-relevant="additions removals">
+  <legend class="uvSigninLegend">Sign in</legend>
+  <div class="uvSigninMode" style="display:none">prestine</div>
+      <div class="uvField uvField-display_name uvField-first">
+        <label class="uvFieldInner" for="display_name_3489">
+          <span class="uvFieldPlaceholder">Your name</span>
+          <input class="uvFieldText" type="text" name="display_name" id="display_name_3489" title="Your name" />
+        </label>
+      </div>
+      <div class="uvField uvField-email uvField-first">
+        <label class="uvFieldInner" for="email_3489">
+          <span class="uvFieldPlaceholder">Your email address</span>
+          <input class="uvFieldText" type="email" name="email" id="email_3489" value="" title="Your email address">
+        </label>
+        <div class="uvFieldEtc uvFieldEtc-unprotected">Check!</div>
+        <div class="uvFieldEtc uvFieldEtc-email_invalid">invalid email</div>
+        <div class="uvFieldEtc uvFieldEtc-thinking">(thinking…)</div>
+        <div class="uvFieldEtc uvFieldEtc-reset">Reset</div>
+        <div class="uvFieldEtc uvFieldEtc-providers">
+            <span class="uvFieldEtcLabel">or sign in with</span>
+            <ul>
+                            <li data-provider="facebook"><a href="https://graph.facebook.com/v2.2/oauth/authorize?client_id=46468144668&amp;redirect_uri=https%3A%2F%2Fauth.uservoice.com%2Ffacebook%2F235248&amp;scope=email&amp;display=popup" tabindex="0" title="Sign in via Facebook"><img class="favicon" src="//assets0.uvcdn.com/pkg/shared/favicons/facebook-0ae32c6b9db8433da3bff920000995f0.png" alt="facebook" /></a></li>
+              <li data-provider="google"><a href="https://auth.uservoice.com/google/235248" tabindex="0" title="Sign in via Google"><img class="favicon" src="//assets1.uvcdn.com/pkg/shared/favicons/google-fb06110d524fe305438f815805d6d649.png" alt="google" /></a></li>
+
+            </ul>
+        </div>
+      </div>
+      <div class="uvField uvField-authentication">
+        <ul class="uvFieldEtc uvFieldEtc-providers uvFieldEtc-third_party"></ul>
+        <img alt="Password icon" class="password" src="//assets0.uvcdn.com/pkg/shared/favicons/password-fb2771112fb14e2588f5beba6b59fb95.png" />
+        <div class="password">
+          <label class="uvFieldInner" for="password_3489">
+            <span class="uvFieldPlaceholder">UserVoice password</span>
+            <input class="uvFieldPassword" type="password" name="password" id="password_3489" title="UserVoice password" />
+          </label>
+          <div class="uvFieldEtc uvFieldEtc-password_invalid"></div>
+          <div class="uvFieldEtc uvFieldEtc-forgot_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Forgot password?</a></div>
+          <div class="uvFieldEtc uvFieldEtc-create_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Create a password</a></div>
+        </div>
+        <div style="clear:both;"></div>
+      </div>
+        <div class="uvField uvField-terms_implicit">
+          <span class="uvFieldInner">I agree to the <a href="/tos" rel="external" target="_blank" title="Opens in new window">terms of service</a></span>
+        </div>
+
+  <div class="uvField uvField-logged_in uvField-first">
+    <span>
+      Signed in as <span class="logged_in_as"></span>
+      (<a href="/logout">Sign out</a>)
+    </span>
+  </div>
+
+  <input type="hidden" name="uninitialized" value="true" />
+</fieldset>
+
+
+        </div>
+        <div class="uvFormFlash uvFormFlash-error">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+<div class="uvFormFlash uvFormFlash-info">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+        <div class="uvIdeaVoteButtons">
+            <p style="margin-bottom: 0.5em">We’ll send you updates on this idea</p>
+            <button class="uvIdeaVoteButton uvStyle-button" type="submit" value="subscribe" name="subscribe">Subscribe</button>
+        </div>
+      </fieldset>
+    </div>
+  </form>
+</div>
+
+</div>
+
+<div class="uvIdeaMeta">
+
+  <a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9195099-copy-pasting-visible-cells#comments" title="Comments for Copy Pasting Visible cells">0 comments</a><span class='uvUserWithId-none-92864469'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAnonymousOnly uvStyle-link" href="/site/signin?lang=en">Flag idea as inappropriate…</a><button class="uvFlagObject uvUserOnly uvUserOnly-inline uvStyle-link" data-success="Flagged" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9195099-copy-pasting-visible-cells/flags?code=inappropriate" type="button">Flag idea as inappropriate…</button></span><span class='uvUserWithId-inline-92864469' style='display:none'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvSuggestion-dissociate" data-redirect-to="/forums/304921-excel-for-windows-desktop-application" data-supporters-count="1" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9195099-copy-pasting-visible-cells/dissociate" href="#" rel="nofollow" title="Delete suggestion Copy Pasting Visible cells">Delete…</a></span><span class='uvAdminOnly uvAdminOnly-inline'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAdminOnly uvAdminOnly-inline" data-iframe-target="_blank" href="/admin/forums/304921-excel-for-windows-desktop-application/suggestions/9195099-copy-pasting-visible-cells" title="Admin page for Copy Pasting Visible cells">Admin &rarr;</a></span>
+</div>
+
+
+</li>
+<li class="uvListItem uvIdea uvIdea-list">
+
+<div class="uvIdeaHeader">
+  <h2 class="uvIdeaTitle"><a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9192504-bring-back-the-excel-logo-icon-in-the-upper-left-c">Bring back the Excel logo/icon in the upper left corner of the application window</a></h2>
+    <div class="uvIdeaDescription uvIdeaDescription-truncated">
+      
+    </div>
+  
+</div>
+
+
+<div class="uvIdeaVoteBadge">
+    <div class="uvIdeaVoteCount" data-id="9192504">
+      <strong>1</strong>
+      <span> vote</span>
+    </div>
+  <div class="uvVoter uvVoter-logged_out uvVoterMode-voteable uvVoterStatus-open uvVoteLimit-unlimited" data-closed-reason="">
+  <form novalidate class="uvIdeaVoteForm" method="post" action="" data-forum_id="304921" data-suggestion_id="9192504">
+    <!-- Update to show number of votes cast -->
+    <span class="uvIdeaVoteFormTrigger">
+      <button class="uvIdeaVoteFormTriggerState-no_votes uvStyle-button">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-you_voted uvStyle-button uvStyle-button-selected" id="uvIdeaVoteFormTriggerState-you_voted-9192504" data-singular="Voted!" data-plural="Voted!"></button>
+      <button class="uvIdeaVoteFormTriggerState-out_of_votes uvStyle-button uvStyle-button-disabled uvTip" title="You're out of votes">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-voting_closed uvStyle-button uvStyle-button-disabled uvTip" title="Voting has closed">Vote</button>
+
+        <input type="hidden" name="to" value="1"></input>
+    </span>
+    <!--- end -->
+
+    <div class="uvIdeaVoteFormToggle">
+      <fieldset class="uvIdeaVoteFormFieldset">
+        <div class="uvVoterSigninArea">
+          
+<fieldset class="uvSignin uvSignin-prestine uvFieldset" data-options="{&quot;display_logged_in&quot;:&quot;hidden&quot;,&quot;allow_anonymous&quot;:false,&quot;manually_signinify&quot;:true}"  aria-live="polite" aria-relevant="additions removals">
+  <legend class="uvSigninLegend">Sign in</legend>
+  <div class="uvSigninMode" style="display:none">prestine</div>
+      <div class="uvField uvField-display_name uvField-first">
+        <label class="uvFieldInner" for="display_name_811">
+          <span class="uvFieldPlaceholder">Your name</span>
+          <input class="uvFieldText" type="text" name="display_name" id="display_name_811" title="Your name" />
+        </label>
+      </div>
+      <div class="uvField uvField-email uvField-first">
+        <label class="uvFieldInner" for="email_811">
+          <span class="uvFieldPlaceholder">Your email address</span>
+          <input class="uvFieldText" type="email" name="email" id="email_811" value="" title="Your email address">
+        </label>
+        <div class="uvFieldEtc uvFieldEtc-unprotected">Check!</div>
+        <div class="uvFieldEtc uvFieldEtc-email_invalid">invalid email</div>
+        <div class="uvFieldEtc uvFieldEtc-thinking">(thinking…)</div>
+        <div class="uvFieldEtc uvFieldEtc-reset">Reset</div>
+        <div class="uvFieldEtc uvFieldEtc-providers">
+            <span class="uvFieldEtcLabel">or sign in with</span>
+            <ul>
+                            <li data-provider="facebook"><a href="https://graph.facebook.com/v2.2/oauth/authorize?client_id=46468144668&amp;redirect_uri=https%3A%2F%2Fauth.uservoice.com%2Ffacebook%2F235248&amp;scope=email&amp;display=popup" tabindex="0" title="Sign in via Facebook"><img class="favicon" src="//assets0.uvcdn.com/pkg/shared/favicons/facebook-0ae32c6b9db8433da3bff920000995f0.png" alt="facebook" /></a></li>
+              <li data-provider="google"><a href="https://auth.uservoice.com/google/235248" tabindex="0" title="Sign in via Google"><img class="favicon" src="//assets1.uvcdn.com/pkg/shared/favicons/google-fb06110d524fe305438f815805d6d649.png" alt="google" /></a></li>
+
+            </ul>
+        </div>
+      </div>
+      <div class="uvField uvField-authentication">
+        <ul class="uvFieldEtc uvFieldEtc-providers uvFieldEtc-third_party"></ul>
+        <img alt="Password icon" class="password" src="//assets0.uvcdn.com/pkg/shared/favicons/password-fb2771112fb14e2588f5beba6b59fb95.png" />
+        <div class="password">
+          <label class="uvFieldInner" for="password_811">
+            <span class="uvFieldPlaceholder">UserVoice password</span>
+            <input class="uvFieldPassword" type="password" name="password" id="password_811" title="UserVoice password" />
+          </label>
+          <div class="uvFieldEtc uvFieldEtc-password_invalid"></div>
+          <div class="uvFieldEtc uvFieldEtc-forgot_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Forgot password?</a></div>
+          <div class="uvFieldEtc uvFieldEtc-create_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Create a password</a></div>
+        </div>
+        <div style="clear:both;"></div>
+      </div>
+        <div class="uvField uvField-terms_implicit">
+          <span class="uvFieldInner">I agree to the <a href="/tos" rel="external" target="_blank" title="Opens in new window">terms of service</a></span>
+        </div>
+
+  <div class="uvField uvField-logged_in uvField-first">
+    <span>
+      Signed in as <span class="logged_in_as"></span>
+      (<a href="/logout">Sign out</a>)
+    </span>
+  </div>
+
+  <input type="hidden" name="uninitialized" value="true" />
+</fieldset>
+
+
+        </div>
+        <div class="uvFormFlash uvFormFlash-error">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+<div class="uvFormFlash uvFormFlash-info">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+        <div class="uvIdeaVoteButtons">
+            <p style="margin-bottom: 0.5em">We’ll send you updates on this idea</p>
+            <button class="uvIdeaVoteButton uvStyle-button" type="submit" value="subscribe" name="subscribe">Subscribe</button>
+        </div>
+      </fieldset>
+    </div>
+  </form>
+</div>
+
+</div>
+
+<div class="uvIdeaMeta">
+
+  <a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9192504-bring-back-the-excel-logo-icon-in-the-upper-left-c#comments" title="Comments for Bring back the Excel logo/icon in the upper left corner of the application window">0 comments</a><span class='uvUserWithId-none-76949493'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAnonymousOnly uvStyle-link" href="/site/signin?lang=en">Flag idea as inappropriate…</a><button class="uvFlagObject uvUserOnly uvUserOnly-inline uvStyle-link" data-success="Flagged" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9192504-bring-back-the-excel-logo-icon-in-the-upper-left-c/flags?code=inappropriate" type="button">Flag idea as inappropriate…</button></span><span class='uvUserWithId-inline-76949493' style='display:none'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvSuggestion-dissociate" data-redirect-to="/forums/304921-excel-for-windows-desktop-application" data-supporters-count="1" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9192504-bring-back-the-excel-logo-icon-in-the-upper-left-c/dissociate" href="#" rel="nofollow" title="Delete suggestion Bring back the Excel logo/icon in the upper left corner of the application window">Delete…</a></span><span class='uvAdminOnly uvAdminOnly-inline'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAdminOnly uvAdminOnly-inline" data-iframe-target="_blank" href="/admin/forums/304921-excel-for-windows-desktop-application/suggestions/9192504-bring-back-the-excel-logo-icon-in-the-upper-left-c" title="Admin page for Bring back the Excel logo/icon in the upper left corner of the application window">Admin &rarr;</a></span>
+</div>
+
+
+</li>
+<li class="uvListItem uvIdea uvIdea-list">
+
+<div class="uvIdeaHeader">
+  <h2 class="uvIdeaTitle"><a href="/forums/304921-excel-for-windows-desktop-application/suggestions/8948482-rows-to-repeat-at-the-bottom">Rows to repeat at the Bottom</a></h2>
+    <div class="uvIdeaDescription uvIdeaDescription-truncated">
+      <div class="typeset"><p>In the Page Setup for printing, allow for a series of rows that can be printed at the bottom of each printed page. Similar to the &quot;Rows to repeat at the top&quot; under &quot;Print Titles&quot;.</p></div>
+    </div>
+  
+</div>
+
+
+<div class="uvIdeaVoteBadge">
+    <div class="uvIdeaVoteCount" data-id="8948482">
+      <strong>6</strong>
+      <span> votes</span>
+    </div>
+  <div class="uvVoter uvVoter-logged_out uvVoterMode-voteable uvVoterStatus-open uvVoteLimit-unlimited" data-closed-reason="">
+  <form novalidate class="uvIdeaVoteForm" method="post" action="" data-forum_id="304921" data-suggestion_id="8948482">
+    <!-- Update to show number of votes cast -->
+    <span class="uvIdeaVoteFormTrigger">
+      <button class="uvIdeaVoteFormTriggerState-no_votes uvStyle-button">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-you_voted uvStyle-button uvStyle-button-selected" id="uvIdeaVoteFormTriggerState-you_voted-8948482" data-singular="Voted!" data-plural="Voted!"></button>
+      <button class="uvIdeaVoteFormTriggerState-out_of_votes uvStyle-button uvStyle-button-disabled uvTip" title="You're out of votes">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-voting_closed uvStyle-button uvStyle-button-disabled uvTip" title="Voting has closed">Vote</button>
+
+        <input type="hidden" name="to" value="1"></input>
+    </span>
+    <!--- end -->
+
+    <div class="uvIdeaVoteFormToggle">
+      <fieldset class="uvIdeaVoteFormFieldset">
+        <div class="uvVoterSigninArea">
+          
+<fieldset class="uvSignin uvSignin-prestine uvFieldset" data-options="{&quot;display_logged_in&quot;:&quot;hidden&quot;,&quot;allow_anonymous&quot;:false,&quot;manually_signinify&quot;:true}"  aria-live="polite" aria-relevant="additions removals">
+  <legend class="uvSigninLegend">Sign in</legend>
+  <div class="uvSigninMode" style="display:none">prestine</div>
+      <div class="uvField uvField-display_name uvField-first">
+        <label class="uvFieldInner" for="display_name_5498">
+          <span class="uvFieldPlaceholder">Your name</span>
+          <input class="uvFieldText" type="text" name="display_name" id="display_name_5498" title="Your name" />
+        </label>
+      </div>
+      <div class="uvField uvField-email uvField-first">
+        <label class="uvFieldInner" for="email_5498">
+          <span class="uvFieldPlaceholder">Your email address</span>
+          <input class="uvFieldText" type="email" name="email" id="email_5498" value="" title="Your email address">
+        </label>
+        <div class="uvFieldEtc uvFieldEtc-unprotected">Check!</div>
+        <div class="uvFieldEtc uvFieldEtc-email_invalid">invalid email</div>
+        <div class="uvFieldEtc uvFieldEtc-thinking">(thinking…)</div>
+        <div class="uvFieldEtc uvFieldEtc-reset">Reset</div>
+        <div class="uvFieldEtc uvFieldEtc-providers">
+            <span class="uvFieldEtcLabel">or sign in with</span>
+            <ul>
+                            <li data-provider="facebook"><a href="https://graph.facebook.com/v2.2/oauth/authorize?client_id=46468144668&amp;redirect_uri=https%3A%2F%2Fauth.uservoice.com%2Ffacebook%2F235248&amp;scope=email&amp;display=popup" tabindex="0" title="Sign in via Facebook"><img class="favicon" src="//assets1.uvcdn.com/pkg/shared/favicons/facebook-0ae32c6b9db8433da3bff920000995f0.png" alt="facebook" /></a></li>
+              <li data-provider="google"><a href="https://auth.uservoice.com/google/235248" tabindex="0" title="Sign in via Google"><img class="favicon" src="//assets0.uvcdn.com/pkg/shared/favicons/google-fb06110d524fe305438f815805d6d649.png" alt="google" /></a></li>
+
+            </ul>
+        </div>
+      </div>
+      <div class="uvField uvField-authentication">
+        <ul class="uvFieldEtc uvFieldEtc-providers uvFieldEtc-third_party"></ul>
+        <img alt="Password icon" class="password" src="//assets0.uvcdn.com/pkg/shared/favicons/password-fb2771112fb14e2588f5beba6b59fb95.png" />
+        <div class="password">
+          <label class="uvFieldInner" for="password_5498">
+            <span class="uvFieldPlaceholder">UserVoice password</span>
+            <input class="uvFieldPassword" type="password" name="password" id="password_5498" title="UserVoice password" />
+          </label>
+          <div class="uvFieldEtc uvFieldEtc-password_invalid"></div>
+          <div class="uvFieldEtc uvFieldEtc-forgot_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Forgot password?</a></div>
+          <div class="uvFieldEtc uvFieldEtc-create_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Create a password</a></div>
+        </div>
+        <div style="clear:both;"></div>
+      </div>
+        <div class="uvField uvField-terms_implicit">
+          <span class="uvFieldInner">I agree to the <a href="/tos" rel="external" target="_blank" title="Opens in new window">terms of service</a></span>
+        </div>
+
+  <div class="uvField uvField-logged_in uvField-first">
+    <span>
+      Signed in as <span class="logged_in_as"></span>
+      (<a href="/logout">Sign out</a>)
+    </span>
+  </div>
+
+  <input type="hidden" name="uninitialized" value="true" />
+</fieldset>
+
+
+        </div>
+        <div class="uvFormFlash uvFormFlash-error">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+<div class="uvFormFlash uvFormFlash-info">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+        <div class="uvIdeaVoteButtons">
+            <p style="margin-bottom: 0.5em">We’ll send you updates on this idea</p>
+            <button class="uvIdeaVoteButton uvStyle-button" type="submit" value="subscribe" name="subscribe">Subscribe</button>
+        </div>
+      </fieldset>
+    </div>
+  </form>
+</div>
+
+</div>
+
+<div class="uvIdeaMeta">
+
+  <a href="/forums/304921-excel-for-windows-desktop-application/suggestions/8948482-rows-to-repeat-at-the-bottom#comments" title="Comments for Rows to repeat at the Bottom">0 comments</a><span class='uvUserWithId-none-88808359'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAnonymousOnly uvStyle-link" href="/site/signin?lang=en">Flag idea as inappropriate…</a><button class="uvFlagObject uvUserOnly uvUserOnly-inline uvStyle-link" data-success="Flagged" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/8948482-rows-to-repeat-at-the-bottom/flags?code=inappropriate" type="button">Flag idea as inappropriate…</button></span><span class='uvUserWithId-inline-88808359' style='display:none'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvSuggestion-dissociate" data-redirect-to="/forums/304921-excel-for-windows-desktop-application" data-supporters-count="6" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/8948482-rows-to-repeat-at-the-bottom/dissociate" href="#" rel="nofollow" title="Delete suggestion Rows to repeat at the Bottom">Delete…</a></span><span class='uvAdminOnly uvAdminOnly-inline'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAdminOnly uvAdminOnly-inline" data-iframe-target="_blank" href="/admin/forums/304921-excel-for-windows-desktop-application/suggestions/8948482-rows-to-repeat-at-the-bottom" title="Admin page for Rows to repeat at the Bottom">Admin &rarr;</a></span>
+</div>
+
+
+</li>
+<li class="uvListItem uvIdea uvIdea-list">
+
+<div class="uvIdeaHeader">
+  <h2 class="uvIdeaTitle"><a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9101269-make-the-evaluate-formula-dialog-resizable">Make the Evaluate Formula dialog resizable</a></h2>
+    <div class="uvIdeaDescription uvIdeaDescription-truncated">
+      <div class="typeset"><p>It is hard to work with formulas that reference ranges, like Sumproduct or array formulas, because the dialog shows only four rows. Make it resizable, so we can see more / all of the formula at once.</p></div>
+    </div>
+  
+</div>
+
+
+<div class="uvIdeaVoteBadge">
+    <div class="uvIdeaVoteCount" data-id="9101269">
+      <strong>2</strong>
+      <span> votes</span>
+    </div>
+  <div class="uvVoter uvVoter-logged_out uvVoterMode-voteable uvVoterStatus-open uvVoteLimit-unlimited" data-closed-reason="">
+  <form novalidate class="uvIdeaVoteForm" method="post" action="" data-forum_id="304921" data-suggestion_id="9101269">
+    <!-- Update to show number of votes cast -->
+    <span class="uvIdeaVoteFormTrigger">
+      <button class="uvIdeaVoteFormTriggerState-no_votes uvStyle-button">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-you_voted uvStyle-button uvStyle-button-selected" id="uvIdeaVoteFormTriggerState-you_voted-9101269" data-singular="Voted!" data-plural="Voted!"></button>
+      <button class="uvIdeaVoteFormTriggerState-out_of_votes uvStyle-button uvStyle-button-disabled uvTip" title="You're out of votes">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-voting_closed uvStyle-button uvStyle-button-disabled uvTip" title="Voting has closed">Vote</button>
+
+        <input type="hidden" name="to" value="1"></input>
+    </span>
+    <!--- end -->
+
+    <div class="uvIdeaVoteFormToggle">
+      <fieldset class="uvIdeaVoteFormFieldset">
+        <div class="uvVoterSigninArea">
+          
+<fieldset class="uvSignin uvSignin-prestine uvFieldset" data-options="{&quot;display_logged_in&quot;:&quot;hidden&quot;,&quot;allow_anonymous&quot;:false,&quot;manually_signinify&quot;:true}"  aria-live="polite" aria-relevant="additions removals">
+  <legend class="uvSigninLegend">Sign in</legend>
+  <div class="uvSigninMode" style="display:none">prestine</div>
+      <div class="uvField uvField-display_name uvField-first">
+        <label class="uvFieldInner" for="display_name_1222">
+          <span class="uvFieldPlaceholder">Your name</span>
+          <input class="uvFieldText" type="text" name="display_name" id="display_name_1222" title="Your name" />
+        </label>
+      </div>
+      <div class="uvField uvField-email uvField-first">
+        <label class="uvFieldInner" for="email_1222">
+          <span class="uvFieldPlaceholder">Your email address</span>
+          <input class="uvFieldText" type="email" name="email" id="email_1222" value="" title="Your email address">
+        </label>
+        <div class="uvFieldEtc uvFieldEtc-unprotected">Check!</div>
+        <div class="uvFieldEtc uvFieldEtc-email_invalid">invalid email</div>
+        <div class="uvFieldEtc uvFieldEtc-thinking">(thinking…)</div>
+        <div class="uvFieldEtc uvFieldEtc-reset">Reset</div>
+        <div class="uvFieldEtc uvFieldEtc-providers">
+            <span class="uvFieldEtcLabel">or sign in with</span>
+            <ul>
+                            <li data-provider="facebook"><a href="https://graph.facebook.com/v2.2/oauth/authorize?client_id=46468144668&amp;redirect_uri=https%3A%2F%2Fauth.uservoice.com%2Ffacebook%2F235248&amp;scope=email&amp;display=popup" tabindex="0" title="Sign in via Facebook"><img class="favicon" src="//assets1.uvcdn.com/pkg/shared/favicons/facebook-0ae32c6b9db8433da3bff920000995f0.png" alt="facebook" /></a></li>
+              <li data-provider="google"><a href="https://auth.uservoice.com/google/235248" tabindex="0" title="Sign in via Google"><img class="favicon" src="//assets1.uvcdn.com/pkg/shared/favicons/google-fb06110d524fe305438f815805d6d649.png" alt="google" /></a></li>
+
+            </ul>
+        </div>
+      </div>
+      <div class="uvField uvField-authentication">
+        <ul class="uvFieldEtc uvFieldEtc-providers uvFieldEtc-third_party"></ul>
+        <img alt="Password icon" class="password" src="//assets0.uvcdn.com/pkg/shared/favicons/password-fb2771112fb14e2588f5beba6b59fb95.png" />
+        <div class="password">
+          <label class="uvFieldInner" for="password_1222">
+            <span class="uvFieldPlaceholder">UserVoice password</span>
+            <input class="uvFieldPassword" type="password" name="password" id="password_1222" title="UserVoice password" />
+          </label>
+          <div class="uvFieldEtc uvFieldEtc-password_invalid"></div>
+          <div class="uvFieldEtc uvFieldEtc-forgot_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Forgot password?</a></div>
+          <div class="uvFieldEtc uvFieldEtc-create_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Create a password</a></div>
+        </div>
+        <div style="clear:both;"></div>
+      </div>
+        <div class="uvField uvField-terms_implicit">
+          <span class="uvFieldInner">I agree to the <a href="/tos" rel="external" target="_blank" title="Opens in new window">terms of service</a></span>
+        </div>
+
+  <div class="uvField uvField-logged_in uvField-first">
+    <span>
+      Signed in as <span class="logged_in_as"></span>
+      (<a href="/logout">Sign out</a>)
+    </span>
+  </div>
+
+  <input type="hidden" name="uninitialized" value="true" />
+</fieldset>
+
+
+        </div>
+        <div class="uvFormFlash uvFormFlash-error">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+<div class="uvFormFlash uvFormFlash-info">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+        <div class="uvIdeaVoteButtons">
+            <p style="margin-bottom: 0.5em">We’ll send you updates on this idea</p>
+            <button class="uvIdeaVoteButton uvStyle-button" type="submit" value="subscribe" name="subscribe">Subscribe</button>
+        </div>
+      </fieldset>
+    </div>
+  </form>
+</div>
+
+</div>
+
+<div class="uvIdeaMeta">
+
+  <a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9101269-make-the-evaluate-formula-dialog-resizable#comments" title="Comments for Make the Evaluate Formula dialog resizable">0 comments</a><span class='uvUserWithId-none-91351804'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAnonymousOnly uvStyle-link" href="/site/signin?lang=en">Flag idea as inappropriate…</a><button class="uvFlagObject uvUserOnly uvUserOnly-inline uvStyle-link" data-success="Flagged" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9101269-make-the-evaluate-formula-dialog-resizable/flags?code=inappropriate" type="button">Flag idea as inappropriate…</button></span><span class='uvUserWithId-inline-91351804' style='display:none'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvSuggestion-dissociate" data-redirect-to="/forums/304921-excel-for-windows-desktop-application" data-supporters-count="2" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9101269-make-the-evaluate-formula-dialog-resizable/dissociate" href="#" rel="nofollow" title="Delete suggestion Make the Evaluate Formula dialog resizable">Delete…</a></span><span class='uvAdminOnly uvAdminOnly-inline'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAdminOnly uvAdminOnly-inline" data-iframe-target="_blank" href="/admin/forums/304921-excel-for-windows-desktop-application/suggestions/9101269-make-the-evaluate-formula-dialog-resizable" title="Admin page for Make the Evaluate Formula dialog resizable">Admin &rarr;</a></span>
+</div>
+
+
+</li>
+<li class="uvListItem uvIdea uvIdea-list">
+
+<div class="uvIdeaHeader">
+  <h2 class="uvIdeaTitle"><a href="/forums/304921-excel-for-windows-desktop-application/suggestions/8944711-allow-the-pivottable-to-not-aggregate-data-e-g-s">Allow the pivottable to not aggregate data (e.g. show values)</a></h2>
+    <div class="uvIdeaDescription uvIdeaDescription-truncated">
+      <div class="typeset"><p>I need to create a matrix in Excel that doesn&#39;t aggregate (e.g. Sum/Count) values.  The question of how to do this has been asked dozens of times online over the last couple of years, but still there is no solution.  Can Excel therefore produce a plain matrix, or allow pivottables to output plain (unmodified) values from the data field list?</p></div>
+    </div>
+  
+</div>
+
+
+<div class="uvIdeaVoteBadge">
+    <div class="uvIdeaVoteCount" data-id="8944711">
+      <strong>5</strong>
+      <span> votes</span>
+    </div>
+  <div class="uvVoter uvVoter-logged_out uvVoterMode-voteable uvVoterStatus-open uvVoteLimit-unlimited" data-closed-reason="">
+  <form novalidate class="uvIdeaVoteForm" method="post" action="" data-forum_id="304921" data-suggestion_id="8944711">
+    <!-- Update to show number of votes cast -->
+    <span class="uvIdeaVoteFormTrigger">
+      <button class="uvIdeaVoteFormTriggerState-no_votes uvStyle-button">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-you_voted uvStyle-button uvStyle-button-selected" id="uvIdeaVoteFormTriggerState-you_voted-8944711" data-singular="Voted!" data-plural="Voted!"></button>
+      <button class="uvIdeaVoteFormTriggerState-out_of_votes uvStyle-button uvStyle-button-disabled uvTip" title="You're out of votes">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-voting_closed uvStyle-button uvStyle-button-disabled uvTip" title="Voting has closed">Vote</button>
+
+        <input type="hidden" name="to" value="1"></input>
+    </span>
+    <!--- end -->
+
+    <div class="uvIdeaVoteFormToggle">
+      <fieldset class="uvIdeaVoteFormFieldset">
+        <div class="uvVoterSigninArea">
+          
+<fieldset class="uvSignin uvSignin-prestine uvFieldset" data-options="{&quot;display_logged_in&quot;:&quot;hidden&quot;,&quot;allow_anonymous&quot;:false,&quot;manually_signinify&quot;:true}"  aria-live="polite" aria-relevant="additions removals">
+  <legend class="uvSigninLegend">Sign in</legend>
+  <div class="uvSigninMode" style="display:none">prestine</div>
+      <div class="uvField uvField-display_name uvField-first">
+        <label class="uvFieldInner" for="display_name_539">
+          <span class="uvFieldPlaceholder">Your name</span>
+          <input class="uvFieldText" type="text" name="display_name" id="display_name_539" title="Your name" />
+        </label>
+      </div>
+      <div class="uvField uvField-email uvField-first">
+        <label class="uvFieldInner" for="email_539">
+          <span class="uvFieldPlaceholder">Your email address</span>
+          <input class="uvFieldText" type="email" name="email" id="email_539" value="" title="Your email address">
+        </label>
+        <div class="uvFieldEtc uvFieldEtc-unprotected">Check!</div>
+        <div class="uvFieldEtc uvFieldEtc-email_invalid">invalid email</div>
+        <div class="uvFieldEtc uvFieldEtc-thinking">(thinking…)</div>
+        <div class="uvFieldEtc uvFieldEtc-reset">Reset</div>
+        <div class="uvFieldEtc uvFieldEtc-providers">
+            <span class="uvFieldEtcLabel">or sign in with</span>
+            <ul>
+                            <li data-provider="facebook"><a href="https://graph.facebook.com/v2.2/oauth/authorize?client_id=46468144668&amp;redirect_uri=https%3A%2F%2Fauth.uservoice.com%2Ffacebook%2F235248&amp;scope=email&amp;display=popup" tabindex="0" title="Sign in via Facebook"><img class="favicon" src="//assets0.uvcdn.com/pkg/shared/favicons/facebook-0ae32c6b9db8433da3bff920000995f0.png" alt="facebook" /></a></li>
+              <li data-provider="google"><a href="https://auth.uservoice.com/google/235248" tabindex="0" title="Sign in via Google"><img class="favicon" src="//assets0.uvcdn.com/pkg/shared/favicons/google-fb06110d524fe305438f815805d6d649.png" alt="google" /></a></li>
+
+            </ul>
+        </div>
+      </div>
+      <div class="uvField uvField-authentication">
+        <ul class="uvFieldEtc uvFieldEtc-providers uvFieldEtc-third_party"></ul>
+        <img alt="Password icon" class="password" src="//assets0.uvcdn.com/pkg/shared/favicons/password-fb2771112fb14e2588f5beba6b59fb95.png" />
+        <div class="password">
+          <label class="uvFieldInner" for="password_539">
+            <span class="uvFieldPlaceholder">UserVoice password</span>
+            <input class="uvFieldPassword" type="password" name="password" id="password_539" title="UserVoice password" />
+          </label>
+          <div class="uvFieldEtc uvFieldEtc-password_invalid"></div>
+          <div class="uvFieldEtc uvFieldEtc-forgot_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Forgot password?</a></div>
+          <div class="uvFieldEtc uvFieldEtc-create_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Create a password</a></div>
+        </div>
+        <div style="clear:both;"></div>
+      </div>
+        <div class="uvField uvField-terms_implicit">
+          <span class="uvFieldInner">I agree to the <a href="/tos" rel="external" target="_blank" title="Opens in new window">terms of service</a></span>
+        </div>
+
+  <div class="uvField uvField-logged_in uvField-first">
+    <span>
+      Signed in as <span class="logged_in_as"></span>
+      (<a href="/logout">Sign out</a>)
+    </span>
+  </div>
+
+  <input type="hidden" name="uninitialized" value="true" />
+</fieldset>
+
+
+        </div>
+        <div class="uvFormFlash uvFormFlash-error">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+<div class="uvFormFlash uvFormFlash-info">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+        <div class="uvIdeaVoteButtons">
+            <p style="margin-bottom: 0.5em">We’ll send you updates on this idea</p>
+            <button class="uvIdeaVoteButton uvStyle-button" type="submit" value="subscribe" name="subscribe">Subscribe</button>
+        </div>
+      </fieldset>
+    </div>
+  </form>
+</div>
+
+</div>
+
+<div class="uvIdeaMeta">
+
+  <a href="/forums/304921-excel-for-windows-desktop-application/suggestions/8944711-allow-the-pivottable-to-not-aggregate-data-e-g-s#comments" title="Comments for Allow the pivottable to not aggregate data (e.g. show values)">1 comment</a><span class='uvUserWithId-none-88737028'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAnonymousOnly uvStyle-link" href="/site/signin?lang=en">Flag idea as inappropriate…</a><button class="uvFlagObject uvUserOnly uvUserOnly-inline uvStyle-link" data-success="Flagged" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/8944711-allow-the-pivottable-to-not-aggregate-data-e-g-s/flags?code=inappropriate" type="button">Flag idea as inappropriate…</button></span><span class='uvUserWithId-inline-88737028' style='display:none'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvSuggestion-dissociate" data-redirect-to="/forums/304921-excel-for-windows-desktop-application" data-supporters-count="5" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/8944711-allow-the-pivottable-to-not-aggregate-data-e-g-s/dissociate" href="#" rel="nofollow" title="Delete suggestion Allow the pivottable to not aggregate data (e.g. show values)">Delete…</a></span><span class='uvAdminOnly uvAdminOnly-inline'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAdminOnly uvAdminOnly-inline" data-iframe-target="_blank" href="/admin/forums/304921-excel-for-windows-desktop-application/suggestions/8944711-allow-the-pivottable-to-not-aggregate-data-e-g-s" title="Admin page for Allow the pivottable to not aggregate data (e.g. show values)">Admin &rarr;</a></span>
+</div>
+
+
+</li>
+<li class="uvListItem uvIdea uvIdea-list">
+
+<div class="uvIdeaHeader">
+  <h2 class="uvIdeaTitle"><a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9175805-graphical-dialog-box-for-if-statements-with-many-c">Graphical dialog box for IF statements with many components.</a></h2>
+    <div class="uvIdeaDescription uvIdeaDescription-truncated">
+      <div class="typeset"><p>Add the first choice, then enter others in a tree structure. The need: IF has a very high error rate. IF in a single line is enormously difficult to understand. Should be much easier to understand and inspect as a tree structure.</p></div>
+    </div>
+  
+</div>
+
+
+<div class="uvIdeaVoteBadge">
+    <div class="uvIdeaVoteCount" data-id="9175805">
+      <strong>1</strong>
+      <span> vote</span>
+    </div>
+  <div class="uvVoter uvVoter-logged_out uvVoterMode-voteable uvVoterStatus-open uvVoteLimit-unlimited" data-closed-reason="">
+  <form novalidate class="uvIdeaVoteForm" method="post" action="" data-forum_id="304921" data-suggestion_id="9175805">
+    <!-- Update to show number of votes cast -->
+    <span class="uvIdeaVoteFormTrigger">
+      <button class="uvIdeaVoteFormTriggerState-no_votes uvStyle-button">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-you_voted uvStyle-button uvStyle-button-selected" id="uvIdeaVoteFormTriggerState-you_voted-9175805" data-singular="Voted!" data-plural="Voted!"></button>
+      <button class="uvIdeaVoteFormTriggerState-out_of_votes uvStyle-button uvStyle-button-disabled uvTip" title="You're out of votes">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-voting_closed uvStyle-button uvStyle-button-disabled uvTip" title="Voting has closed">Vote</button>
+
+        <input type="hidden" name="to" value="1"></input>
+    </span>
+    <!--- end -->
+
+    <div class="uvIdeaVoteFormToggle">
+      <fieldset class="uvIdeaVoteFormFieldset">
+        <div class="uvVoterSigninArea">
+          
+<fieldset class="uvSignin uvSignin-prestine uvFieldset" data-options="{&quot;display_logged_in&quot;:&quot;hidden&quot;,&quot;allow_anonymous&quot;:false,&quot;manually_signinify&quot;:true}"  aria-live="polite" aria-relevant="additions removals">
+  <legend class="uvSigninLegend">Sign in</legend>
+  <div class="uvSigninMode" style="display:none">prestine</div>
+      <div class="uvField uvField-display_name uvField-first">
+        <label class="uvFieldInner" for="display_name_5457">
+          <span class="uvFieldPlaceholder">Your name</span>
+          <input class="uvFieldText" type="text" name="display_name" id="display_name_5457" title="Your name" />
+        </label>
+      </div>
+      <div class="uvField uvField-email uvField-first">
+        <label class="uvFieldInner" for="email_5457">
+          <span class="uvFieldPlaceholder">Your email address</span>
+          <input class="uvFieldText" type="email" name="email" id="email_5457" value="" title="Your email address">
+        </label>
+        <div class="uvFieldEtc uvFieldEtc-unprotected">Check!</div>
+        <div class="uvFieldEtc uvFieldEtc-email_invalid">invalid email</div>
+        <div class="uvFieldEtc uvFieldEtc-thinking">(thinking…)</div>
+        <div class="uvFieldEtc uvFieldEtc-reset">Reset</div>
+        <div class="uvFieldEtc uvFieldEtc-providers">
+            <span class="uvFieldEtcLabel">or sign in with</span>
+            <ul>
+                            <li data-provider="facebook"><a href="https://graph.facebook.com/v2.2/oauth/authorize?client_id=46468144668&amp;redirect_uri=https%3A%2F%2Fauth.uservoice.com%2Ffacebook%2F235248&amp;scope=email&amp;display=popup" tabindex="0" title="Sign in via Facebook"><img class="favicon" src="//assets1.uvcdn.com/pkg/shared/favicons/facebook-0ae32c6b9db8433da3bff920000995f0.png" alt="facebook" /></a></li>
+              <li data-provider="google"><a href="https://auth.uservoice.com/google/235248" tabindex="0" title="Sign in via Google"><img class="favicon" src="//assets1.uvcdn.com/pkg/shared/favicons/google-fb06110d524fe305438f815805d6d649.png" alt="google" /></a></li>
+
+            </ul>
+        </div>
+      </div>
+      <div class="uvField uvField-authentication">
+        <ul class="uvFieldEtc uvFieldEtc-providers uvFieldEtc-third_party"></ul>
+        <img alt="Password icon" class="password" src="//assets0.uvcdn.com/pkg/shared/favicons/password-fb2771112fb14e2588f5beba6b59fb95.png" />
+        <div class="password">
+          <label class="uvFieldInner" for="password_5457">
+            <span class="uvFieldPlaceholder">UserVoice password</span>
+            <input class="uvFieldPassword" type="password" name="password" id="password_5457" title="UserVoice password" />
+          </label>
+          <div class="uvFieldEtc uvFieldEtc-password_invalid"></div>
+          <div class="uvFieldEtc uvFieldEtc-forgot_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Forgot password?</a></div>
+          <div class="uvFieldEtc uvFieldEtc-create_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Create a password</a></div>
+        </div>
+        <div style="clear:both;"></div>
+      </div>
+        <div class="uvField uvField-terms_implicit">
+          <span class="uvFieldInner">I agree to the <a href="/tos" rel="external" target="_blank" title="Opens in new window">terms of service</a></span>
+        </div>
+
+  <div class="uvField uvField-logged_in uvField-first">
+    <span>
+      Signed in as <span class="logged_in_as"></span>
+      (<a href="/logout">Sign out</a>)
+    </span>
+  </div>
+
+  <input type="hidden" name="uninitialized" value="true" />
+</fieldset>
+
+
+        </div>
+        <div class="uvFormFlash uvFormFlash-error">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+<div class="uvFormFlash uvFormFlash-info">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+        <div class="uvIdeaVoteButtons">
+            <p style="margin-bottom: 0.5em">We’ll send you updates on this idea</p>
+            <button class="uvIdeaVoteButton uvStyle-button" type="submit" value="subscribe" name="subscribe">Subscribe</button>
+        </div>
+      </fieldset>
+    </div>
+  </form>
+</div>
+
+</div>
+
+<div class="uvIdeaMeta">
+
+  <a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9175805-graphical-dialog-box-for-if-statements-with-many-c#comments" title="Comments for Graphical dialog box for IF statements with many components.">0 comments</a><span class='uvUserWithId-none-92584373'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAnonymousOnly uvStyle-link" href="/site/signin?lang=en">Flag idea as inappropriate…</a><button class="uvFlagObject uvUserOnly uvUserOnly-inline uvStyle-link" data-success="Flagged" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9175805-graphical-dialog-box-for-if-statements-with-many-c/flags?code=inappropriate" type="button">Flag idea as inappropriate…</button></span><span class='uvUserWithId-inline-92584373' style='display:none'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvSuggestion-dissociate" data-redirect-to="/forums/304921-excel-for-windows-desktop-application" data-supporters-count="1" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9175805-graphical-dialog-box-for-if-statements-with-many-c/dissociate" href="#" rel="nofollow" title="Delete suggestion Graphical dialog box for IF statements with many components.">Delete…</a></span><span class='uvAdminOnly uvAdminOnly-inline'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAdminOnly uvAdminOnly-inline" data-iframe-target="_blank" href="/admin/forums/304921-excel-for-windows-desktop-application/suggestions/9175805-graphical-dialog-box-for-if-statements-with-many-c" title="Admin page for Graphical dialog box for IF statements with many components.">Admin &rarr;</a></span>
+</div>
+
+
+</li>
+<li class="uvListItem uvIdea uvIdea-list">
+
+<div class="uvIdeaHeader">
+  <h2 class="uvIdeaTitle"><a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9095470-a-back-step-button-on-the-formula-editor">A Back-Step Button on the Formula Editor</a></h2>
+    <div class="uvIdeaDescription uvIdeaDescription-truncated">
+      <div class="typeset"><p>I use the formula editor a lot to troubleshoot long formulas. It would be nice to back-step at least 3 steps from the current step.</p>
+
+<p>Say, I&#39;ve got a formula that errors out on the 15th step. I have to start all over again to carefully step through again to see what happened. It would be helpful to go back a few steps, then forward again.</p></div>
+    </div>
+  
+</div>
+
+
+<div class="uvIdeaVoteBadge">
+    <div class="uvIdeaVoteCount" data-id="9095470">
+      <strong>2</strong>
+      <span> votes</span>
+    </div>
+  <div class="uvVoter uvVoter-logged_out uvVoterMode-voteable uvVoterStatus-open uvVoteLimit-unlimited" data-closed-reason="">
+  <form novalidate class="uvIdeaVoteForm" method="post" action="" data-forum_id="304921" data-suggestion_id="9095470">
+    <!-- Update to show number of votes cast -->
+    <span class="uvIdeaVoteFormTrigger">
+      <button class="uvIdeaVoteFormTriggerState-no_votes uvStyle-button">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-you_voted uvStyle-button uvStyle-button-selected" id="uvIdeaVoteFormTriggerState-you_voted-9095470" data-singular="Voted!" data-plural="Voted!"></button>
+      <button class="uvIdeaVoteFormTriggerState-out_of_votes uvStyle-button uvStyle-button-disabled uvTip" title="You're out of votes">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-voting_closed uvStyle-button uvStyle-button-disabled uvTip" title="Voting has closed">Vote</button>
+
+        <input type="hidden" name="to" value="1"></input>
+    </span>
+    <!--- end -->
+
+    <div class="uvIdeaVoteFormToggle">
+      <fieldset class="uvIdeaVoteFormFieldset">
+        <div class="uvVoterSigninArea">
+          
+<fieldset class="uvSignin uvSignin-prestine uvFieldset" data-options="{&quot;display_logged_in&quot;:&quot;hidden&quot;,&quot;allow_anonymous&quot;:false,&quot;manually_signinify&quot;:true}"  aria-live="polite" aria-relevant="additions removals">
+  <legend class="uvSigninLegend">Sign in</legend>
+  <div class="uvSigninMode" style="display:none">prestine</div>
+      <div class="uvField uvField-display_name uvField-first">
+        <label class="uvFieldInner" for="display_name_405">
+          <span class="uvFieldPlaceholder">Your name</span>
+          <input class="uvFieldText" type="text" name="display_name" id="display_name_405" title="Your name" />
+        </label>
+      </div>
+      <div class="uvField uvField-email uvField-first">
+        <label class="uvFieldInner" for="email_405">
+          <span class="uvFieldPlaceholder">Your email address</span>
+          <input class="uvFieldText" type="email" name="email" id="email_405" value="" title="Your email address">
+        </label>
+        <div class="uvFieldEtc uvFieldEtc-unprotected">Check!</div>
+        <div class="uvFieldEtc uvFieldEtc-email_invalid">invalid email</div>
+        <div class="uvFieldEtc uvFieldEtc-thinking">(thinking…)</div>
+        <div class="uvFieldEtc uvFieldEtc-reset">Reset</div>
+        <div class="uvFieldEtc uvFieldEtc-providers">
+            <span class="uvFieldEtcLabel">or sign in with</span>
+            <ul>
+                            <li data-provider="facebook"><a href="https://graph.facebook.com/v2.2/oauth/authorize?client_id=46468144668&amp;redirect_uri=https%3A%2F%2Fauth.uservoice.com%2Ffacebook%2F235248&amp;scope=email&amp;display=popup" tabindex="0" title="Sign in via Facebook"><img class="favicon" src="//assets0.uvcdn.com/pkg/shared/favicons/facebook-0ae32c6b9db8433da3bff920000995f0.png" alt="facebook" /></a></li>
+              <li data-provider="google"><a href="https://auth.uservoice.com/google/235248" tabindex="0" title="Sign in via Google"><img class="favicon" src="//assets1.uvcdn.com/pkg/shared/favicons/google-fb06110d524fe305438f815805d6d649.png" alt="google" /></a></li>
+
+            </ul>
+        </div>
+      </div>
+      <div class="uvField uvField-authentication">
+        <ul class="uvFieldEtc uvFieldEtc-providers uvFieldEtc-third_party"></ul>
+        <img alt="Password icon" class="password" src="//assets1.uvcdn.com/pkg/shared/favicons/password-fb2771112fb14e2588f5beba6b59fb95.png" />
+        <div class="password">
+          <label class="uvFieldInner" for="password_405">
+            <span class="uvFieldPlaceholder">UserVoice password</span>
+            <input class="uvFieldPassword" type="password" name="password" id="password_405" title="UserVoice password" />
+          </label>
+          <div class="uvFieldEtc uvFieldEtc-password_invalid"></div>
+          <div class="uvFieldEtc uvFieldEtc-forgot_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Forgot password?</a></div>
+          <div class="uvFieldEtc uvFieldEtc-create_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Create a password</a></div>
+        </div>
+        <div style="clear:both;"></div>
+      </div>
+        <div class="uvField uvField-terms_implicit">
+          <span class="uvFieldInner">I agree to the <a href="/tos" rel="external" target="_blank" title="Opens in new window">terms of service</a></span>
+        </div>
+
+  <div class="uvField uvField-logged_in uvField-first">
+    <span>
+      Signed in as <span class="logged_in_as"></span>
+      (<a href="/logout">Sign out</a>)
+    </span>
+  </div>
+
+  <input type="hidden" name="uninitialized" value="true" />
+</fieldset>
+
+
+        </div>
+        <div class="uvFormFlash uvFormFlash-error">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+<div class="uvFormFlash uvFormFlash-info">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+        <div class="uvIdeaVoteButtons">
+            <p style="margin-bottom: 0.5em">We’ll send you updates on this idea</p>
+            <button class="uvIdeaVoteButton uvStyle-button" type="submit" value="subscribe" name="subscribe">Subscribe</button>
+        </div>
+      </fieldset>
+    </div>
+  </form>
+</div>
+
+</div>
+
+<div class="uvIdeaMeta">
+
+  <a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9095470-a-back-step-button-on-the-formula-editor#comments" title="Comments for A Back-Step Button on the Formula Editor">0 comments</a><span class='uvUserWithId-none-91268593'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAnonymousOnly uvStyle-link" href="/site/signin?lang=en">Flag idea as inappropriate…</a><button class="uvFlagObject uvUserOnly uvUserOnly-inline uvStyle-link" data-success="Flagged" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9095470-a-back-step-button-on-the-formula-editor/flags?code=inappropriate" type="button">Flag idea as inappropriate…</button></span><span class='uvUserWithId-inline-91268593' style='display:none'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvSuggestion-dissociate" data-redirect-to="/forums/304921-excel-for-windows-desktop-application" data-supporters-count="2" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9095470-a-back-step-button-on-the-formula-editor/dissociate" href="#" rel="nofollow" title="Delete suggestion A Back-Step Button on the Formula Editor">Delete…</a></span><span class='uvAdminOnly uvAdminOnly-inline'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAdminOnly uvAdminOnly-inline" data-iframe-target="_blank" href="/admin/forums/304921-excel-for-windows-desktop-application/suggestions/9095470-a-back-step-button-on-the-formula-editor" title="Admin page for A Back-Step Button on the Formula Editor">Admin &rarr;</a></span>
+</div>
+
+
+</li>
+<li class="uvListItem uvIdea uvIdea-list">
+
+<div class="uvIdeaHeader">
+  <h2 class="uvIdeaTitle"><a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9093772-build-more-tools-to-perform-stochastic-probabili">Build more tools to perform stochastic / probabilistic analysis and Monte Carlo simulation</a></h2>
+    <div class="uvIdeaDescription uvIdeaDescription-truncated">
+      <div class="typeset"><p>1. More inverse cumulative distribution functions (Poisson, Exponential, Negative Binomial, Weibull, etc.);
+<br />2. Ability to confine the distribution between certain values;
+<br />3. Ability to generate / simulate time series;
+<br />4. Ability to sample/simulate all inverse cumulative distribution functions without continuously recalculating the workbook (ex. run the simulation behind the scenes much like the current IRR function operates though iteration);
+<br />5. Ability to correlate distributions;
+<br />6. Ability to run sensitivity analysis on the results;
+<br />It is currently possible to build all of the above functionalities through VBA but having dedicated tools will bring considerable efficiency improvements.</p></div>
+    </div>
+  
+</div>
+
+
+<div class="uvIdeaVoteBadge">
+    <div class="uvIdeaVoteCount" data-id="9093772">
+      <strong>2</strong>
+      <span> votes</span>
+    </div>
+  <div class="uvVoter uvVoter-logged_out uvVoterMode-voteable uvVoterStatus-open uvVoteLimit-unlimited" data-closed-reason="">
+  <form novalidate class="uvIdeaVoteForm" method="post" action="" data-forum_id="304921" data-suggestion_id="9093772">
+    <!-- Update to show number of votes cast -->
+    <span class="uvIdeaVoteFormTrigger">
+      <button class="uvIdeaVoteFormTriggerState-no_votes uvStyle-button">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-you_voted uvStyle-button uvStyle-button-selected" id="uvIdeaVoteFormTriggerState-you_voted-9093772" data-singular="Voted!" data-plural="Voted!"></button>
+      <button class="uvIdeaVoteFormTriggerState-out_of_votes uvStyle-button uvStyle-button-disabled uvTip" title="You're out of votes">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-voting_closed uvStyle-button uvStyle-button-disabled uvTip" title="Voting has closed">Vote</button>
+
+        <input type="hidden" name="to" value="1"></input>
+    </span>
+    <!--- end -->
+
+    <div class="uvIdeaVoteFormToggle">
+      <fieldset class="uvIdeaVoteFormFieldset">
+        <div class="uvVoterSigninArea">
+          
+<fieldset class="uvSignin uvSignin-prestine uvFieldset" data-options="{&quot;display_logged_in&quot;:&quot;hidden&quot;,&quot;allow_anonymous&quot;:false,&quot;manually_signinify&quot;:true}"  aria-live="polite" aria-relevant="additions removals">
+  <legend class="uvSigninLegend">Sign in</legend>
+  <div class="uvSigninMode" style="display:none">prestine</div>
+      <div class="uvField uvField-display_name uvField-first">
+        <label class="uvFieldInner" for="display_name_8421">
+          <span class="uvFieldPlaceholder">Your name</span>
+          <input class="uvFieldText" type="text" name="display_name" id="display_name_8421" title="Your name" />
+        </label>
+      </div>
+      <div class="uvField uvField-email uvField-first">
+        <label class="uvFieldInner" for="email_8421">
+          <span class="uvFieldPlaceholder">Your email address</span>
+          <input class="uvFieldText" type="email" name="email" id="email_8421" value="" title="Your email address">
+        </label>
+        <div class="uvFieldEtc uvFieldEtc-unprotected">Check!</div>
+        <div class="uvFieldEtc uvFieldEtc-email_invalid">invalid email</div>
+        <div class="uvFieldEtc uvFieldEtc-thinking">(thinking…)</div>
+        <div class="uvFieldEtc uvFieldEtc-reset">Reset</div>
+        <div class="uvFieldEtc uvFieldEtc-providers">
+            <span class="uvFieldEtcLabel">or sign in with</span>
+            <ul>
+                            <li data-provider="facebook"><a href="https://graph.facebook.com/v2.2/oauth/authorize?client_id=46468144668&amp;redirect_uri=https%3A%2F%2Fauth.uservoice.com%2Ffacebook%2F235248&amp;scope=email&amp;display=popup" tabindex="0" title="Sign in via Facebook"><img class="favicon" src="//assets1.uvcdn.com/pkg/shared/favicons/facebook-0ae32c6b9db8433da3bff920000995f0.png" alt="facebook" /></a></li>
+              <li data-provider="google"><a href="https://auth.uservoice.com/google/235248" tabindex="0" title="Sign in via Google"><img class="favicon" src="//assets1.uvcdn.com/pkg/shared/favicons/google-fb06110d524fe305438f815805d6d649.png" alt="google" /></a></li>
+
+            </ul>
+        </div>
+      </div>
+      <div class="uvField uvField-authentication">
+        <ul class="uvFieldEtc uvFieldEtc-providers uvFieldEtc-third_party"></ul>
+        <img alt="Password icon" class="password" src="//assets1.uvcdn.com/pkg/shared/favicons/password-fb2771112fb14e2588f5beba6b59fb95.png" />
+        <div class="password">
+          <label class="uvFieldInner" for="password_8421">
+            <span class="uvFieldPlaceholder">UserVoice password</span>
+            <input class="uvFieldPassword" type="password" name="password" id="password_8421" title="UserVoice password" />
+          </label>
+          <div class="uvFieldEtc uvFieldEtc-password_invalid"></div>
+          <div class="uvFieldEtc uvFieldEtc-forgot_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Forgot password?</a></div>
+          <div class="uvFieldEtc uvFieldEtc-create_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Create a password</a></div>
+        </div>
+        <div style="clear:both;"></div>
+      </div>
+        <div class="uvField uvField-terms_implicit">
+          <span class="uvFieldInner">I agree to the <a href="/tos" rel="external" target="_blank" title="Opens in new window">terms of service</a></span>
+        </div>
+
+  <div class="uvField uvField-logged_in uvField-first">
+    <span>
+      Signed in as <span class="logged_in_as"></span>
+      (<a href="/logout">Sign out</a>)
+    </span>
+  </div>
+
+  <input type="hidden" name="uninitialized" value="true" />
+</fieldset>
+
+
+        </div>
+        <div class="uvFormFlash uvFormFlash-error">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+<div class="uvFormFlash uvFormFlash-info">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+        <div class="uvIdeaVoteButtons">
+            <p style="margin-bottom: 0.5em">We’ll send you updates on this idea</p>
+            <button class="uvIdeaVoteButton uvStyle-button" type="submit" value="subscribe" name="subscribe">Subscribe</button>
+        </div>
+      </fieldset>
+    </div>
+  </form>
+</div>
+
+</div>
+
+<div class="uvIdeaMeta">
+
+  <a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9093772-build-more-tools-to-perform-stochastic-probabili#comments" title="Comments for Build more tools to perform stochastic / probabilistic analysis and Monte Carlo simulation">0 comments</a><span class='uvUserWithId-none-91239787'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAnonymousOnly uvStyle-link" href="/site/signin?lang=en">Flag idea as inappropriate…</a><button class="uvFlagObject uvUserOnly uvUserOnly-inline uvStyle-link" data-success="Flagged" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9093772-build-more-tools-to-perform-stochastic-probabili/flags?code=inappropriate" type="button">Flag idea as inappropriate…</button></span><span class='uvUserWithId-inline-91239787' style='display:none'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvSuggestion-dissociate" data-redirect-to="/forums/304921-excel-for-windows-desktop-application" data-supporters-count="2" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9093772-build-more-tools-to-perform-stochastic-probabili/dissociate" href="#" rel="nofollow" title="Delete suggestion Build more tools to perform stochastic / probabilistic analysis and Monte Carlo simulation">Delete…</a></span><span class='uvAdminOnly uvAdminOnly-inline'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAdminOnly uvAdminOnly-inline" data-iframe-target="_blank" href="/admin/forums/304921-excel-for-windows-desktop-application/suggestions/9093772-build-more-tools-to-perform-stochastic-probabili" title="Admin page for Build more tools to perform stochastic / probabilistic analysis and Monte Carlo simulation">Admin &rarr;</a></span>
+</div>
+
+
+</li>
+<li class="uvListItem uvIdea uvIdea-list">
+
+<div class="uvIdeaHeader">
+  <h2 class="uvIdeaTitle"><a href="/forums/304921-excel-for-windows-desktop-application/suggestions/8778229-modernize-conditional-formatting-formula-editing">Modernize conditional formatting formula editing.</a></h2>
+    <div class="uvIdeaDescription uvIdeaDescription-truncated">
+      <div class="typeset"><p>As of 2013, it conditional formatting formula editing is still inconsistent with the regular application, and makes it harder for users to learn conditional formatting, which is one of the more abstract concepts of the early Excel learning process.</p>
+
+<p>Arrow keys are still modifying formulas rather than moving the cursor, for example.</p></div>
+    </div>
+  
+</div>
+
+
+<div class="uvIdeaVoteBadge">
+    <div class="uvIdeaVoteCount" data-id="8778229">
+      <strong>15</strong>
+      <span> votes</span>
+    </div>
+  <div class="uvVoter uvVoter-logged_out uvVoterMode-voteable uvVoterStatus-open uvVoteLimit-unlimited" data-closed-reason="">
+  <form novalidate class="uvIdeaVoteForm" method="post" action="" data-forum_id="304921" data-suggestion_id="8778229">
+    <!-- Update to show number of votes cast -->
+    <span class="uvIdeaVoteFormTrigger">
+      <button class="uvIdeaVoteFormTriggerState-no_votes uvStyle-button">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-you_voted uvStyle-button uvStyle-button-selected" id="uvIdeaVoteFormTriggerState-you_voted-8778229" data-singular="Voted!" data-plural="Voted!"></button>
+      <button class="uvIdeaVoteFormTriggerState-out_of_votes uvStyle-button uvStyle-button-disabled uvTip" title="You're out of votes">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-voting_closed uvStyle-button uvStyle-button-disabled uvTip" title="Voting has closed">Vote</button>
+
+        <input type="hidden" name="to" value="1"></input>
+    </span>
+    <!--- end -->
+
+    <div class="uvIdeaVoteFormToggle">
+      <fieldset class="uvIdeaVoteFormFieldset">
+        <div class="uvVoterSigninArea">
+          
+<fieldset class="uvSignin uvSignin-prestine uvFieldset" data-options="{&quot;display_logged_in&quot;:&quot;hidden&quot;,&quot;allow_anonymous&quot;:false,&quot;manually_signinify&quot;:true}"  aria-live="polite" aria-relevant="additions removals">
+  <legend class="uvSigninLegend">Sign in</legend>
+  <div class="uvSigninMode" style="display:none">prestine</div>
+      <div class="uvField uvField-display_name uvField-first">
+        <label class="uvFieldInner" for="display_name_1621">
+          <span class="uvFieldPlaceholder">Your name</span>
+          <input class="uvFieldText" type="text" name="display_name" id="display_name_1621" title="Your name" />
+        </label>
+      </div>
+      <div class="uvField uvField-email uvField-first">
+        <label class="uvFieldInner" for="email_1621">
+          <span class="uvFieldPlaceholder">Your email address</span>
+          <input class="uvFieldText" type="email" name="email" id="email_1621" value="" title="Your email address">
+        </label>
+        <div class="uvFieldEtc uvFieldEtc-unprotected">Check!</div>
+        <div class="uvFieldEtc uvFieldEtc-email_invalid">invalid email</div>
+        <div class="uvFieldEtc uvFieldEtc-thinking">(thinking…)</div>
+        <div class="uvFieldEtc uvFieldEtc-reset">Reset</div>
+        <div class="uvFieldEtc uvFieldEtc-providers">
+            <span class="uvFieldEtcLabel">or sign in with</span>
+            <ul>
+                            <li data-provider="facebook"><a href="https://graph.facebook.com/v2.2/oauth/authorize?client_id=46468144668&amp;redirect_uri=https%3A%2F%2Fauth.uservoice.com%2Ffacebook%2F235248&amp;scope=email&amp;display=popup" tabindex="0" title="Sign in via Facebook"><img class="favicon" src="//assets1.uvcdn.com/pkg/shared/favicons/facebook-0ae32c6b9db8433da3bff920000995f0.png" alt="facebook" /></a></li>
+              <li data-provider="google"><a href="https://auth.uservoice.com/google/235248" tabindex="0" title="Sign in via Google"><img class="favicon" src="//assets1.uvcdn.com/pkg/shared/favicons/google-fb06110d524fe305438f815805d6d649.png" alt="google" /></a></li>
+
+            </ul>
+        </div>
+      </div>
+      <div class="uvField uvField-authentication">
+        <ul class="uvFieldEtc uvFieldEtc-providers uvFieldEtc-third_party"></ul>
+        <img alt="Password icon" class="password" src="//assets0.uvcdn.com/pkg/shared/favicons/password-fb2771112fb14e2588f5beba6b59fb95.png" />
+        <div class="password">
+          <label class="uvFieldInner" for="password_1621">
+            <span class="uvFieldPlaceholder">UserVoice password</span>
+            <input class="uvFieldPassword" type="password" name="password" id="password_1621" title="UserVoice password" />
+          </label>
+          <div class="uvFieldEtc uvFieldEtc-password_invalid"></div>
+          <div class="uvFieldEtc uvFieldEtc-forgot_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Forgot password?</a></div>
+          <div class="uvFieldEtc uvFieldEtc-create_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Create a password</a></div>
+        </div>
+        <div style="clear:both;"></div>
+      </div>
+        <div class="uvField uvField-terms_implicit">
+          <span class="uvFieldInner">I agree to the <a href="/tos" rel="external" target="_blank" title="Opens in new window">terms of service</a></span>
+        </div>
+
+  <div class="uvField uvField-logged_in uvField-first">
+    <span>
+      Signed in as <span class="logged_in_as"></span>
+      (<a href="/logout">Sign out</a>)
+    </span>
+  </div>
+
+  <input type="hidden" name="uninitialized" value="true" />
+</fieldset>
+
+
+        </div>
+        <div class="uvFormFlash uvFormFlash-error">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+<div class="uvFormFlash uvFormFlash-info">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+        <div class="uvIdeaVoteButtons">
+            <p style="margin-bottom: 0.5em">We’ll send you updates on this idea</p>
+            <button class="uvIdeaVoteButton uvStyle-button" type="submit" value="subscribe" name="subscribe">Subscribe</button>
+        </div>
+      </fieldset>
+    </div>
+  </form>
+</div>
+
+</div>
+
+<div class="uvIdeaMeta">
+
+  <a href="/forums/304921-excel-for-windows-desktop-application/suggestions/8778229-modernize-conditional-formatting-formula-editing#comments" title="Comments for Modernize conditional formatting formula editing.">4 comments</a><span class='uvUserWithId-none-86194393'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAnonymousOnly uvStyle-link" href="/site/signin?lang=en">Flag idea as inappropriate…</a><button class="uvFlagObject uvUserOnly uvUserOnly-inline uvStyle-link" data-success="Flagged" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/8778229-modernize-conditional-formatting-formula-editing/flags?code=inappropriate" type="button">Flag idea as inappropriate…</button></span><span class='uvUserWithId-inline-86194393' style='display:none'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvSuggestion-dissociate" data-redirect-to="/forums/304921-excel-for-windows-desktop-application" data-supporters-count="15" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/8778229-modernize-conditional-formatting-formula-editing/dissociate" href="#" rel="nofollow" title="Delete suggestion Modernize conditional formatting formula editing.">Delete…</a></span><span class='uvAdminOnly uvAdminOnly-inline'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAdminOnly uvAdminOnly-inline" data-iframe-target="_blank" href="/admin/forums/304921-excel-for-windows-desktop-application/suggestions/8778229-modernize-conditional-formatting-formula-editing" title="Admin page for Modernize conditional formatting formula editing.">Admin &rarr;</a></span>
+</div>
+
+
+</li>
+<li class="uvListItem uvIdea uvIdea-list">
+
+<div class="uvIdeaHeader">
+  <h2 class="uvIdeaTitle"><a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9030262-add-icons-for-font-superscript-and-subscript-so-we">Add icons for font superscript and subscript so we can put them on the QAT</a></h2>
+    <div class="uvIdeaDescription uvIdeaDescription-truncated">
+      <div class="typeset"><p>Word has direct access (with icons) on the ribbon for subscripting and superscripting characters, but Excel can do so only via the Home...Font menu item. Scientists and engineers need to use subscript and superscript characters when writing mathematical and chemical formulas. Please copy the subscript and superscript icons in Word, and make them available to the Customize QAT feature.</p></div>
+    </div>
+  
+</div>
+
+
+<div class="uvIdeaVoteBadge">
+    <div class="uvIdeaVoteCount" data-id="9030262">
+      <strong>3</strong>
+      <span> votes</span>
+    </div>
+  <div class="uvVoter uvVoter-logged_out uvVoterMode-voteable uvVoterStatus-open uvVoteLimit-unlimited" data-closed-reason="">
+  <form novalidate class="uvIdeaVoteForm" method="post" action="" data-forum_id="304921" data-suggestion_id="9030262">
+    <!-- Update to show number of votes cast -->
+    <span class="uvIdeaVoteFormTrigger">
+      <button class="uvIdeaVoteFormTriggerState-no_votes uvStyle-button">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-you_voted uvStyle-button uvStyle-button-selected" id="uvIdeaVoteFormTriggerState-you_voted-9030262" data-singular="Voted!" data-plural="Voted!"></button>
+      <button class="uvIdeaVoteFormTriggerState-out_of_votes uvStyle-button uvStyle-button-disabled uvTip" title="You're out of votes">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-voting_closed uvStyle-button uvStyle-button-disabled uvTip" title="Voting has closed">Vote</button>
+
+        <input type="hidden" name="to" value="1"></input>
+    </span>
+    <!--- end -->
+
+    <div class="uvIdeaVoteFormToggle">
+      <fieldset class="uvIdeaVoteFormFieldset">
+        <div class="uvVoterSigninArea">
+          
+<fieldset class="uvSignin uvSignin-prestine uvFieldset" data-options="{&quot;display_logged_in&quot;:&quot;hidden&quot;,&quot;allow_anonymous&quot;:false,&quot;manually_signinify&quot;:true}"  aria-live="polite" aria-relevant="additions removals">
+  <legend class="uvSigninLegend">Sign in</legend>
+  <div class="uvSigninMode" style="display:none">prestine</div>
+      <div class="uvField uvField-display_name uvField-first">
+        <label class="uvFieldInner" for="display_name_408">
+          <span class="uvFieldPlaceholder">Your name</span>
+          <input class="uvFieldText" type="text" name="display_name" id="display_name_408" title="Your name" />
+        </label>
+      </div>
+      <div class="uvField uvField-email uvField-first">
+        <label class="uvFieldInner" for="email_408">
+          <span class="uvFieldPlaceholder">Your email address</span>
+          <input class="uvFieldText" type="email" name="email" id="email_408" value="" title="Your email address">
+        </label>
+        <div class="uvFieldEtc uvFieldEtc-unprotected">Check!</div>
+        <div class="uvFieldEtc uvFieldEtc-email_invalid">invalid email</div>
+        <div class="uvFieldEtc uvFieldEtc-thinking">(thinking…)</div>
+        <div class="uvFieldEtc uvFieldEtc-reset">Reset</div>
+        <div class="uvFieldEtc uvFieldEtc-providers">
+            <span class="uvFieldEtcLabel">or sign in with</span>
+            <ul>
+                            <li data-provider="facebook"><a href="https://graph.facebook.com/v2.2/oauth/authorize?client_id=46468144668&amp;redirect_uri=https%3A%2F%2Fauth.uservoice.com%2Ffacebook%2F235248&amp;scope=email&amp;display=popup" tabindex="0" title="Sign in via Facebook"><img class="favicon" src="//assets1.uvcdn.com/pkg/shared/favicons/facebook-0ae32c6b9db8433da3bff920000995f0.png" alt="facebook" /></a></li>
+              <li data-provider="google"><a href="https://auth.uservoice.com/google/235248" tabindex="0" title="Sign in via Google"><img class="favicon" src="//assets1.uvcdn.com/pkg/shared/favicons/google-fb06110d524fe305438f815805d6d649.png" alt="google" /></a></li>
+
+            </ul>
+        </div>
+      </div>
+      <div class="uvField uvField-authentication">
+        <ul class="uvFieldEtc uvFieldEtc-providers uvFieldEtc-third_party"></ul>
+        <img alt="Password icon" class="password" src="//assets0.uvcdn.com/pkg/shared/favicons/password-fb2771112fb14e2588f5beba6b59fb95.png" />
+        <div class="password">
+          <label class="uvFieldInner" for="password_408">
+            <span class="uvFieldPlaceholder">UserVoice password</span>
+            <input class="uvFieldPassword" type="password" name="password" id="password_408" title="UserVoice password" />
+          </label>
+          <div class="uvFieldEtc uvFieldEtc-password_invalid"></div>
+          <div class="uvFieldEtc uvFieldEtc-forgot_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Forgot password?</a></div>
+          <div class="uvFieldEtc uvFieldEtc-create_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Create a password</a></div>
+        </div>
+        <div style="clear:both;"></div>
+      </div>
+        <div class="uvField uvField-terms_implicit">
+          <span class="uvFieldInner">I agree to the <a href="/tos" rel="external" target="_blank" title="Opens in new window">terms of service</a></span>
+        </div>
+
+  <div class="uvField uvField-logged_in uvField-first">
+    <span>
+      Signed in as <span class="logged_in_as"></span>
+      (<a href="/logout">Sign out</a>)
+    </span>
+  </div>
+
+  <input type="hidden" name="uninitialized" value="true" />
+</fieldset>
+
+
+        </div>
+        <div class="uvFormFlash uvFormFlash-error">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+<div class="uvFormFlash uvFormFlash-info">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+        <div class="uvIdeaVoteButtons">
+            <p style="margin-bottom: 0.5em">We’ll send you updates on this idea</p>
+            <button class="uvIdeaVoteButton uvStyle-button" type="submit" value="subscribe" name="subscribe">Subscribe</button>
+        </div>
+      </fieldset>
+    </div>
+  </form>
+</div>
+
+</div>
+
+<div class="uvIdeaMeta">
+
+  <a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9030262-add-icons-for-font-superscript-and-subscript-so-we#comments" title="Comments for Add icons for font superscript and subscript so we can put them on the QAT">0 comments</a><span class='uvUserWithId-none-90240541'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAnonymousOnly uvStyle-link" href="/site/signin?lang=en">Flag idea as inappropriate…</a><button class="uvFlagObject uvUserOnly uvUserOnly-inline uvStyle-link" data-success="Flagged" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9030262-add-icons-for-font-superscript-and-subscript-so-we/flags?code=inappropriate" type="button">Flag idea as inappropriate…</button></span><span class='uvUserWithId-inline-90240541' style='display:none'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvSuggestion-dissociate" data-redirect-to="/forums/304921-excel-for-windows-desktop-application" data-supporters-count="3" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9030262-add-icons-for-font-superscript-and-subscript-so-we/dissociate" href="#" rel="nofollow" title="Delete suggestion Add icons for font superscript and subscript so we can put them on the QAT">Delete…</a></span><span class='uvAdminOnly uvAdminOnly-inline'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAdminOnly uvAdminOnly-inline" data-iframe-target="_blank" href="/admin/forums/304921-excel-for-windows-desktop-application/suggestions/9030262-add-icons-for-font-superscript-and-subscript-so-we" title="Admin page for Add icons for font superscript and subscript so we can put them on the QAT">Admin &rarr;</a></span>
+</div>
+
+
+</li>
+<li class="uvListItem uvIdea uvIdea-list">
+
+<div class="uvIdeaHeader">
+  <h2 class="uvIdeaTitle"><a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9087853-change-default-percentage-settings">Change Default Percentage Settings</a></h2>
+    <div class="uvIdeaDescription uvIdeaDescription-truncated">
+      <div class="typeset"><p>When you click the Format as Percentage button on the Home Ribbon, it formats with 2 decimal places. No one in the entire world ever uses 2 decimal places for percentages!  I know, I have asked them all :-). </p>
+
+<p>Please make it 1 decimal place by default, or better still allow the user to easily set their own default settings for each of these format number buttons. </p></div>
+    </div>
+  
+</div>
+
+
+<div class="uvIdeaVoteBadge">
+    <div class="uvIdeaVoteCount" data-id="9087853">
+      <strong>2</strong>
+      <span> votes</span>
+    </div>
+  <div class="uvVoter uvVoter-logged_out uvVoterMode-voteable uvVoterStatus-open uvVoteLimit-unlimited" data-closed-reason="">
+  <form novalidate class="uvIdeaVoteForm" method="post" action="" data-forum_id="304921" data-suggestion_id="9087853">
+    <!-- Update to show number of votes cast -->
+    <span class="uvIdeaVoteFormTrigger">
+      <button class="uvIdeaVoteFormTriggerState-no_votes uvStyle-button">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-you_voted uvStyle-button uvStyle-button-selected" id="uvIdeaVoteFormTriggerState-you_voted-9087853" data-singular="Voted!" data-plural="Voted!"></button>
+      <button class="uvIdeaVoteFormTriggerState-out_of_votes uvStyle-button uvStyle-button-disabled uvTip" title="You're out of votes">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-voting_closed uvStyle-button uvStyle-button-disabled uvTip" title="Voting has closed">Vote</button>
+
+        <input type="hidden" name="to" value="1"></input>
+    </span>
+    <!--- end -->
+
+    <div class="uvIdeaVoteFormToggle">
+      <fieldset class="uvIdeaVoteFormFieldset">
+        <div class="uvVoterSigninArea">
+          
+<fieldset class="uvSignin uvSignin-prestine uvFieldset" data-options="{&quot;display_logged_in&quot;:&quot;hidden&quot;,&quot;allow_anonymous&quot;:false,&quot;manually_signinify&quot;:true}"  aria-live="polite" aria-relevant="additions removals">
+  <legend class="uvSigninLegend">Sign in</legend>
+  <div class="uvSigninMode" style="display:none">prestine</div>
+      <div class="uvField uvField-display_name uvField-first">
+        <label class="uvFieldInner" for="display_name_8277">
+          <span class="uvFieldPlaceholder">Your name</span>
+          <input class="uvFieldText" type="text" name="display_name" id="display_name_8277" title="Your name" />
+        </label>
+      </div>
+      <div class="uvField uvField-email uvField-first">
+        <label class="uvFieldInner" for="email_8277">
+          <span class="uvFieldPlaceholder">Your email address</span>
+          <input class="uvFieldText" type="email" name="email" id="email_8277" value="" title="Your email address">
+        </label>
+        <div class="uvFieldEtc uvFieldEtc-unprotected">Check!</div>
+        <div class="uvFieldEtc uvFieldEtc-email_invalid">invalid email</div>
+        <div class="uvFieldEtc uvFieldEtc-thinking">(thinking…)</div>
+        <div class="uvFieldEtc uvFieldEtc-reset">Reset</div>
+        <div class="uvFieldEtc uvFieldEtc-providers">
+            <span class="uvFieldEtcLabel">or sign in with</span>
+            <ul>
+                            <li data-provider="facebook"><a href="https://graph.facebook.com/v2.2/oauth/authorize?client_id=46468144668&amp;redirect_uri=https%3A%2F%2Fauth.uservoice.com%2Ffacebook%2F235248&amp;scope=email&amp;display=popup" tabindex="0" title="Sign in via Facebook"><img class="favicon" src="//assets1.uvcdn.com/pkg/shared/favicons/facebook-0ae32c6b9db8433da3bff920000995f0.png" alt="facebook" /></a></li>
+              <li data-provider="google"><a href="https://auth.uservoice.com/google/235248" tabindex="0" title="Sign in via Google"><img class="favicon" src="//assets1.uvcdn.com/pkg/shared/favicons/google-fb06110d524fe305438f815805d6d649.png" alt="google" /></a></li>
+
+            </ul>
+        </div>
+      </div>
+      <div class="uvField uvField-authentication">
+        <ul class="uvFieldEtc uvFieldEtc-providers uvFieldEtc-third_party"></ul>
+        <img alt="Password icon" class="password" src="//assets1.uvcdn.com/pkg/shared/favicons/password-fb2771112fb14e2588f5beba6b59fb95.png" />
+        <div class="password">
+          <label class="uvFieldInner" for="password_8277">
+            <span class="uvFieldPlaceholder">UserVoice password</span>
+            <input class="uvFieldPassword" type="password" name="password" id="password_8277" title="UserVoice password" />
+          </label>
+          <div class="uvFieldEtc uvFieldEtc-password_invalid"></div>
+          <div class="uvFieldEtc uvFieldEtc-forgot_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Forgot password?</a></div>
+          <div class="uvFieldEtc uvFieldEtc-create_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Create a password</a></div>
+        </div>
+        <div style="clear:both;"></div>
+      </div>
+        <div class="uvField uvField-terms_implicit">
+          <span class="uvFieldInner">I agree to the <a href="/tos" rel="external" target="_blank" title="Opens in new window">terms of service</a></span>
+        </div>
+
+  <div class="uvField uvField-logged_in uvField-first">
+    <span>
+      Signed in as <span class="logged_in_as"></span>
+      (<a href="/logout">Sign out</a>)
+    </span>
+  </div>
+
+  <input type="hidden" name="uninitialized" value="true" />
+</fieldset>
+
+
+        </div>
+        <div class="uvFormFlash uvFormFlash-error">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+<div class="uvFormFlash uvFormFlash-info">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+        <div class="uvIdeaVoteButtons">
+            <p style="margin-bottom: 0.5em">We’ll send you updates on this idea</p>
+            <button class="uvIdeaVoteButton uvStyle-button" type="submit" value="subscribe" name="subscribe">Subscribe</button>
+        </div>
+      </fieldset>
+    </div>
+  </form>
+</div>
+
+</div>
+
+<div class="uvIdeaMeta">
+
+  <a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9087853-change-default-percentage-settings#comments" title="Comments for Change Default Percentage Settings">0 comments</a><span class='uvUserWithId-none-91163137'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAnonymousOnly uvStyle-link" href="/site/signin?lang=en">Flag idea as inappropriate…</a><button class="uvFlagObject uvUserOnly uvUserOnly-inline uvStyle-link" data-success="Flagged" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9087853-change-default-percentage-settings/flags?code=inappropriate" type="button">Flag idea as inappropriate…</button></span><span class='uvUserWithId-inline-91163137' style='display:none'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvSuggestion-dissociate" data-redirect-to="/forums/304921-excel-for-windows-desktop-application" data-supporters-count="2" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9087853-change-default-percentage-settings/dissociate" href="#" rel="nofollow" title="Delete suggestion Change Default Percentage Settings">Delete…</a></span><span class='uvAdminOnly uvAdminOnly-inline'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAdminOnly uvAdminOnly-inline" data-iframe-target="_blank" href="/admin/forums/304921-excel-for-windows-desktop-application/suggestions/9087853-change-default-percentage-settings" title="Admin page for Change Default Percentage Settings">Admin &rarr;</a></span>
+</div>
+
+
+</li>
+<li class="uvListItem uvIdea uvIdea-list">
+
+<div class="uvIdeaHeader">
+  <h2 class="uvIdeaTitle"><a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9087097-make-the-edit-links-dialog-box-resizable">Make the Edit Links Dialog Box Resizable</a></h2>
+    <div class="uvIdeaDescription uvIdeaDescription-truncated">
+      <div class="typeset"><p>The current one is way too narrow. I know there is a work around for this where you increasing the size of one or more columns in the box then close it and reopen it but having it resizable like other dialogs would make so much easier.</p></div>
+    </div>
+  
+</div>
+
+
+<div class="uvIdeaVoteBadge">
+    <div class="uvIdeaVoteCount" data-id="9087097">
+      <strong>2</strong>
+      <span> votes</span>
+    </div>
+  <div class="uvVoter uvVoter-logged_out uvVoterMode-voteable uvVoterStatus-open uvVoteLimit-unlimited" data-closed-reason="">
+  <form novalidate class="uvIdeaVoteForm" method="post" action="" data-forum_id="304921" data-suggestion_id="9087097">
+    <!-- Update to show number of votes cast -->
+    <span class="uvIdeaVoteFormTrigger">
+      <button class="uvIdeaVoteFormTriggerState-no_votes uvStyle-button">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-you_voted uvStyle-button uvStyle-button-selected" id="uvIdeaVoteFormTriggerState-you_voted-9087097" data-singular="Voted!" data-plural="Voted!"></button>
+      <button class="uvIdeaVoteFormTriggerState-out_of_votes uvStyle-button uvStyle-button-disabled uvTip" title="You're out of votes">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-voting_closed uvStyle-button uvStyle-button-disabled uvTip" title="Voting has closed">Vote</button>
+
+        <input type="hidden" name="to" value="1"></input>
+    </span>
+    <!--- end -->
+
+    <div class="uvIdeaVoteFormToggle">
+      <fieldset class="uvIdeaVoteFormFieldset">
+        <div class="uvVoterSigninArea">
+          
+<fieldset class="uvSignin uvSignin-prestine uvFieldset" data-options="{&quot;display_logged_in&quot;:&quot;hidden&quot;,&quot;allow_anonymous&quot;:false,&quot;manually_signinify&quot;:true}"  aria-live="polite" aria-relevant="additions removals">
+  <legend class="uvSigninLegend">Sign in</legend>
+  <div class="uvSigninMode" style="display:none">prestine</div>
+      <div class="uvField uvField-display_name uvField-first">
+        <label class="uvFieldInner" for="display_name_5597">
+          <span class="uvFieldPlaceholder">Your name</span>
+          <input class="uvFieldText" type="text" name="display_name" id="display_name_5597" title="Your name" />
+        </label>
+      </div>
+      <div class="uvField uvField-email uvField-first">
+        <label class="uvFieldInner" for="email_5597">
+          <span class="uvFieldPlaceholder">Your email address</span>
+          <input class="uvFieldText" type="email" name="email" id="email_5597" value="" title="Your email address">
+        </label>
+        <div class="uvFieldEtc uvFieldEtc-unprotected">Check!</div>
+        <div class="uvFieldEtc uvFieldEtc-email_invalid">invalid email</div>
+        <div class="uvFieldEtc uvFieldEtc-thinking">(thinking…)</div>
+        <div class="uvFieldEtc uvFieldEtc-reset">Reset</div>
+        <div class="uvFieldEtc uvFieldEtc-providers">
+            <span class="uvFieldEtcLabel">or sign in with</span>
+            <ul>
+                            <li data-provider="facebook"><a href="https://graph.facebook.com/v2.2/oauth/authorize?client_id=46468144668&amp;redirect_uri=https%3A%2F%2Fauth.uservoice.com%2Ffacebook%2F235248&amp;scope=email&amp;display=popup" tabindex="0" title="Sign in via Facebook"><img class="favicon" src="//assets1.uvcdn.com/pkg/shared/favicons/facebook-0ae32c6b9db8433da3bff920000995f0.png" alt="facebook" /></a></li>
+              <li data-provider="google"><a href="https://auth.uservoice.com/google/235248" tabindex="0" title="Sign in via Google"><img class="favicon" src="//assets1.uvcdn.com/pkg/shared/favicons/google-fb06110d524fe305438f815805d6d649.png" alt="google" /></a></li>
+
+            </ul>
+        </div>
+      </div>
+      <div class="uvField uvField-authentication">
+        <ul class="uvFieldEtc uvFieldEtc-providers uvFieldEtc-third_party"></ul>
+        <img alt="Password icon" class="password" src="//assets0.uvcdn.com/pkg/shared/favicons/password-fb2771112fb14e2588f5beba6b59fb95.png" />
+        <div class="password">
+          <label class="uvFieldInner" for="password_5597">
+            <span class="uvFieldPlaceholder">UserVoice password</span>
+            <input class="uvFieldPassword" type="password" name="password" id="password_5597" title="UserVoice password" />
+          </label>
+          <div class="uvFieldEtc uvFieldEtc-password_invalid"></div>
+          <div class="uvFieldEtc uvFieldEtc-forgot_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Forgot password?</a></div>
+          <div class="uvFieldEtc uvFieldEtc-create_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Create a password</a></div>
+        </div>
+        <div style="clear:both;"></div>
+      </div>
+        <div class="uvField uvField-terms_implicit">
+          <span class="uvFieldInner">I agree to the <a href="/tos" rel="external" target="_blank" title="Opens in new window">terms of service</a></span>
+        </div>
+
+  <div class="uvField uvField-logged_in uvField-first">
+    <span>
+      Signed in as <span class="logged_in_as"></span>
+      (<a href="/logout">Sign out</a>)
+    </span>
+  </div>
+
+  <input type="hidden" name="uninitialized" value="true" />
+</fieldset>
+
+
+        </div>
+        <div class="uvFormFlash uvFormFlash-error">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+<div class="uvFormFlash uvFormFlash-info">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+        <div class="uvIdeaVoteButtons">
+            <p style="margin-bottom: 0.5em">We’ll send you updates on this idea</p>
+            <button class="uvIdeaVoteButton uvStyle-button" type="submit" value="subscribe" name="subscribe">Subscribe</button>
+        </div>
+      </fieldset>
+    </div>
+  </form>
+</div>
+
+</div>
+
+<div class="uvIdeaMeta">
+
+  <a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9087097-make-the-edit-links-dialog-box-resizable#comments" title="Comments for Make the Edit Links Dialog Box Resizable">0 comments</a><span class='uvUserWithId-none-91152337'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAnonymousOnly uvStyle-link" href="/site/signin?lang=en">Flag idea as inappropriate…</a><button class="uvFlagObject uvUserOnly uvUserOnly-inline uvStyle-link" data-success="Flagged" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9087097-make-the-edit-links-dialog-box-resizable/flags?code=inappropriate" type="button">Flag idea as inappropriate…</button></span><span class='uvUserWithId-inline-91152337' style='display:none'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvSuggestion-dissociate" data-redirect-to="/forums/304921-excel-for-windows-desktop-application" data-supporters-count="2" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9087097-make-the-edit-links-dialog-box-resizable/dissociate" href="#" rel="nofollow" title="Delete suggestion Make the Edit Links Dialog Box Resizable">Delete…</a></span><span class='uvAdminOnly uvAdminOnly-inline'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAdminOnly uvAdminOnly-inline" data-iframe-target="_blank" href="/admin/forums/304921-excel-for-windows-desktop-application/suggestions/9087097-make-the-edit-links-dialog-box-resizable" title="Admin page for Make the Edit Links Dialog Box Resizable">Admin &rarr;</a></span>
+</div>
+
+
+</li>
+<li class="uvListItem uvIdea uvIdea-list">
+
+<div class="uvIdeaHeader">
+  <h2 class="uvIdeaTitle"><a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9085807-make-excel-print-exactly-as-shown-on-screen">Make Excel Print exactly as shown on screen.</a></h2>
+    <div class="uvIdeaDescription uvIdeaDescription-truncated">
+      <div class="typeset"><p>When text is included in an Excel spreadsheet, the printout can differ radically from the view on screen. Lines that fitted within a cell are suddenly too long, causing words to drop down and lines to disappear. Even if the layout is perfect on screen and in print preview, the hard copy version goes awry. This was a problem in Office 2003 and Office 2010 and now it&#39;s happening in Office 2013. Please fix it. </p></div>
+    </div>
+  
+</div>
+
+
+<div class="uvIdeaVoteBadge">
+    <div class="uvIdeaVoteCount" data-id="9085807">
+      <strong>2</strong>
+      <span> votes</span>
+    </div>
+  <div class="uvVoter uvVoter-logged_out uvVoterMode-voteable uvVoterStatus-open uvVoteLimit-unlimited" data-closed-reason="">
+  <form novalidate class="uvIdeaVoteForm" method="post" action="" data-forum_id="304921" data-suggestion_id="9085807">
+    <!-- Update to show number of votes cast -->
+    <span class="uvIdeaVoteFormTrigger">
+      <button class="uvIdeaVoteFormTriggerState-no_votes uvStyle-button">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-you_voted uvStyle-button uvStyle-button-selected" id="uvIdeaVoteFormTriggerState-you_voted-9085807" data-singular="Voted!" data-plural="Voted!"></button>
+      <button class="uvIdeaVoteFormTriggerState-out_of_votes uvStyle-button uvStyle-button-disabled uvTip" title="You're out of votes">Vote</button>
+      <button class="uvIdeaVoteFormTriggerState-voting_closed uvStyle-button uvStyle-button-disabled uvTip" title="Voting has closed">Vote</button>
+
+        <input type="hidden" name="to" value="1"></input>
+    </span>
+    <!--- end -->
+
+    <div class="uvIdeaVoteFormToggle">
+      <fieldset class="uvIdeaVoteFormFieldset">
+        <div class="uvVoterSigninArea">
+          
+<fieldset class="uvSignin uvSignin-prestine uvFieldset" data-options="{&quot;display_logged_in&quot;:&quot;hidden&quot;,&quot;allow_anonymous&quot;:false,&quot;manually_signinify&quot;:true}"  aria-live="polite" aria-relevant="additions removals">
+  <legend class="uvSigninLegend">Sign in</legend>
+  <div class="uvSigninMode" style="display:none">prestine</div>
+      <div class="uvField uvField-display_name uvField-first">
+        <label class="uvFieldInner" for="display_name_4331">
+          <span class="uvFieldPlaceholder">Your name</span>
+          <input class="uvFieldText" type="text" name="display_name" id="display_name_4331" title="Your name" />
+        </label>
+      </div>
+      <div class="uvField uvField-email uvField-first">
+        <label class="uvFieldInner" for="email_4331">
+          <span class="uvFieldPlaceholder">Your email address</span>
+          <input class="uvFieldText" type="email" name="email" id="email_4331" value="" title="Your email address">
+        </label>
+        <div class="uvFieldEtc uvFieldEtc-unprotected">Check!</div>
+        <div class="uvFieldEtc uvFieldEtc-email_invalid">invalid email</div>
+        <div class="uvFieldEtc uvFieldEtc-thinking">(thinking…)</div>
+        <div class="uvFieldEtc uvFieldEtc-reset">Reset</div>
+        <div class="uvFieldEtc uvFieldEtc-providers">
+            <span class="uvFieldEtcLabel">or sign in with</span>
+            <ul>
+                            <li data-provider="facebook"><a href="https://graph.facebook.com/v2.2/oauth/authorize?client_id=46468144668&amp;redirect_uri=https%3A%2F%2Fauth.uservoice.com%2Ffacebook%2F235248&amp;scope=email&amp;display=popup" tabindex="0" title="Sign in via Facebook"><img class="favicon" src="//assets1.uvcdn.com/pkg/shared/favicons/facebook-0ae32c6b9db8433da3bff920000995f0.png" alt="facebook" /></a></li>
+              <li data-provider="google"><a href="https://auth.uservoice.com/google/235248" tabindex="0" title="Sign in via Google"><img class="favicon" src="//assets0.uvcdn.com/pkg/shared/favicons/google-fb06110d524fe305438f815805d6d649.png" alt="google" /></a></li>
+
+            </ul>
+        </div>
+      </div>
+      <div class="uvField uvField-authentication">
+        <ul class="uvFieldEtc uvFieldEtc-providers uvFieldEtc-third_party"></ul>
+        <img alt="Password icon" class="password" src="//assets0.uvcdn.com/pkg/shared/favicons/password-fb2771112fb14e2588f5beba6b59fb95.png" />
+        <div class="password">
+          <label class="uvFieldInner" for="password_4331">
+            <span class="uvFieldPlaceholder">UserVoice password</span>
+            <input class="uvFieldPassword" type="password" name="password" id="password_4331" title="UserVoice password" />
+          </label>
+          <div class="uvFieldEtc uvFieldEtc-password_invalid"></div>
+          <div class="uvFieldEtc uvFieldEtc-forgot_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Forgot password?</a></div>
+          <div class="uvFieldEtc uvFieldEtc-create_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Create a password</a></div>
+        </div>
+        <div style="clear:both;"></div>
+      </div>
+        <div class="uvField uvField-terms_implicit">
+          <span class="uvFieldInner">I agree to the <a href="/tos" rel="external" target="_blank" title="Opens in new window">terms of service</a></span>
+        </div>
+
+  <div class="uvField uvField-logged_in uvField-first">
+    <span>
+      Signed in as <span class="logged_in_as"></span>
+      (<a href="/logout">Sign out</a>)
+    </span>
+  </div>
+
+  <input type="hidden" name="uninitialized" value="true" />
+</fieldset>
+
+
+        </div>
+        <div class="uvFormFlash uvFormFlash-error">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+<div class="uvFormFlash uvFormFlash-info">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+        <div class="uvIdeaVoteButtons">
+            <p style="margin-bottom: 0.5em">We’ll send you updates on this idea</p>
+            <button class="uvIdeaVoteButton uvStyle-button" type="submit" value="subscribe" name="subscribe">Subscribe</button>
+        </div>
+      </fieldset>
+    </div>
+  </form>
+</div>
+
+</div>
+
+<div class="uvIdeaMeta">
+
+  <a href="/forums/304921-excel-for-windows-desktop-application/suggestions/9085807-make-excel-print-exactly-as-shown-on-screen#comments" title="Comments for Make Excel Print exactly as shown on screen.">0 comments</a><span class='uvUserWithId-none-91133185'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAnonymousOnly uvStyle-link" href="/site/signin?lang=en">Flag idea as inappropriate…</a><button class="uvFlagObject uvUserOnly uvUserOnly-inline uvStyle-link" data-success="Flagged" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9085807-make-excel-print-exactly-as-shown-on-screen/flags?code=inappropriate" type="button">Flag idea as inappropriate…</button></span><span class='uvUserWithId-inline-91133185' style='display:none'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvSuggestion-dissociate" data-redirect-to="/forums/304921-excel-for-windows-desktop-application" data-supporters-count="2" data-url="/api/v1/forums/304921-excel-for-windows-desktop-application/suggestions/9085807-make-excel-print-exactly-as-shown-on-screen/dissociate" href="#" rel="nofollow" title="Delete suggestion Make Excel Print exactly as shown on screen.">Delete…</a></span><span class='uvAdminOnly uvAdminOnly-inline'> <span class="uvStyle-separator">&nbsp;&middot;&nbsp;</span> <a class="uvAdminOnly uvAdminOnly-inline" data-iframe-target="_blank" href="/admin/forums/304921-excel-for-windows-desktop-application/suggestions/9085807-make-excel-print-exactly-as-shown-on-screen" title="Admin page for Make Excel Print exactly as shown on screen.">Admin &rarr;</a></span>
+</div>
+
+
+</li>
+
+</ol>
+
+<div class="uvPagination">
+  <a class="previous_page" rel="prev" href="/forums/304921-excel-for-windows-desktop-application/filters/none?page=3">&larr; Previous</a> <a rel="start" href="/forums/304921-excel-for-windows-desktop-application/filters/none?page=1">1</a> <a href="/forums/304921-excel-for-windows-desktop-application/filters/none?page=2">2</a> <a rel="prev" href="/forums/304921-excel-for-windows-desktop-application/filters/none?page=3">3</a> <em class="current">4</em> <a rel="next" href="/forums/304921-excel-for-windows-desktop-application/filters/none?page=5">5</a> <a href="/forums/304921-excel-for-windows-desktop-application/filters/none?page=6">6</a> <a href="/forums/304921-excel-for-windows-desktop-application/filters/none?page=7">7</a> <a href="/forums/304921-excel-for-windows-desktop-application/filters/none?page=8">8</a> <a href="/forums/304921-excel-for-windows-desktop-application/filters/none?page=9">9</a> <a class="next_page" rel="next" href="/forums/304921-excel-for-windows-desktop-application/filters/none?page=5">Next &rarr;</a>
+</div>
+
+          </section>
+            <div id="uvNewIdeaCap" class="uvTabs">
+              <ul class="uvTabsLeft">
+                <li class="uvTab-createidea-group"><span class="uvTabSpace">Don't see your idea?</span></li>
+                <li class="uvTab-createidea-group"><button type="button" class="uvStyle-button uvTab-createidea" id="add_suggestion">Post a new idea…</button></li>
+              </ul>
+            </div>
+ 
+      </article>
+      <!-- end -->
+
+    </div>
+    <div class="uvCol-4 uvSidebar uvCol-last">
+      <div class="uvModule uvModule-session" aria-live="polite" aria-relevant="additions removals">
+  <section class="uvModuleSection uvModuleSection-userbox uvModuleSection-signin">
+      <p class="uvStyle-signin">New and returning users may <a href="/signin">sign in</a></p>
+    <form novalidate class="uvjSigninStandalone">
+      
+<fieldset class="uvSignin uvSignin-prestine uvSignin-default uvFieldset" data-options="{&quot;subclass&quot;:&quot;StandaloneSignin&quot;}"  aria-live="polite" aria-relevant="additions removals" data-subclass='StandaloneSignin'>
+  <legend class="uvSigninLegend">Sign in</legend>
+  <div class="uvSigninMode" style="display:none">prestine</div>
+      <div class="uvField uvField-display_name uvField-first">
+        <label class="uvFieldInner" for="display_name_5490">
+          <span class="uvFieldPlaceholder">Your name</span>
+          <input class="uvFieldText" type="text" name="display_name" id="display_name_5490" title="Your name" />
+        </label>
+      </div>
+      <div class="uvField uvField-email uvField-first">
+        <label class="uvFieldInner" for="email_5490">
+          <span class="uvFieldPlaceholder">Your email address</span>
+          <input class="uvFieldText" type="email" name="email" id="email_5490" value="" title="Your email address">
+        </label>
+        <div class="uvFieldEtc uvFieldEtc-unprotected">Check!</div>
+        <div class="uvFieldEtc uvFieldEtc-email_invalid">invalid email</div>
+        <div class="uvFieldEtc uvFieldEtc-thinking">(thinking…)</div>
+        <div class="uvFieldEtc uvFieldEtc-reset">Reset</div>
+        <div class="uvFieldEtc uvFieldEtc-providers">
+            <span class="uvFieldEtcLabel">or sign in with</span>
+            <ul>
+                            <li data-provider="facebook"><a href="https://graph.facebook.com/v2.2/oauth/authorize?client_id=46468144668&amp;redirect_uri=https%3A%2F%2Fauth.uservoice.com%2Ffacebook%2F235248&amp;scope=email&amp;display=popup" tabindex="0" title="Sign in via Facebook"><img class="favicon" src="//assets1.uvcdn.com/pkg/shared/favicons/facebook-0ae32c6b9db8433da3bff920000995f0.png" alt="facebook" /></a></li>
+              <li data-provider="google"><a href="https://auth.uservoice.com/google/235248" tabindex="0" title="Sign in via Google"><img class="favicon" src="//assets0.uvcdn.com/pkg/shared/favicons/google-fb06110d524fe305438f815805d6d649.png" alt="google" /></a></li>
+
+            </ul>
+        </div>
+      </div>
+      <div class="uvField uvField-authentication">
+        <ul class="uvFieldEtc uvFieldEtc-providers uvFieldEtc-third_party"></ul>
+        <img alt="Password icon" class="password" src="//assets0.uvcdn.com/pkg/shared/favicons/password-fb2771112fb14e2588f5beba6b59fb95.png" />
+        <div class="password">
+          <label class="uvFieldInner" for="password_5490">
+            <span class="uvFieldPlaceholder">UserVoice password</span>
+            <input class="uvFieldPassword" type="password" name="password" id="password_5490" title="UserVoice password" />
+          </label>
+          <div class="uvFieldEtc uvFieldEtc-password_invalid"></div>
+          <div class="uvFieldEtc uvFieldEtc-forgot_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Forgot password?</a></div>
+          <div class="uvFieldEtc uvFieldEtc-create_password"><a href="/users/forgot_password" class="uvFieldEtc-password_reset">Create a password</a></div>
+        </div>
+        <div style="clear:both;"></div>
+      </div>
+        <div class="uvField uvField-terms_implicit">
+          <span class="uvFieldInner">I agree to the <a href="/tos" rel="external" target="_blank" title="Opens in new window">terms of service</a></span>
+        </div>
+
+  <div class="uvField uvField-logged_in uvField-first">
+    <span>
+      Signed in as <span class="logged_in_as"></span>
+      (<a href="/logout">Sign out</a>)
+    </span>
+  </div>
+
+  <input type="hidden" name="uninitialized" value="true" />
+</fieldset>
+
+
+      <div class="uvFormFlash uvFormFlash-error">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+<div class="uvFormFlash uvFormFlash-info">
+  <div class="uvFormFlashMessage"></div>
+  <a class="uvFormFlashClose" href="#close">Close</a>
+</div>
+
+      <div class="submit_region">
+  <button class="uvFieldEtc-submit-button uvStyle-button">Sign in</button>
+  <ul class="button-states-language">
+    <li class="sign-in-button-text">Sign in</li>
+    <li class="sign-up-button-text">Sign up</li>
+  </ul>
+  <button class="uvFieldEtc-cancel-page">Cancel</button>
+</div>
+
+
+    </form>
+  </section>
+</div>
+
+      
+
+  
+
+    <div class="uvModule uvModule-feedback">
+      <header class="uvModuleHeader" style="display: none;">
+        <h1 class="uvCustomPrimary-color"><span class="uvModuleTriggerTwirl"></span> Feedback</h1>
+      </header>
+
+
+      <section class="uvModuleSection uvModuleSection-categories">
+          <h2 class="uvModuleSectionHeader uvCustomPrimary-color">
+            Excel for Windows (Desktop Application)
+          </h2>
+        <ul class="uvList uvList-categories">
+            <li class="uvListItem uvListItem-newIdea uvListItem-ideaTrigger"><a href="/forums/304921-excel-for-windows-desktop-application">Post a new idea…</a></li>
+          <li class="uvListItem uvListItem-selected"><a href="/forums/304921-excel-for-windows-desktop-application">All ideas</a></li>
+          <li class="uvListItem uvForumFilter-user"><a href="/forums/304921-excel-for-windows-desktop-application/filters/my_feedback">My feedback</a></li>
+        </ul>
+      </section>
+
+    </div>
+
+
+
+
+<div class="uvModule uvModule-mainSidebar">
+
+  <header class="uvModuleHeader hide" style="position: absolute;">
+    <!-- Header should be present for screenreaders, but hidden, we need an accessible class for this -->
+    <h1 class="uvCustomPrimary-color hidden"><span class="uvModuleTriggerTwirl"></span> Feedback and Knowledge Base</h1>
+    <!-- end -->
+  </header>
+
+  <section class="uvModuleSection uvModuleSection-search">
+    <form action="/api/v1/search?weight_minimum=40&lang=en">
+      <div class="uvField uvField-search">
+        <label class="uvFieldInner" for="combined_search_sidebar">
+        <!-- this should be a search for knowledgebase and helpdesk. -->
+          <span class="uvFieldPlaceholder">Search</span>
+          <input class="uvFieldText" name="query" type="text" id="combined_search_sidebar">
+
+          <script type="text/x-jquery-tmpl" id="uvSearch-template-articles">
+            <h4 class="uvNavListItemSubtitle">${total_articles} {{if total_articles > 1}}articles{{else}}article{{/if}}</h4>
+            <ul class="uvList uvList-searchResults">
+              {{each(i, article) articles}}
+                <li class="uvListItem uvListItem-searchResult" data-search-weight="${article.weight}">
+                  <a href="${article.path}">${article.question}</a>
+                </li>
+              {{/each}}
+            </ul>
+            {{if more_articles}}
+              <p class="uvSearch-more-results"><a href="/search?filter=articles&query=${response_data.query}">More articles &rarr;</a></p>
+            {{/if}}
+          </script>
+
+          <script type="text/x-jquery-tmpl" id="uvSearch-template-ideas">
+            <h4 class="uvNavListItemSubtitle">${total_suggestions} {{if total_suggestions > 1}}ideas{{else}}idea{{/if}}</h4>
+            <ul class="uvList uvList-searchResults">
+              {{each(i, idea) suggestions}}
+                <li class="uvListItem uvListItem-searchResult" data-search-weight="${idea.weight}">
+                {{if idea.status && idea.status.name}}
+                  <em class="uvStyle-status uvStyle-status-${idea.status.key}"
+                      title="This idea is ${idea.status.name} ${$.tmplHelpers.toLocalDate(idea.updated_at, '- updated %date%')}">${idea.status.name}</em>
+                {{/if}}
+                  <a href="${idea.path}">
+                    ${idea.title}
+                  </a>
+                </li>
+              {{/each}}
+            </ul>
+            {{if more_suggestions}}
+              <p class="uvSearch-more-results"><a href="/search?filter=ideas&query=${response_data.query}">More ideas &rarr;</a></p>
+            {{/if}}
+          </script>
+
+          <script type="text/x-jquery-tmpl" id="uvSearch-template-title">
+            {{if searching}}
+              Searching&hellip;
+            {{else}}
+              <a href="/search?filter=merged&query=${query}">Search results</a>
+            {{/if}}
+          </script>
+        </label>
+        <button class="uvFieldButton uvStyle-button" type="submit"><span class="uvFieldButtonImage-sidebar">Search</span></button>
+          <div class="uvFieldEtc uvFieldEtc-thinking">(thinking…)</div>
+          <button type="reset" class="uvFieldEtc uvFieldEtc-reset">Reset</button>
+      </div>
+    </form>
+    <ul class="uvNavList">
+      <li class="uvNavListItem uvNavListItem-search uvSearch-results-container" style="display: none;">
+        <h2 class="uvNavListItemTitle uvSearch-results-title uvCustomPrimary-color">
+          Searching&hellip;
+        </h2>
+        <div id="uvSearch-results-articles" class="uvSearchResults uvSearchResults-articles"></div>
+        <div id="uvSearch-results-ideas" class="uvSearchResults uvSearchResults-ideas"></div>
+        <p class="uvNoResults">No results.</p>
+        <a href="/forums/304921-excel-for-windows-desktop-application" class="uvSearch-results-clear">Clear search results</a>
+      </li>
+    </ul>
+  </section>
+
+  <section class="uvModuleSection">
+    <ul class="uvNavList">
+
+
+        <li class="uvNavListItem uvNavListItem-feedback">
+          <h2 class="uvNavListItemTitle">
+            <a class="uvLink-idea" href="/forums/274580-excel-online">Give feedback</a>
+          </h2>
+          <ul class="uvList uvList-forums" data-tmpl="sidebarForumsTmpl">
+              <li class="uvListItem uvListItem-forum uvListItem-forum-304939">
+                <a href="/forums/304939-excel-for-android" title="View all ideas in Excel for Android">Excel for Android</a>&nbsp;<span class="uvStyle-count">2<span class="uvStyle-count-label"> ideas</span></span>
+              </li>
+              <li class="uvListItem uvListItem-forum uvListItem-forum-304936">
+                <a href="/forums/304936-excel-for-ipad-iphone-ios" title="View all ideas in Excel for iPad &amp; iPhone (iOS)">Excel for iPad &amp; iPhone (iOS)</a>&nbsp;<span class="uvStyle-count">3<span class="uvStyle-count-label"> ideas</span></span>
+              </li>
+              <li class="uvListItem uvListItem-forum uvListItem-forum-304933">
+                <a href="/forums/304933-excel-for-mac" title="View all ideas in Excel for Mac">Excel for Mac</a>&nbsp;<span class="uvStyle-count">44<span class="uvStyle-count-label"> ideas</span></span>
+              </li>
+              <li class="uvListItem uvListItem-forum uvListItem-forum-304921 uvListItem-selected">
+                <a href="/forums/304921-excel-for-windows-desktop-application" title="View all ideas in Excel for Windows (Desktop Application)">Excel for Windows (Desktop Application)</a>&nbsp;<span class="uvStyle-count">169<span class="uvStyle-count-label"> ideas</span></span>
+              </li>
+              <li class="uvListItem uvListItem-forum uvListItem-forum-304927">
+                <a href="/forums/304927-excel-for-windows-mobile-application" title="View all ideas in Excel for Windows (Mobile Application) ">Excel for Windows (Mobile Application) </a>&nbsp;<span class="uvStyle-count">3<span class="uvStyle-count-label"> ideas</span></span>
+              </li>
+              <li class="uvListItem uvListItem-forum uvListItem-forum-274580">
+                <a href="/forums/274580-excel-online" title="View all ideas in Excel Online">Excel Online</a>&nbsp;<span class="uvStyle-count">122<span class="uvStyle-count-label"> ideas</span></span>
+              </li>
+          </ul>
+        </li>
+
+
+      <li class="uvNavListItem uvNavListItem-home">
+        <h2 class="uvNavListItemTitle">
+          <a class="uvLink-home" href="http://office.com">Office.com</a>
+        </h2>
+      </li>
+
+    </ul>
+  </section>
+
+</div>
+
+
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  UserVoice.push(['track', 'view_forum', { id: 304921 }]);
+</script>
+
+
+      <footer class="uvContainer uvFooter">
+  <div class="uvRow">
+    <div class="uvCol-12">
+      <p>
+        
+          <a href="http://office.com">Office.com</a>
+          <span class="uvStyle-separator"> &middot; </span>
+        
+        <a href="/" class='site-frontpage-link'>Welcome to Excel&#39;s Suggestion Box!</a>
+        <span class="uvStyle-separator"> &middot; </span>
+        <a href="/tos">Terms of Service &amp; Privacy Policy</a>
+      </p>
+      
+      <p>
+        
+      </p>
+    </div>
+  </div>
+</footer>
+
+  </div>
+
+  <script id="uv-user-panel" type="text/x-jquery-tmpl">
+    <section class="uvModuleSection uvModuleSection-userbox uvModuleSection-signout">
+      <div class="vcard">
+        <a class="url" href="${user.uservoice_url}">
+          <span class="uvUserBadge">
+            <img alt="" class="uvUserBadgePhoto photo" src="${user.avatar_url}" width="40">
+          </span>
+          <span class="fn">${user.name}</span>
+        </a>
+        {{if (!user.remembered) }}
+        <span class="uvRememberMe">(<a href="/remember_me" title="Click this link to stay signed in on this computer even after your browser is closed.">Stay signed in</a>)</span>
+        {{/if}}
+      </div>
+      <div class="uvUserNav">
+        <a class="url" href="${user.uservoice_url}">Settings</a>
+        {{if user.roles.admin}}
+          <span class="uvStyle-separator">&middot;</span>
+          <a href="https://excel.uservoice.com/admin">Admin Console</a>
+        {{/if}}
+        <span class="uvStyle-separator">&middot;</span>
+        <a href="/logout">Sign out</a>
+      </div>
+    </section>
+  </script>
+
+
+  <script type="text/javascript">
+    var current_forum_id = 304921;
+  </script>
+
+  <script id="portalForumsTmpl" type="text/x-jquery-tmpl">
+    <li class="uvListItem{{if current_forum_id==id}} uvListItem-selected{{/if}} uvListItem-forum-${id}">
+      <h4 class="uvListItemHeader">
+        <a href="${url}">${name}</a>
+        {{if is_private}}
+         <span class="uvIcon-private-16">(private)</span>
+        {{/if}}
+      </h4>
+      <div class="uvListItemFooter">${idea_count} <span class="uvStyle-count-label">ideas</span></div>
+    </li>
+  </script>
+
+  <script id="portalAltForumsTmpl" type="text/x-jquery-tmpl">
+    <li class="uvListItem{{if current_forum_id==id}} uvListItem-selected{{/if}} uvListItem-forum-${id}">
+      <h4 class="uvListItemHeader">
+        <a href="${url}">${name}</a>
+        {{if is_private}}
+         <span class="uvIcon-private-10">(private)</span>
+        {{/if}}
+      </h4>
+      <p class="uvStyle-meta">
+        ${idea_count}
+        ideas
+      </p>
+    </li>
+  </script>
+
+  <script id="sidebarForumsTmpl" type="text/x-jquery-tmpl">
+    <li class="uvListItem uvListItem-forum{{if current_forum_id==id}} uvListItem-selected{{/if}} uvListItem-forum-${id}">
+      <a href="${url}" title="View all ideas in ${name}">${name}</a>
+      {{if is_private}}
+        <span class="uvIcon-private-10">(private)</span>
+      {{/if}}
+      &nbsp;<span class="uvStyle-count">${idea_count} <span class="uvStyle-count-label">ideas</span></span>
+    </li>
+  </script>
+
+  <script src="//assets0.uvcdn.com/pkg/clients/site2-7017fef1ba8289bd2b6c1804e996dcfb.js"></script>
+  <script type="text/javascript">
+  (function($) { $.uvMessages = {"cookies-disabled":"Uh-oh! Cookies are disabled. Access the feedback forum directly at \u003Ca href=\"https://excel.uservoice.com/forums/304921-excel-for-windows-desktop-application\" style=\"color: #fff; text-decoration: underline;\" target=\"_blank\"\u003Ehttps://excel.uservoice.com/forums/304921-excel-for-windows-desktop-application\u003C/a\u003E or enable cookies in your browser settings and refresh this page.","communication-error":"Server communication problems! Please try again.","submit-error":"Sorry, we couldn't submit your request.","voting-submit-error":"We couldn't submit your vote at this time.","out-of-votes-error":"Sorry, we couldn't submit your idea since you're out of votes.","required-fields-error":"Whoops! Please fill in all required fields before continuing.","email-invalid-error":"Invalid email address!","password-invalid-error":"Invalid password!","terms-invalid-error":"You must accept the terms to continue.","large-file-error":"Whoops! You are attempting to upload a file that is too big. Please attach a smaller file and try again.","try-again-error":"Error! Try again.","saving":"Saving","saved":"Saved","nonmatching-passwords":"Passwords must match","password-updated":"Your password has been updated","sent":"Sent!","delete-comment":"Are you sure you want to delete your comment?","delete-suggestion":"Are you sure you want to delete your idea?","dissociate-suggestion":"Since other people support this idea, you cannot delete it. However, you can remove yourself from this idea and it will be associated with 'Anonymous'\n\nAre you sure you want to remove yourself from this idea?"}; })(jQuery || UV.jQuery);
+</script>
+
+
+
+  <script type="text/javascript">
+    var currentUser = null;
+    var currentUserVersion = parseInt("0", 10);
+
+    var currentClient = {
+      client_key: "gZeCbBzX01PKSz5Yfi7Ew",
+      client_secret: "92AACiTjbe87laBt16zUWkibE0Ght3poXND4hGir0",
+      subdomain_key: "excel"
+      , forum_id: 304921
+    };
+  </script>
+
+  <script type="text/javascript">
+  window.fbAsyncInit = function() {
+    (function($) {
+    })(jQuery || UV.jQuery);
+  };
+</script>
+<script type="text/javascript">
+  (function() {
+    var e = document.createElement('script');
+    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js#xfbml=1&appId='+46468144668;
+    e.async = true;
+    document.getElementById('fb-root').appendChild(e);
+  }());
+</script>
+
+
+
+    <script type="text/javascript">
+      window.UserVoice || (window.UserVoice = []);
+
+        UserVoice.push(['set', {"contact_us":true,"contact_enabled":true,"post_idea_enabled":false,"custom_template_id":35512}]);
+
+      UserVoice.push(['set', 'locale', 'en']);
+
+
+      (function() {
+        var uv = document.createElement('script'); uv.type = 'text/javascript'; uv.async = true;
+        uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') +  'widget.uservoice.com/gZeCbBzX01PKSz5Yfi7Ew.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s);
+      })();
+    </script>
+
+  <!-- start Mixpanel --><script type="text/javascript">var mpq=[];mpq.push(["init","21070e89b14d1c143a1f3155e0c00b01"]);(function(){var b,a,e,d,c;b=document.createElement("script");b.type="text/javascript";b.async=true;b.src=(document.location.protocol==="https:"?"https:":"http:")+"//api.mixpanel.com/site_media/js/api/mixpanel.js";a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a);e=function(f){return function(){mpq.push([f].concat(Array.prototype.slice.call(arguments,0)))}};d=["init","track","track_links","track_forms","register","register_once","identify","name_tag","set_config"];for(c=0;c< d.length;c++){mpq[d[c]]=e(d[c])}})();
+</script><!-- end Mixpanel -->
+
+<script type="text/javascript">
+  // each subdomain to have a separate set of super properties
+  mpq.set_config({ cross_subdomain_cookie: false });
+
+  // Default to anonymous if user not logged in
+  mpq.register({
+    'Anonymous': true
+  });
+
+    mpq.register({
+      'Subdomain':   'excel',
+      'Product':     'UserVoice'
+    });
+</script>
+  <script type="text/javascript">
+    
+  </script>
+
+
+</body>
+</html>
