@@ -35,17 +35,44 @@ function getFiles(pattern){
 }
 
 function getIdeas(contents){
-	var reg = new RegExp('(<h2 class="uvIdeaTitle"><a href=")([\w/-]+)(">)', 'g');
+	var reg = new RegExp('(<h2 class="uvIdeaTitle"><a href=")([\\w/-]+)(">)', 'g');
 	var matches = reg.exec(contents);
-	
+	var results = { "matches": [] };
 	if(matches){
-		return matches;
+		// matches must be divisible by 4: 1 for the match and 3 for the capturing classes
+		for (var i = 2; i < matches.length; i = i + 4)
+		{
+			results.matches.push({"urlPartial": matches[i]});
+		}
 	}
 	else{
-		return 'not found';
+		results.matches.push({'not found': 'not found'});
 	}
+	return results;
 }
 
+function getVotes(contents){
+	var reg = new RegExp('(<div class="uvIdeaVoteCount" data-id=")(\\d+)(">[\\t |\\r |\\n ]*<strong>)(\\d+)(</strong>)','g');
+	var matches = reg.exec(contents);
+	var results = { "matches" : [] };
+	//console.log(matches);
+	if(matches){
+		// matches must be divisible by 6: 1 for the match and 5 for the capturing classes
+		for (var i = 5; i < matches.length; i = i + 6)
+		{
+			var found = {};
+			found.dataId = matches[i-3];
+			found.voteCount = matches[i-1]
+			results.matches.push(found);
+		}
+	}
+	else{
+		results.matches.push({'not found': 'not found'});
+	}
+	return results;
+}
+
+module.exports.getVotes = getVotes;
 module.exports.getIdeas = getIdeas;
 module.exports.getFiles = getFiles;
 module.exports.getMatch = getMatch;

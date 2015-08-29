@@ -44,9 +44,36 @@ describe('data extraction tests', function () {
     
     it('gets a valid idea from the chunk of text', function(){
         var matches = dt.getIdeas(validIdeaString);
-        expect(matches).not.to.have.length(0);
-        console.log(matches);
+        expect(matches.matches[0]).to.contain.keys("urlPartial");
     })
+    
+    it('gets a not found from the chunk of text', function(){
+        var matches = dt.getIdeas(invalidIdeaString);
+        expect(matches.matches.pop()).to.contain.key('not found');
+    })
+    
+    it('gets a vote data-id from the chunk of text', function(){
+        var matches = dt.getVotes(validVoteString);
+        expect(matches.matches[0]).to.contain.key('dataId');
+        expect(matches.matches[0]["dataId"]).to.equal('9316875');
+    })
+    
+    it('gets a vote number from the chunk of text', function() {
+        var matches = dt.getVotes(validVoteString);
+        expect(matches.matches[0]["voteCount"]).to.equal('2');
+    })
+    
+    it('gets a not found from the chunk of text', function(){
+        var matches = dt.getVotes(invalidVoteString);
+        expect(matches.matches.pop()).to.contain.key('not found');
+    })
+    
+    
+    //!!!!!!!!!!!!!!!!!!!!!
+    // SHOULD DO THE VOTES AND IDEAS FOR MULTIPLES NOW, NOT JUST ONE
+    //!!!!!!!!!!!!!!!!!!!!!!!!
+    
+    
     
     // it('should update a document in the database from a string', function(done) {
     //     var stringtoupdate = 'MaxRow:-1;MaxCol:-1,LastRow:-1;LastCol:-1';
