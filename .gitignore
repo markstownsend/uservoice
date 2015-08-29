@@ -23,7 +23,6 @@ build/Release
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 node_modules
 
-
 # Data directory, will just save the source and data.json, no need for the original files
 data/*.txt
 
