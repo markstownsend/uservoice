@@ -90,7 +90,22 @@ describe('data extraction tests', function () {
     it('gets both votes from the chunk of text', function(){
         var matches = dt.getVotes(validMultipleVoteString);
         expect(matches.matches).to.have.length(2);
-    })
+    })  
+    
+    it('gets a valid json from the given text', function(done){
+        var ideas = {"matches": [{"urlPartial": '/forums/304936-excel-for-ipad-iphone-ios/suggestions/9316845-add-pivot-table-functionality', "dataId": '9316875', "ideaSummary": ' allow naming of ranges and tables'}]}
+        var votes = {"matches": [{"dataId": '9316875', "voteCount": '3'}]};
+        var url = 'https://excel.uservoice.com';
+        dt.getJsonChild(ideas.matches, votes.matches, url, function(error, data){
+            if(error) {
+                console.error(error);
+            }
+            else {
+                expect(data).not.to.contain('9316875');
+            }
+            done();
+        });
+     })
     
     
     

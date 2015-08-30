@@ -102,14 +102,24 @@ function getVotes(contents){
 
 // matches the ideas and the votes
 // use the callback to emit a finished json string
-function getJson(ideas, votes, url, cb){
-	
-	
-	
-	
+function getJsonChild(ideas, votes, url, cb){
+	ideas.forEach(function(value, index, array){
+		var found = votes.filter(function(vote){
+			return value.dataId === vote.dataId});
+		if(found) {
+			var out = {};
+			out.name = value.ideaSummary;
+			out.url = url + value.urlPartial;
+			out.votes = found[0]["voteCount"];
+			cb(null, JSON.stringify(out));
+		} else {
+			throw Error('dataId: ' + value.dataId + ' not found in votes');
+		}
+	})
 }
 
 
+module.exports.getJsonChild = getJsonChild;
 module.exports.getVotes = getVotes;
 module.exports.getIdeas = getIdeas;
 module.exports.getFiles = getFiles;
