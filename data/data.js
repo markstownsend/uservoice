@@ -12,8 +12,10 @@ glob('*.txt', function(er, files){
 		}
 });
 
-function getMatch(regEx, matchIn){
-	
+function getFiles(pattern){
+	var matchingFiles = [];
+	matchingFiles = glob.sync(pattern);
+	return matchingFiles;
 }
 
 function getBaseUrl(contents){
@@ -28,12 +30,6 @@ function getBaseUrl(contents){
 	}
 }
 
-function getFiles(pattern){
-	var matchingFiles = [];
-	matchingFiles = glob.sync(pattern);
-	return matchingFiles;
-}
-
 // gets the ideas out of the text
 function getIdeas(contents){
 	var reg = new RegExp('(<h2 class="uvIdeaTitle"><a href=")([\\w/-]+)(">)', 'g');
@@ -45,7 +41,11 @@ function getIdeas(contents){
 		// matches must be divisible by 4: 1 for the match and 3 for the capturing classes
 		if(myArray.length === 4){
 			matched = true;
-			results.matches.push({"urlPartial": myArray[2]});
+			var found = {};
+			found.urlPartial = myArray[2];
+			found.dataId = getDataIdFromUrl(myArray[2]);
+			found.ideaSummary = getIdeaSummaryFromUrl(myArray[2]);
+			results.matches.push(found);
 		}	
 	}
 	
@@ -53,6 +53,28 @@ function getIdeas(contents){
 	
 	return results;
 	
+}
+
+function getDataIdFromUrl(url)
+{
+	var reg = new RegExp('(\\d+)([-\\w]+)$','i');
+	var matches = reg.exec(url);
+	if(matches){
+		return matches[1];
+	} else {
+		return 'not found';
+	}
+	
+}
+
+function getIdeaSummaryFromUrl(url){
+	var reg = new RegExp('(\\d+)([-\\w]+)$','i');
+	var matches = reg.exec(url);
+	if(matches){
+		return matches[2].toString().replace(/-/g, " ");
+	} else {
+		return 'not found';
+	}
 }
 
 // gets the votes out of the text
@@ -79,14 +101,16 @@ function getVotes(contents){
 }
 
 // matches the ideas and the votes
-function getJson(ideas, votes, subject){
+// use the callback to emit a finished json string
+function getJson(ideas, votes, url, cb){
 	
 	
 	
 	
 }
+
+
 module.exports.getVotes = getVotes;
 module.exports.getIdeas = getIdeas;
 module.exports.getFiles = getFiles;
-module.exports.getMatch = getMatch;
 module.exports.getBaseUrl = getBaseUrl;
