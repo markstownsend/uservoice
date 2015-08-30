@@ -10,8 +10,10 @@ describe('data extraction tests', function () {
 	
 	var validIdeaString;
 	var invalidIdeaString;
+    var validMultipleIdeaString;
     var validVoteString;
 	var invalidVoteString;
+    var validMultipleVoteString;
     var validBaseUrlString;
     var invalidBaseUrlString;
     var dirGlob;
@@ -19,8 +21,10 @@ describe('data extraction tests', function () {
 	beforeEach(function(){
 		validIdeaString = '<li class="uvListItem uvIdea uvIdea-list"><div class="uvIdeaHeader"><h2 class="uvIdeaTitle"><a href="/forums/304936-excel-for-ipad-iphone-ios/suggestions/9316875-allow-naming-of-ranges-and-tables">Allow naming of ranges and tables</a></h2><div class="uvIdeaDescription uvIdeaDescription-truncated"><div class="typeset"><p>Currently, cannot edit names of ranges or tables. Naming is an extremely helpful feature when dealing with other limitations of the mobile versions.</p></div></div><div class="uvIdeaHeader"><h2 class="uvIdeaTitle"><a href="/forums/304936-excel-for-ipad-iphone-ios/suggestions/9316845-add-pivot-table-functionality">Add pivot table functionality</a></h2><div class="uvIdeaDescription uvIdeaDescription-truncated"><div class="typeset"><p>Allow creation and design of pivot tables</p></div></div></div>';
 		invalidIdeaString = 'some string without the data I need in it';
+        validMultipleIdeaString = '<li class="uvListItem uvIdea uvIdea-list"><div class="uvIdeaHeader"><h2 class="uvIdeaTitle"><a href="/forums/304936-excel-for-ipad-iphone-ios/suggestions/9316875-allow-naming-of-ranges-and-tables">Allow naming of ranges and tables</a></h2><div class="uvIdeaDescription uvIdeaDescription-truncated"><div class="typeset"><p>Currently, cannot edit names of ranges or tables. Naming is an extremely helpful feature when dealing with other limitations of the mobile versions.</p></div></div><div class="uvIdeaHeader"><h2 class="uvIdeaTitle"><a href="/forums/304936-excel-for-ipad-iphone-ios/suggestions/9316845-add-pivot-table-functionality">Add pivot table functionality</a></h2><div class="uvIdeaDescription uvIdeaDescription-truncated"><div class="typeset"><p>Allow creation and design of pivot tables</p></div></div></div><li class="uvListItem uvIdea uvIdea-list"><div class="uvIdeaHeader"><h2 class="uvIdeaTitle"><a href="/forums/304936-excel-for-ipad-iphone-ios/suggestions/9316875-allow-naming-of-ranges-and-tables">Allow naming of ranges and tables</a></h2><div class="uvIdeaDescription uvIdeaDescription-truncated"><div class="typeset"><p>Currently, cannot edit names of ranges or tables. Naming is an extremely helpful feature when dealing with other limitations of the mobile versions.</p></div></div><div class="uvIdeaHeader"><h2 class="uvIdeaTitle"><a href="/forums/304936-excel-for-ipad-iphone-ios/suggestions/9316875-allow-naming-of-ranges-and-tables">Add pivot table functionality</a></h2><div class="uvIdeaDescription uvIdeaDescription-truncated"><div class="typeset"><p>Allow creation and design of pivot tables</p></div></div></div>';
         validVoteString = '<div class="uvIdeaVoteBadge"><div class="uvIdeaVoteCount" data-id="9316875"><strong>2</strong><span> votes</span></div>';
         invalidVoteString = 'some string without the vote bit in it';
+        validMultipleVoteString = '<div class="uvIdeaVoteBadge"><div class="uvIdeaVoteCount" data-id="9316875"><strong>2</strong><span> votes</span></div><div class="uvIdeaVoteBadge"><div class="uvIdeaVoteCount" data-id="9316845"><strong>3</strong><span> votes</span></div>';
         validBaseUrlString = '<link rel="P3Pv1" href="/w3c/p3p.xml"><link rel="canonical" href="https://excel.uservoice.com/forums/304939-excel-for-android" /><script type="text/javascript">(function(w';
         invalidBaseUrlString = 'some string without a base url in it';
         dirGlob = 'C:\\mark\\uservoice\\data\\*.txt';
@@ -68,10 +72,15 @@ describe('data extraction tests', function () {
         expect(matches.matches.pop()).to.contain.key('not found');
     })
     
+    it('gets all four ideas from the chunk of text', function(){
+        var matches = dt.getIdeas(validMultipleIdeaString);
+        expect(matches.matches).to.have.length(4);
+    })
     
-    //!!!!!!!!!!!!!!!!!!!!!
-    // SHOULD DO THE VOTES AND IDEAS FOR MULTIPLES NOW, NOT JUST ONE
-    //!!!!!!!!!!!!!!!!!!!!!!!!
+    it('gets both votes from the chunk of text', function(){
+        var matches = dt.getVotes(validMultipleVoteString);
+        expect(matches.matches).to.have.length(2);
+    })
     
     
     
