@@ -110,7 +110,7 @@ function getJsonChild(ideas, votes, url, cb){
 			var out = {};
 			out.name = value.ideaSummary;
 			out.url = url + value.urlPartial;
-			out.votes = found[0]["voteCount"];
+			out.votes = parseInt(found[0]["voteCount"]);
 			cb(null, JSON.stringify(out));
 		} else {
 			throw Error('dataId: ' + value.dataId + ' not found in votes');

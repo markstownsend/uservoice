@@ -5,223 +5,197 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
     <style type="text/css">
         
-        /*.chart {
-            fill: red;
-        }
-        
         .chart text {
-            fill: white;
-            font: 10px sans-serif;
-            text-anchor: end;
+            fill: black;
+            font: 12px sans-serif ;
+            text-anchor: start;
         }
         
-        .bar.ipad {fill: orange;}
-        .bar.android {fill: green;}
-        .bar.desktop {fill: blue;}*/
-        
-        .node {
-          cursor: pointer;
+        .textContainer {
+            fill-opacity:0.4;
+            stroke-width: 0.5;
+            stroke: green;
         }
         
-        .node:hover {
-          stroke: black;
-          stroke-width: 1.5px;
+        .android{
+          fill: rgb(253,127,0);
         }
         
-        .node--leaf {
-          fill: grey;
+        .desktop{
+          fill: rgb(255,255,51);
         }
         
-        .label {
-          font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
-          text-anchor: middle;
-          text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+        .ipad{
+          fill: rgb(153,153,153);
+        }
+        
+        .mac{
+          fill: rgb(247,129,191);
+        }
+        
+        .online{
+          fill: rgb(55,126,184);
+        }
+        
+        .universal{
+          fill: rgb(228,26,28);
+        }
+        
+        .axis text {
+          font: 10px sans-serif;
         }
 
-        /*.label*/
-        .node--root,
-        .node--leaf {
-          /*pointer-events: none;*/
+        .axis path,
+        .axis line {
+            fill: none;
+            stroke: #000;
+            shape-rendering: crispEdges;
         }
 
     </style>
 </head>
 <body>
-    <!--<svg class="chart"></svg> -->
+    <svg class="chart"></svg>
     <script>
 
-//----------------------------BAR CHART -----------------------------------
-        // var margin = {top: 20, right: 20, bottom: 30, left: 40};
-        // var width = 600 - margin.left - margin.right;
-      // //var height = 600 - margin.top - margin.bottom;
-        // var barHeight = 20;
-
-        // var data;
+        var margin = {top: 100, right: 20, bottom: 30, left: 40};
+        var width = 600 - margin.left - margin.right;
+        var barHeight = 20;
  
-        // var x = d3.scale.linear()
-        //     .domain([1,50])
-        //     .range([1,500]);
+        var x = d3.scale.linear()
+            .domain([0, 110])
+            .range([1,width]);
             
-        // var chart = d3.select(".chart")
-        //     .attr("width", width)
+        var xAxis = d3.svg.axis()
+          .scale(x)
+          .orient("top");
+            
+        var chart = d3.select(".chart")
+            .attr("width", width)
+            .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+            
+        var legend = chart.append("g")
+        legend.append("rect")
+          .attr("width", "70")
+          .attr("height", barHeight - 1)
+          .attr("class", "android")
+          .attr("transform", "translate(0, -40)");
+          
+       legend.append("text")
+          .attr("x", 4)
+          .attr("y", -31)
+          .attr("dy", ".35em")
+          .text("android");
+          
+        legend.append("rect")
+          .attr("width", "70")
+          .attr("height", barHeight - 1)
+          .attr("class", "desktop")
+          .attr("transform", "translate(80, -40)");
+          
+        legend.append("text")
+          .attr("x", 84)
+          .attr("y", -31)
+          .attr("dy", ".35em")
+          .text("desktop");
+          
+        legend.append("rect")
+          .attr("width", "70")
+          .attr("height", barHeight - 1)
+          .attr("class", "ipad")
+          .attr("transform", "translate(160, -40)");
+          
+        legend.append("text")
+          .attr("x", 164)
+          .attr("y", -31)
+          .attr("dy", ".35em")
+          .text("ipad");
+          
+         legend.append("rect")
+          .attr("width", "70")
+          .attr("height", barHeight - 1)
+          .attr("class", "mac")
+          .attr("transform", "translate(240, -40)");
+          
+         legend.append("text")
+          .attr("x", 244)
+          .attr("y", -31)
+          .attr("dy", ".35em")
+          .text("mac");
+          
+         legend.append("rect")
+          .attr("width", "70")
+          .attr("height", barHeight - 1)
+          .attr("class", "online")
+          .attr("transform", "translate(320, -40)");
+          
+         legend.append("text")
+          .attr("x", 324)
+          .attr("y", -31)
+          .attr("dy", ".35em")
+          .text("online");
+          
+         legend.append("rect")
+          .attr("width", "70")
+          .attr("height", barHeight - 1)
+          .attr("class", "universal")
+          .attr("transform", "translate(400, -40)");
+          
+        legend.append("text")
+          .attr("x", 404)
+          .attr("y", -31)
+          .attr("dy", ".35em")
+          .text("universal");
                     
-        // d3.json('data.json', function(error, json){
-        //     if(error) return console.warn(error);
-        //     data=json.ideas;
-        //     console.log(data);
-        //     chart.attr("height", barHeight * data.length);
-        //     var bar = chart.selectAll("g")
-        //         .data(data)
-        //     .enter().append("g")
-        //         .attr("transform", function(d, i) { return "translate(0," + i * barHeight + ")"; });
-                
-        //     bar.append("rect")
-        //         .attr("width", function(d) { return x(d.votes); })
-        //         .attr("height", barHeight - 1)
-        //         .attr("class", function(d) {return "bar " + d.subject;})
-                
-        //     bar.append("text")
-        //         .attr("x", function(d) { return x(d.votes) - 3; })
-        //         .attr("y", barHeight / 2)
-        //         .attr("dy", ".35em")
-        //         .text(function(d) { return d.title; })
-        //         .on("click", function(d) {window.open(d.url);});
-       // });
-//------------------------------- BAR CHART END --------------------------------
-
-//------------------------------- BUBBLE CHART ---------------------------------
-//        var diameter = 960,
-//         format = d3.format(".d"),
-//         color = d3.scale.category10();
-        
-//        var bubble = d3.layout.pack()
-//             .sort(d3.descending)
-//             .size([diameter, diameter])
-//             .padding(1.5);
+        d3.json('data2.json', function(error, root){
+            if(error) throw error;
             
-//        var svg = d3.select("body").append("svg")
-//         .attr("width", diameter)
-//         .attr("height", diameter)
-//         .attr("class", "bubble");
-        
-//         d3.json("data2.json", function(error, root){
-//             if(error) throw error;
-//             //var data = json.ideas;
-//             var node = svg.selectAll(".node")
-//                 .data(bubble.nodes(classes(root))
-//                 .filter(function(d) { return !d.children;}))
-//               .enter().append("g")
-//                 .attr("class", "node")
-//                 .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
-           
-//            node.append("title")
-//             .text(function(d)  { return d.name; });
-            
-//            node.append("circle")
-//                 .attr("r", function(d) { return d.value; })
-//                 .style("fill", function(d) { return color(d.subject);})
-//                 .on("click", function(d){window.open(d.link)});
+            var focus = root,
+              nodes = classes(root);
+              
+            chart.attr("height", barHeight * nodes.children.length);
+
+            var bar = chart.selectAll("g")
+                .data(nodes.children)
+            .enter().append("g")
+                .attr("transform", function(d, i) { return "translate(0," + i * barHeight + ")"; });
                 
-//           node.append("text")
-//                 .attr("dy", ".3em")
-//                 .style("text-anchor", "middle")
-//                 .text(function(d) { return d.value + ": " + d.name});     
+            bar.append("rect")
+                .attr("width", function(d) { return x(d.value); })
+                .attr("height", barHeight - 1)
+                .attr("class", function(d) {return "bar " + d.subject;})
+                
+            bar.append("text")
+                .attr("x", function(d) { return x(d.value) - 3; })
+                .attr("y", barHeight / 2)
+                .attr("dy", ".35em")
+                .text(function(d) { return "Votes: " + d.value + ": " + d.name; })
+                .on("click", function(d) {window.open(d.link);});
             
-//         });
-       
-//        // Returns a flattened hierarchy containing all leaf nodes under the root.
-// function classes(root) {
-//   var classes = [];
+            bar.append("rect")
+                .attr("x", function(d) { return x(d.value) - 3; })
+                .attr("width", function(d){return width - x(d.value);})
+                .attr("height", barHeight - 1)
+                .attr("class", "textContainer")
+                .on("click", function(d) {window.open(d.link);});  
+       }); 
 
-//   function recurse(name, node) {
-//     if (node.children) node.children.forEach(function(child) { recurse(node.name, child); });
-//     else classes.push({subject: name, name: node.name, value: node.votes, link: node.url});
-//   }
-
-//   recurse(null, root);
-//   return {children: classes};
-// }
-
-//d3.select(self.frameElement).style("height", diameter + "px");
-//----------------------------------- BUBBLE CHART END ----------------------------------
-
-var margin= 20,
-  diameter = 960;
-  
-var color = d3.scale.linear()
-  .domain([[-1,5]])
-  .range(["hsl(152,80%,80%)", "hsl(228,30%,40%)"])
-  .interpolate(d3.interpolateHcl);
-  
-var pack = d3.layout.pack()
-  .padding(2)
-  .size([diameter - margin, diameter - margin])
-  .value(function(d) { return d.votes; });
-    
-var svg = d3.select("body").append("svg")
-  .attr("width", diameter)
-  .attr("height", diameter)
-.append("g")
-  .attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
-
-d3.json("data2.json", function(error, root) {
-  if(error) throw error;
-  
-  var focus = root,
-    nodes = pack.nodes(root),
-    view;
-    
-  var circle = svg.selectAll("circle")
-    .data(nodes)
-  .enter().append("circle")
-    .attr("class", function(d) { return d.parent ? d.children ? "node" : "node node--leaf" : "node node--root";})
-    .style("fill", function(d) { return d.children ? color(d.depth) : null; })
-    .on("click", function(d) { if (focus !== d) zoom(d), d3.event.stopPropagation(); });
-    
-  var text = svg.selectAll("text")
-    .data(nodes)
-  .enter().append("text")
-    .attr("class", "label")
-    .style("fill-opacity", function(d) { return d.parent === root ? 1 : 0; })
-    .style("display", function(d) { return d.parent === root ? null : "none";})
-    .text(function(d) { return d.name; })
-    .on("click", function(d){ window.open(d.url); });
-    
- var node = svg.selectAll("circle,text");
- 
- d3.select("body")
-  .style("background", color(-1))
-  .on("click", function() { zoom(root); });
-  
-zoomTo([root.x, root.y, root.r * 2 + margin]);
-
-function zoom(d) {
-    var focus0 = focus; focus = d;
-    
-    var transition = d3.transition()
-      .duration(d3.event.altKey ? 7500 : 750)
-      .tween("zoom", function(d) {
-        var i = d3.interpolateZoom(view, [focus.x, focus.y, focus.r * 2 + margin]);
-        return function(t) { zoomTo(i(t)); };
-      });
+       // Returns a flattened hierarchy containing all leaf nodes under the root.
+      function classes(root) {
+        var classes = [];
       
-   transition.selectAll("text")
-    .filter(function(d) { return d.parent === focus || this.style.display === "inline"; })
-      .style("fill-opacity", function(d) { return d.parent === focus ? 1 : 0; })
-      .each("start", function(d) { if (d.parent === focus) this.style.display = "inline"; })
-      .each("end", function(d) { if (d.parent !== focus) this.style.display = "none"; });
+        function recurse(name, node) {
+          if (node.children) node.children.forEach(function(child) { recurse(node.name, child); });
+          else classes.push({subject: name, name: node.name, value: node.votes, link: node.url});
+        }
       
-}
+        recurse(null, root);
+        classes.sort(function(a,b) {
+          return parseInt(b.value) - parseInt(a.value);
+        });
   
-function zoomTo(v) {
-  var k = diameter / v[2]; view = v;
-  node.attr("transform", function(d) { return "translate(" + (d.x - v[0]) * k + "," + (d.y - v[1]) * k + ")"; });
-  circle.attr("r", function(d) { return d.r * k; });
-}
-});
-
-d3.select(self.frameElement).style("height", diameter + "px");
-
+      return {children: classes};
+    }
     </script>
 </body>
 </html>

@@ -106,21 +106,4 @@ describe('data extraction tests', function () {
             done();
         });
      })
-    
-    
-    
-    // it('should update a document in the database from a string', function(done) {
-    //     var stringtoupdate = 'MaxRow:-1;MaxCol:-1,LastRow:-1;LastCol:-1';
-    //     var data = fb.getObjectFromString(stringtoupdate);
-    //     var docId = "fe977f656407fd32060e193abe2f152210ab1f71";
-    //     ch.update(db, "poistats", "in-place", docId, data, function(err, resp){
-    //         if(err){
-    //             console.log(err);
-    //         } else 
-    //         {
-    //             expect(resp).to.contain('MaxRow');
-    //         }
-    //         done();
-    //     })
-    // })
 });
